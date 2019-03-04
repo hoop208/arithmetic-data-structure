@@ -6,6 +6,8 @@
 
 [计数算法可视化解读](https://www.bilibili.com/video/av33888999/)
 
+[数据结构排序算法之桶排序演示](https://www.bilibili.com/video/av17940595/)
+
 
 # 博客
 
