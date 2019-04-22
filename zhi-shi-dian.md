@@ -7,3 +7,5 @@
 [计算机是如何启动的？](http://www.ruanyifeng.com/blog/2013/02/booting.html)
 
 [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
+
+[数据类型和Json格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
