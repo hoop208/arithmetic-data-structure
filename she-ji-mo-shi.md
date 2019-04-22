@@ -1,0 +1,1 @@
+[轻松理解面向接口编程！](https://zhuanlan.zhihu.com/p/30572621)
