@@ -1,0 +1,1 @@
+[几种计算机语言的评价](http://www.ruanyifeng.com/blog/2006/03/programming_language_evaluations.html)
