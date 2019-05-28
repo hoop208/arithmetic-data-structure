@@ -9,3 +9,5 @@
 [Java设计模式透析之 —— 模板方法(Template Method)](https://blog.csdn.net/guolin_blog/article/details/8744002)
 
 [设计模式 观察者模式 以微信公众服务为例](https://blog.csdn.net/lmj623565791/article/details/24179699)
+
+[代码的抽象三原则](http://www.ruanyifeng.com/blog/2013/01/abstraction_principles.html)
