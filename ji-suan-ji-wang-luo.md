@@ -9,3 +9,5 @@
 [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 
 [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+
+[HTTPS的七个误解（译文）](http://www.ruanyifeng.com/blog/2011/02/seven_myths_about_https.html)
