@@ -72,6 +72,8 @@
 
 [五分钟读懂UML类图](https://www.cnblogs.com/shindo/p/5579191.html#undefined)
 
+[五分钟读懂UML类图](https://www.jianshu.com/p/1178ec9f2007)
+
 
 
 
