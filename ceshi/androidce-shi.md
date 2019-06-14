@@ -5,3 +5,5 @@
 [Android使用Fiddler模拟弱网络环境测试](https://blog.csdn.net/u010618194/article/details/76652513)
 
 [Android Monkey 压力测试 介绍](https://www.cnblogs.com/TankXiao/p/4815134.html)
+
+[在Android Studio中进行单元测试和UI测试](https://www.jianshu.com/p/03118c11c199)
