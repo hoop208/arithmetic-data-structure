@@ -4,7 +4,7 @@
 
 [一个静态博客写作客户端](https://gridea.dev/)
 
-[heidisql](https://github.com/HeidiSQL/HeidiSQL)
+[数据库可视化工具-heidisql](https://github.com/HeidiSQL/HeidiSQL)
 
 # IDEA
 
