@@ -7,3 +7,5 @@
 [Android Monkey 压力测试 介绍](https://www.cnblogs.com/TankXiao/p/4815134.html)
 
 [在Android Studio中进行单元测试和UI测试](https://www.jianshu.com/p/03118c11c199)
+
+[Android 手机自动化测试工具有哪几种？](https://www.zhihu.com/question/19716849)
