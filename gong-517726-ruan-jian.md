@@ -2,6 +2,8 @@
 
 [chrome插件 在线浏览github源码](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN)
 
+[一个静态博客写作客户端](https://gridea.dev/)
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
