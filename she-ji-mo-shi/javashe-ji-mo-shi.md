@@ -3,3 +3,10 @@
 [装饰模式与代理模式的区别(转载)](https://www.cnblogs.com/jaredlam/archive/2011/11/08/2241089.html)
 
 [Java设计模式透析之 —— 策略(Strategy)](https://blog.csdn.net/guolin_blog/article/details/8986285)
+
+[Java设计模式透析之 —— 模板方法(Template Method)](https://blog.csdn.net/guolin_blog/article/details/8744002)
+
+[Java设计模式透析之 —— 单例(Singleton)](https://blog.csdn.net/guolin_blog/article/details/8860649)
+
+
+
