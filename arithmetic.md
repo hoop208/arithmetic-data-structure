@@ -21,4 +21,6 @@
 
 [推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
 
+[这可能是史上最全的 Python 算法集（建议收藏）](https://zhuanlan.zhihu.com/p/60356696)
+
 
