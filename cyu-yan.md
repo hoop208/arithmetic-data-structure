@@ -10,3 +10,4 @@
 
 [如何学习 C 语言？](https://www.zhihu.com/question/19668080)
 
+[学c语言该怎么入门？](https://www.zhihu.com/question/28514714/answer/227338767)
