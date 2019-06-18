@@ -6,6 +6,8 @@
 
 [你们都是怎么学 Python 的？](https://www.zhihu.com/question/55493026/answer/163537026)
 
+[你在 B 站看番剧，别人在 B 站学 Python](https://zhuanlan.zhihu.com/p/67196322)
+
 
 # 经验分享
 
