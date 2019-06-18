@@ -9,3 +9,5 @@
 [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
 
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+[有哪些技术博客，最好全一点的?](https://www.zhihu.com/question/37116938/answer/70501553)
