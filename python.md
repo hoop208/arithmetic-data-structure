@@ -15,3 +15,5 @@
 
 [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88744491)
 
+[70个Python练手项目列表](https://zhuanlan.zhihu.com/p/27931879)
+
