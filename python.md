@@ -36,3 +36,5 @@
 
 [有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/621624961)
 
+[Python书籍推荐](https://zhuanlan.zhihu.com/p/22198827)
+
