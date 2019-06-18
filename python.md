@@ -12,6 +12,8 @@
 
 [GitHub标星8100：Python中文资源，从新手到老司机，只要100天](https://zhuanlan.zhihu.com/p/64462281)
 
+[呢喃40：免费Python Web开发入门教程](https://zhuanlan.zhihu.com/p/38226188)
+
 # 经验分享
 
 [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88624507)
