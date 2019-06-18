@@ -5,3 +5,7 @@
 [Python2和Python3哪个更适合初学者学习来爬虫呢？](https://www.zhihu.com/question/55522117/answer/145075810)
 
 [如何学习Python爬虫[入门篇]？](https://zhuanlan.zhihu.com/p/21479334)
+
+# 经验分享
+
+[你需要这些：Python3.x爬虫学习资料整理](https://zhuanlan.zhihu.com/p/24358829)
