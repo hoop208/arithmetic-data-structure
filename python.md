@@ -4,8 +4,10 @@
 
 [编程零基础应当如何开始学习 Python？](https://www.zhihu.com/question/20039623/answer/64926634)
 
-[Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88744491)
 
 # 经验分享
 
 [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88624507)
+
+[Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88744491)
+
