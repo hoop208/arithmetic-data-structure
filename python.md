@@ -48,5 +48,7 @@
 
 [有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/618254238)
 
+[整理了70个Python实战项目列表，都有完整且详细的教程](https://zhuanlan.zhihu.com/p/60246173)
+
 
 
