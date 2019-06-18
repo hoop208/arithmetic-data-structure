@@ -40,5 +40,7 @@
 
 [有哪些值得关注的技术博客（Python篇）](https://zhuanlan.zhihu.com/p/22370545)
 
+[哪里能找到 Python 视频教程地址？](https://www.zhihu.com/question/19660572/answer/612968760)
+
 
 
