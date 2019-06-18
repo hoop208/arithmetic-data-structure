@@ -4,6 +4,8 @@
 
 [编程零基础应当如何开始学习 Python？](https://www.zhihu.com/question/20039623/answer/64926634)
 
+[你们都是怎么学 Python 的？](https://www.zhihu.com/question/55493026/answer/163537026)
+
 
 # 经验分享
 
