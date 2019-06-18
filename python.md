@@ -1,4 +1,4 @@
-# 学习路线
+# 学习路线[](https://zhuanlan.zhihu.com/p/22370545)
 
 [如何系统地自学 Python？](https://www.zhihu.com/question/29138020/answer/81972368)
 
@@ -37,4 +37,8 @@
 [有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/621624961)
 
 [Python书籍推荐](https://zhuanlan.zhihu.com/p/22198827)
+
+[有哪些值得关注的技术博客（Python篇）](https://zhuanlan.zhihu.com/p/22370545)
+
+
 
