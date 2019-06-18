@@ -8,7 +8,7 @@
 
 [你在 B 站看番剧，别人在 B 站学 Python](https://zhuanlan.zhihu.com/p/67196322)
 
-
+[Python学习路径及练手项目合集](https://zhuanlan.zhihu.com/p/23561159)
 
 # 经验分享
 
