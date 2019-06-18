@@ -9,6 +9,7 @@
 [你在 B 站看番剧，别人在 B 站学 Python](https://zhuanlan.zhihu.com/p/67196322)
 
 
+
 # 经验分享
 
 [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88624507)
@@ -22,4 +23,6 @@
 [学习python有什么好的视频教程?](https://www.zhihu.com/question/28479292/answer/608582285)
 
 [有哪些适合新手练手的Python项目？](https://zhuanlan.zhihu.com/p/22164270)
+
+[Python学习资料总结](https://zhuanlan.zhihu.com/p/22333205)
 
