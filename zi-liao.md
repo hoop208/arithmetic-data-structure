@@ -11,3 +11,5 @@
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 [有哪些技术博客，最好全一点的?](https://www.zhihu.com/question/37116938/answer/70501553)
+
+[给大家推荐一个学习Python, Java, JavaScript, TypeScript, Ruby, C和 C++编程的可视化网站](https://zhuanlan.zhihu.com/p/30351346)
