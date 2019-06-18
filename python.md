@@ -19,3 +19,5 @@
 
 [请问自学Python有必要买课程吗？](https://www.zhihu.com/question/318258554/answer/643789124)
 
+[学习python有什么好的视频教程?](https://www.zhihu.com/question/28479292/answer/608582285)
+
