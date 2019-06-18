@@ -26,3 +26,5 @@
 
 [Python学习资料总结](https://zhuanlan.zhihu.com/p/22333205)
 
+[学习编程道路上的入门书籍之Python篇](https://zhuanlan.zhihu.com/p/22983834)
+
