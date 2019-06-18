@@ -21,3 +21,5 @@
 
 [学习python有什么好的视频教程?](https://www.zhihu.com/question/28479292/answer/608582285)
 
+[有哪些适合新手练手的Python项目？](https://zhuanlan.zhihu.com/p/22164270)
+
