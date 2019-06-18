@@ -17,4 +17,8 @@
 
 [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 
+# 经验分享
+
+[推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
+
 
