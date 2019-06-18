@@ -34,3 +34,5 @@
 
 [学习编程道路上的入门书籍之Python篇](https://zhuanlan.zhihu.com/p/22983834)
 
+[有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/621624961)
+
