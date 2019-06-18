@@ -16,6 +16,8 @@
 
 [毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560/answer/55697707)
 
+[毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560/answer/628512526)
+
 # 经验分享
 
 [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88624507)
