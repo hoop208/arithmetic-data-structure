@@ -17,3 +17,5 @@
 
 [70个Python练手项目列表](https://zhuanlan.zhihu.com/p/27931879)
 
+[请问自学Python有必要买课程吗？](https://www.zhihu.com/question/318258554/answer/643789124)
+
