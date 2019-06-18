@@ -44,5 +44,7 @@
 
 [哪里能找到 Python 视频教程地址？](https://www.zhihu.com/question/19660572/answer/612968760)
 
+[有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/618254238)
+
 
 
