@@ -18,6 +18,8 @@
 
 [毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560/answer/628512526)
 
+[编程零基础应当如何开始学习 Python？](https://www.zhihu.com/question/20039623/answer/251224727)
+
 # 经验分享
 
 [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88624507)
