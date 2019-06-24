@@ -21,3 +21,5 @@
 [Coursera 上有哪些课程值得推荐？](https://www.zhihu.com/question/22436320/answer/32665792)
 
 [除了edx，coursera，网络还有哪些公开课资源？](https://www.zhihu.com/question/27952897/answer/41902351)
+
+[关注 bilibili 这 13 个专业 UP 主，你甚至可以在 B 站「干正事」](https://zhuanlan.zhihu.com/p/65312096)
