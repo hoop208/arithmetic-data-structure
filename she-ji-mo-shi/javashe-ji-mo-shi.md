@@ -1,3 +1,5 @@
+# 博客
+
 [Java设计模式之责任链模式、职责链模式](https://blog.csdn.net/jason0539/article/details/45091639)
 
 [装饰模式与代理模式的区别(转载)](https://www.cnblogs.com/jaredlam/archive/2011/11/08/2241089.html)
@@ -13,6 +15,8 @@
 [设计模式(二) 三种适配器模式 总结和使用场景](https://blog.csdn.net/zxt0601/article/details/52848004)
 
 [设计模式之Builder模式](https://www.jianshu.com/p/e2a2fe3555b9)
+
+[Java设计模式透析之 —— 组合(Composite)](https://blog.csdn.net/guolin_blog/article/details/9153753)
 
 
 
