@@ -80,6 +80,8 @@
 
 [五分钟读懂UML类图](https://www.jianshu.com/p/1178ec9f2007)
 
+[Java利器之UML类图详解](https://blog.csdn.net/xiehuimx/article/details/53427452)
+
 
 
 
