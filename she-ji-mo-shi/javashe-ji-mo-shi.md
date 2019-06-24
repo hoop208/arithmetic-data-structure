@@ -10,5 +10,7 @@
 
 [设计模式 命令模式 之 管理智能家电](https://blog.csdn.net/lmj623565791/article/details/24602057)
 
+[设计模式(二) 三种适配器模式 总结和使用场景](https://blog.csdn.net/zxt0601/article/details/52848004)
+
 
 
