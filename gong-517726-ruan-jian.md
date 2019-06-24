@@ -16,6 +16,8 @@
 
 [IntelliJ IDEA开发Java web项目，JSP无代码提示或自动补全 问题](https://blog.csdn.net/tangxl2008008/article/details/71411547)
 
+[使用Intellij Idea打包java为可执行jar包](https://blog.csdn.net/xuemengrui12/article/details/74984731)
+
 # 资料
 
 [APK压缩](https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md)
