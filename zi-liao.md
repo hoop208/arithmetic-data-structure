@@ -17,3 +17,5 @@
 [骑鹿人的计算机科学学习指南](http://cslearner.cn/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [Github Users Ranking](https://github.com/jaywcjlove/github-rank?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Coursera 上有哪些课程值得推荐？](https://www.zhihu.com/question/22436320/answer/32665792)
