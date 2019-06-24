@@ -24,4 +24,5 @@
   * [linux](cao-zuo-xi-tong/linux.md)
 * [php](php.md)
 * [服务器](fu-wu-qi.md)
+* [人工智能](ren-gong-zhi-neng.md)
 
