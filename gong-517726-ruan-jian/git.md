@@ -42,6 +42,8 @@
 
 [git在线练习](https://learngitbranching.js.org/)
 
+[菜鸟教程-git教程](https://www.runoob.com/git/git-tutorial.html)
+
 # 资料
 
 [几款好用的Git GUI客户端工具](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
