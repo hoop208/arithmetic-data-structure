@@ -5,3 +5,5 @@
 # fiddler
 
 [Fiddler实用教程](https://segmentfault.com/a/1190000004240812)
+
+[Fiddler 教程](https://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html)
