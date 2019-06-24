@@ -27,3 +27,5 @@
 [YouTube 上有哪些自学编程的优质频道](https://zhuanlan.zhihu.com/p/24605410)
 
 [YouTube 上有哪些值得推荐的频道？](https://www.zhihu.com/question/19609089/answer/15672482)
+
+[YouTube 上有哪些计算机方面的值得推荐的公开课？](https://www.zhihu.com/question/49071324/answer/153213375)
