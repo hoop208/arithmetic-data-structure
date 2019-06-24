@@ -12,5 +12,7 @@
 
 [设计模式(二) 三种适配器模式 总结和使用场景](https://blog.csdn.net/zxt0601/article/details/52848004)
 
+[设计模式之Builder模式](https://www.jianshu.com/p/e2a2fe3555b9)
+
 
 
