@@ -13,3 +13,5 @@
 [轻松理解面向接口编程！](https://zhuanlan.zhihu.com/p/30572621)
 
 [面向接口编程详解（一）——思想基础](https://www.cnblogs.com/leoo2sk/archive/2008/04/10/1146447.html)
+
+[面向接口编程详解（二）——编程实例](https://www.cnblogs.com/leoo2sk/archive/2008/04/11/1148236.html)
