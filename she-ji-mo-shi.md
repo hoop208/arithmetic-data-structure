@@ -5,3 +5,5 @@
 [代码的抽象三原则](http://www.ruanyifeng.com/blog/2013/01/abstraction_principles.html)
 
 [如此理解面向对象编程](https://coolshell.cn/articles/8745.html)
+
+[面向对象的三个基本特征 和 五种设计原则](https://blog.csdn.net/cancan8538/article/details/8057095)
