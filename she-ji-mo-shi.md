@@ -11,3 +11,5 @@
 [五分钟理解什么是面向对象](http://www.woshipm.com/pmd/294180.html)
 
 [轻松理解面向接口编程！](https://zhuanlan.zhihu.com/p/30572621)
+
+[面向接口编程详解（一）——思想基础](https://www.cnblogs.com/leoo2sk/archive/2008/04/10/1146447.html)
