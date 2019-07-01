@@ -18,5 +18,13 @@
 
 [Java设计模式透析之 —— 组合(Composite)](https://blog.csdn.net/guolin_blog/article/details/9153753)
 
+[设计模式 模版方法模式 展现程序员的一天](https://blog.csdn.net/lmj623565791/article/details/26276093)
+
+[设计模式 策略模式 以角色游戏为背景](https://blog.csdn.net/lmj623565791/article/details/24116745)
+
+[设计模式 观察者模式 以微信公众服务为例](https://blog.csdn.net/lmj623565791/article/details/24179699)
+
+
+
 
 
