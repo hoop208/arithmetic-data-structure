@@ -9,3 +9,5 @@
 [设计模式 观察者模式 以微信公众服务为例](https://blog.csdn.net/lmj623565791/article/details/24179699)
 
 [代码的抽象三原则](http://www.ruanyifeng.com/blog/2013/01/abstraction_principles.html)
+
+[如此理解面向对象编程](https://coolshell.cn/articles/8745.html)
