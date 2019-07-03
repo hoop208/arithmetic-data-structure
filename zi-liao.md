@@ -30,6 +30,8 @@
 
 [从《深入理解计算机系统》谈一谈编程入门](https://zhuanlan.zhihu.com/p/38584767)
 
+[【翻译】如何自学现代计算机科学](https://www.yuque.com/docs/share/97bb24b7-fe20-49aa-96bf-36033cfebe6c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # Github
 
 [Halo 一款现代化的个人独立博客系统](https://github.com/halo-dev/halo) 
