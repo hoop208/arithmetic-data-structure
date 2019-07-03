@@ -24,7 +24,7 @@
 
 [android同屏工具](https://www.vysor.io/)
 
-# 博客
+# 博客[](https://mp.weixin.qq.com/s/KR2HCcCoIc-gSDLZ69azYw)
 
 [借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
 
@@ -82,6 +82,7 @@
 
 [Java利器之UML类图详解](https://blog.csdn.net/xiehuimx/article/details/53427452)
 
+[每一个开发人员都应该懂的 UML 规范](https://mp.weixin.qq.com/s/KR2HCcCoIc-gSDLZ69azYw)
 
 
 
