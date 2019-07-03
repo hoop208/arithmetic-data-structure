@@ -27,3 +27,7 @@
 [天天给 App 抓包，还不懂 HTTP 代理吗？ | 实用 HTTP](https://mp.weixin.qq.com/s/H5H0LixgRY6CoRunBaLBAw)
 
 [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485524&idx=1&sn=183b34cfd87f2a6fddc43187dc6fa72f&chksm=97851175a0f29863245fe35a402e801cf9fb8f6864acd3e546473aded4b18dd4538154403f79&scene=21#wechat_redirect)
+
+# Websocket
+
+[WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
