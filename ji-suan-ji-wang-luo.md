@@ -21,3 +21,5 @@
 [HTTP基本知识、跨域和调试技巧](https://segmentfault.com/a/1190000018857480?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 [图解 HTTP 的缓存机制 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485517&idx=1&sn=3edffef8db15d92c26072d85df1cc5a8&chksm=9785116ca0f2987a4ccf77339800873d092c1bded522d50fcf03aec98a9f51b23355e28aa3b7&scene=21#wechat_redirect)
+
+[详解HTTP 与TCP中Keep-Alive机制的区别](https://mp.weixin.qq.com/s/MR8OWPKQoM6Cr9o1rWsK5A)
