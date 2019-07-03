@@ -18,3 +18,4 @@
 
 [HTTP 传输编码增大了传输量，只为解决这一个问题 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485535&idx=1&sn=2e9f9113de8b84429e19ee12b69f3336&chksm=9785117ea0f298683c0a56d016711633f7b8b86d7570f8ffbe9216ae5f175ea5fa53471e55c4&scene=21#wechat_redirect)
 
+[HTTP基本知识、跨域和调试技巧](https://segmentfault.com/a/1190000018857480?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
