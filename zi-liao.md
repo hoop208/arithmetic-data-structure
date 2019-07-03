@@ -32,6 +32,8 @@
 
 [【翻译】如何自学现代计算机科学](https://www.yuque.com/docs/share/97bb24b7-fe20-49aa-96bf-36033cfebe6c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[码农周刊 - 史上最全的编程学习资料合集（持续更新](https://github.com/toutiaoio/weekly.manong.io)
+
 # Github
 
 [Halo 一款现代化的个人独立博客系统](https://github.com/halo-dev/halo) 
