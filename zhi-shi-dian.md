@@ -12,6 +12,8 @@
 
 [数据类型和Json格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
 
+[关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
+
 # 经验分享
 
 [程序员阅读源码是一种什么心态？源码对编程意义何在？如何才能更好阅读代码？](https://www.zhihu.com/question/29765945/answer/47725158)
