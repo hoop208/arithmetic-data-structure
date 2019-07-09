@@ -1,3 +1,6 @@
 # 编程基础
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+编程基础学习笔记 
+
+[Introduction](README.md)
+
