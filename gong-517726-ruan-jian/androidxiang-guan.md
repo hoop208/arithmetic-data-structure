@@ -39,4 +39,6 @@
 
 [Control and manage Android devices from your browser](https://github.com/openstf/stf)
 
+[简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有](https://github.com/didi/DoraemonKit)
+
 
