@@ -48,4 +48,6 @@
 [360线上移动性能检测平台
 ](https://github.com/Qihoo360/ArgusAPM)
 
+[A performance monitor tool for Android](https://github.com/Kyson/AndroidGodEye)
+
 
