@@ -43,4 +43,6 @@
 
 [A library for debugging android databases and shared preferences](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
+[一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）](https://github.com/zjw-swun/AppMethodOrder)
+
 
