@@ -41,4 +41,6 @@
 
 [简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有](https://github.com/didi/DoraemonKit)
 
+[A library for debugging android databases and shared preferences](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+
 
