@@ -37,4 +37,6 @@
 
 [Display and control your Android device](https://github.com/Genymobile/scrcpy)
 
+[Control and manage Android devices from your browser](https://github.com/openstf/stf)
+
 
