@@ -35,4 +35,6 @@
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
 
+[Display and control your Android device](https://github.com/Genymobile/scrcpy)
+
 
