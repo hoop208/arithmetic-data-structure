@@ -10,6 +10,13 @@
 
 [代码图片生成](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
 
+[APK压缩](https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md)
+
+[android同屏工具](https://www.vysor.io/)
+
+[借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
+
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
@@ -20,19 +27,10 @@
 
 [使用Intellij Idea打包java为可执行jar包](https://blog.csdn.net/xuemengrui12/article/details/74984731)
 
-# 资料
-
-[APK压缩](https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md)
-
-[android同屏工具](https://www.vysor.io/)
-
-# 博客[](https://mp.weixin.qq.com/s/KR2HCcCoIc-gSDLZ69azYw)
-
-[借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
 
 # 视频教程
 
-[AndroidStudio教程](https://study.163.com/course/courseMain.htm?courseId=1003130007&_trace_c_p_k2_=3246dfc4312742779fdcb73160bb7656#/courseDetail?tab=1)
+
 
 # Gitbook
 
