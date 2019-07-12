@@ -31,7 +31,6 @@
 
 [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485524&idx=1&sn=183b34cfd87f2a6fddc43187dc6fa72f&chksm=97851175a0f29863245fe35a402e801cf9fb8f6864acd3e546473aded4b18dd4538154403f79&scene=21#wechat_redirect)
 
-
 [详解HTTP 与TCP中Keep-Alive机制的区别](https://mp.weixin.qq.com/s/MR8OWPKQoM6Cr9o1rWsK5A)
 
 
