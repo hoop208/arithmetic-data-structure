@@ -36,6 +36,8 @@
 
 [码农周刊 - 史上最全的编程学习资料合集（持续更新](https://github.com/toutiaoio/weekly.manong.io)
 
+[计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062/answer/373015576)
+
 # Github
 
 [Halo 一款现代化的个人独立博客系统](https://github.com/halo-dev/halo)
