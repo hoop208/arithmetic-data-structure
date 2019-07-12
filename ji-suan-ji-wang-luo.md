@@ -26,6 +26,8 @@
 
 [你应该知道的HTTP基础知识](https://www.jianshu.com/p/e544b7a76dac)
 
+[HTTP基本知识、跨域和调试技巧](https://segmentfault.com/a/1190000018857480?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
 [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 
 
