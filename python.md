@@ -50,5 +50,7 @@
 
 [整理了70个Python实战项目列表，都有完整且详细的教程](https://zhuanlan.zhihu.com/p/60246173)
 
+[你都用 Python 来做什么？](https://www.zhihu.com/question/20799742/answer/99491808)
+
 
 
