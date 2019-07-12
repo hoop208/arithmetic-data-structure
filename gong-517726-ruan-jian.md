@@ -18,6 +18,10 @@
 
 [GitHub code tree on steroids](https://github.com/ovity/octotree)
 
+[Halo 一款现代化的个人独立博客系统](https://github.com/halo-dev/halo)
+
+[为开发者收集非常好的 API](https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md#%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90)
+
 
 # IDEA
 
