@@ -2,8 +2,6 @@
 
 [TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
 
-[https原理：证书传递、验证和数据加密、解密过程解析](https://blog.csdn.net/clh604/article/details/22179907)
-
 [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
 
 [互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
@@ -44,3 +42,6 @@
 [HTTPS 升级指南](http://www.ruanyifeng.com/blog/2016/08/migrate-from-http-to-https.html)
 
 [HTTPS详解](https://segmentfault.com/a/1190000011675421)
+
+[https原理：证书传递、验证和数据加密、解密过程解析](https://blog.csdn.net/clh604/article/details/22179907)
+
