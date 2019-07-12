@@ -31,3 +31,7 @@
 # Websocket
 
 [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+
+# https
+
+[详解https是如何确保安全的？](http://www.wxtlife.com/2016/03/27/%E8%AF%A6%E8%A7%A3https%E6%98%AF%E5%A6%82%E4%BD%95%E7%A1%AE%E4%BF%9D%E5%AE%89%E5%85%A8%E7%9A%84%EF%BC%9F/)
