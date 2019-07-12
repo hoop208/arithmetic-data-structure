@@ -28,6 +28,8 @@
 
 [AndroidStudio教程](https://study.163.com/course/courseMain.htm?courseId=1003130007&_trace_c_p_k2_=3246dfc4312742779fdcb73160bb7656#/courseDetail?tab=1)
 
+[希望整理Android Studio 最全面的开发插件。](https://github.com/PegasusCharles/Android-Studio-Plugins-cn)
+
 
 # 抓包工具
 
