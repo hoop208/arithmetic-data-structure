@@ -1,0 +1,1 @@
+[开源 |《动手学深度学习》，8500+ Star](https://mp.weixin.qq.com/s/OCvKb3clmran8FxZ02iVvA)

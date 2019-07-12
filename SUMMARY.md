@@ -20,6 +20,7 @@
 * [C语言](cyu-yan.md)
 * [python](python.md)
   * [爬虫](python/pa-chong.md)
+  * [机器学习](python/ji-qi-xue-xi.md)
 * [操作系统](cao-zuo-xi-tong.md)
   * [linux](cao-zuo-xi-tong/linux.md)
 * [php](php.md)
