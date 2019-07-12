@@ -8,6 +8,8 @@
 
 [高效的设计稿标注、测量工具-马克鳗](http://www.getmarkman.com/)
 
+[代码图片生成](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
