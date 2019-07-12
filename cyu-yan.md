@@ -1,8 +1,10 @@
-# 经验分享
+# 经验分享[](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
 
 [C#、C++、Java、Python 选择哪个好？](https://www.zhihu.com/question/298323023/answer/523720835)
 
 [初学C语言，有什么好书推荐？](https://www.zhihu.com/question/22524467/answer/32762832)
+
+[为什么 C 语言仍然占据统治地位？](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
 
 # 学习路线
 
