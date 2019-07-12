@@ -6,13 +6,6 @@
 
 [互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
 
-[HTTPS的七个误解（译文）](http://www.ruanyifeng.com/blog/2011/02/seven_myths_about_https.html)
-
-
-
-
-
-
 # http
 
 [你应该知道的HTTP基础知识](https://www.jianshu.com/p/e544b7a76dac)
