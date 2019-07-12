@@ -30,6 +30,8 @@
 
 [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
 
+[图解：HTTP 范围请求，助力断点续传，多线程下载的核心原理 | 实用HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485579&idx=1&sn=d939e6b1dabe7495b5ca5f0a0c988c8e&chksm=978511aaa0f298bc75e0d0c507a19e28d5d4fac3b30502565688617b1ae9fcf899a9836b2d65&scene=21#wechat_redirect)
+
 
 # Websocket
 
