@@ -16,6 +16,8 @@
 
 [借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
 
+[GitHub code tree on steroids](https://github.com/ovity/octotree)
+
 
 # IDEA
 
@@ -26,10 +28,6 @@
 [IntelliJ IDEA开发Java web项目，JSP无代码提示或自动补全 问题](https://blog.csdn.net/tangxl2008008/article/details/71411547)
 
 [使用Intellij Idea打包java为可执行jar包](https://blog.csdn.net/xuemengrui12/article/details/74984731)
-
-
-# 视频教程
-
 
 
 # Gitbook
@@ -45,8 +43,6 @@
 # Sqlite
 
 [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)
-
-# 思维导图
 
 # 截图
 
