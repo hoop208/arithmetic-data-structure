@@ -28,6 +28,8 @@
 
 [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485524&idx=1&sn=183b34cfd87f2a6fddc43187dc6fa72f&chksm=97851175a0f29863245fe35a402e801cf9fb8f6864acd3e546473aded4b18dd4538154403f79&scene=21#wechat_redirect)
 
+[图解：HTTP 范围请求，助力断点续传，多线程下载的核心原理 | 实用HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485579&idx=1&sn=d939e6b1dabe7495b5ca5f0a0c988c8e&chksm=978511aaa0f298bc75e0d0c507a19e28d5d4fac3b30502565688617b1ae9fcf899a9836b2d65&scene=21#wechat_redirect)
+
 # Websocket
 
 [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
