@@ -39,3 +39,5 @@
 [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062/answer/373015576)
 
 [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
+
+[计算机领域必读的经典书籍清单](https://mp.weixin.qq.com/s/KTGPKaZsZLIw1-ZLkeQlzg)
