@@ -18,6 +18,8 @@
 
 [浮点数的二进制表示学习笔记](https://www.cnblogs.com/jiayouwyhit/p/3148493.html)
 
+[探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/index.html)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
