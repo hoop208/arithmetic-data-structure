@@ -18,6 +18,10 @@
 
 [浮点数的二进制表示学习笔记](https://www.cnblogs.com/jiayouwyhit/p/3148493.html)
 
+# 正则表达式
+
+[正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
+
 # 经验分享
 
 [程序员阅读源码是一种什么心态？源码对编程意义何在？如何才能更好阅读代码？](https://www.zhihu.com/question/29765945/answer/47725158)
