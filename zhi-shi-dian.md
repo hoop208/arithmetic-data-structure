@@ -20,6 +20,8 @@
 
 [探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/index.html)
 
+[WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
