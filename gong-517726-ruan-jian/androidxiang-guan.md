@@ -54,4 +54,12 @@
 
 [A performance monitor tool for Android](https://github.com/Kyson/AndroidGodEye)
 
+[APK压缩](https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md)
+
+[android同屏工具](https://www.vysor.io/)
+
+[借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
+
+
+
 

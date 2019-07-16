@@ -10,12 +10,6 @@
 
 [代码图片生成](https://github.com/dawnlabs/carbon/blob/master/docs/README.cn.zh.md)
 
-[APK压缩](https://github.com/shwenzhang/AndResGuard/blob/master/README.zh-cn.md)
-
-[android同屏工具](https://www.vysor.io/)
-
-[借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
-
 [GitHub code tree on steroids](https://github.com/ovity/octotree)
 
 [Halo 一款现代化的个人独立博客系统](https://github.com/halo-dev/halo)
