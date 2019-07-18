@@ -30,6 +30,8 @@
 
 [希望整理Android Studio 最全面的开发插件。](https://github.com/PegasusCharles/Android-Studio-Plugins-cn)
 
+[你所不知道的Android Studio调试技巧](https://www.jianshu.com/p/011eb88f4e0d)
+
 # 抓包工具
 
 [Android抓包方法(一)
