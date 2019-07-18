@@ -37,6 +37,10 @@
 [Android抓包方法(一)
 之Fiddler代理](https://www.cnblogs.com/findyou/p/3491014.html)
 
+# gradle
+
+[在AndroidStudio中自定义Gradle插件](https://blog.csdn.net/huachao1001/article/details/51810328)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
