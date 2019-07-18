@@ -32,6 +32,8 @@
 
 [你所不知道的Android Studio调试技巧](https://www.jianshu.com/p/011eb88f4e0d)
 
+[Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
+
 # 抓包工具
 
 [Android抓包方法(一)
