@@ -22,6 +22,8 @@
 
 [这可能是史上最全的 Python 算法集（建议收藏）](https://zhuanlan.zhihu.com/p/60356696)
 
+[程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/602761180)
+
 # 例子
 
 [计算一个整数数组中最大差值的元素？](https://segmentfault.com/q/1010000019377383?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
