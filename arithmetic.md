@@ -30,3 +30,5 @@
 # hash算法
 
 [什么是 hash？](https://www.zhihu.com/question/26762707)
+
+[Hash算法总结](https://www.jianshu.com/p/bf1d7eee28d0)
