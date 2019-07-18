@@ -27,3 +27,6 @@
 
 [计算一个整数数组中最大差值的元素？](https://segmentfault.com/q/1010000019377383?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
+# hash算法
+
+[什么是 hash？](https://www.zhihu.com/question/26762707)
