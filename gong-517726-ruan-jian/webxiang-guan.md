@@ -7,3 +7,7 @@
 # vscode
 
 [强大的 VS Code](https://juejin.im/post/5b123ace6fb9a01e6f560a4b)
+
+# chrome开发工具
+
+[Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)
