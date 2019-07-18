@@ -45,3 +45,5 @@
 [优秀的程序员需要懂那些数学知识？](https://www.zhihu.com/question/21425201/answer/615681300)
 
 [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108/answer/346474854)
+
+[有哪些质量上乘的程序员必关注的网站或论坛？](https://www.zhihu.com/question/22525413/answer/206003596)
