@@ -41,3 +41,5 @@
 [值得留给子孙后代的计算机课程](https://zhuanlan.zhihu.com/p/39030715)
 
 [计算机领域必读的经典书籍清单](https://mp.weixin.qq.com/s/KTGPKaZsZLIw1-ZLkeQlzg)
+
+[优秀的程序员需要懂那些数学知识？](https://www.zhihu.com/question/21425201/answer/615681300)
