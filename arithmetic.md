@@ -33,3 +33,7 @@
 [什么是 hash？](https://www.zhihu.com/question/26762707)
 
 [Hash算法总结](https://www.jianshu.com/p/bf1d7eee28d0)
+
+# Base64
+
+[base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
