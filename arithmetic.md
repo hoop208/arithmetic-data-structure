@@ -37,3 +37,5 @@
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
+
+[base64编码原理之示例分析编码的全过程](https://mp.weixin.qq.com/s/IAcu5xNjKEq4Zwh6uRkgBA)
