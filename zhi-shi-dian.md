@@ -29,3 +29,5 @@
 # 经验分享
 
 [程序员阅读源码是一种什么心态？源码对编程意义何在？如何才能更好阅读代码？](https://www.zhihu.com/question/29765945/answer/47725158)
+
+[正则表达式简明教程](https://juejin.im/post/5d2dfd48e51d45772a49adf4)
