@@ -1,4 +1,4 @@
-# 视频教程
+# 视频教程[](https://juejin.im/post/5c0a2407f265da611f0780c7)
 
 [堆排序演示](https://www.bilibili.com/video/av18980178/)
 
@@ -39,3 +39,5 @@
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
 
 [base64编码原理之示例分析编码的全过程](https://mp.weixin.qq.com/s/IAcu5xNjKEq4Zwh6uRkgBA)
+
+[base16，base32，base64 编码方式的通俗讲解](https://juejin.im/post/5c0a2407f265da611f0780c7)
