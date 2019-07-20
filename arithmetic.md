@@ -40,6 +40,8 @@
 
 [MD5算法原理及其实现](https://blog.csdn.net/u012611878/article/details/54000607)
 
+[SHA1算法原理](https://www.cnblogs.com/scu-cjx/p/6878853.html)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
