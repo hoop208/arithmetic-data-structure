@@ -34,11 +34,6 @@
 
 [Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
 
-# 抓包工具
-
-[Android抓包方法(一)
-之Fiddler代理](https://www.cnblogs.com/findyou/p/3491014.html)
-
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
