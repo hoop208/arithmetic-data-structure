@@ -57,6 +57,8 @@
 
 [build.gradle管理依赖的版本](https://juejin.im/entry/59918304518825489151732d)
 
+[重要-作为Android开发者必须了解的Gradle知识](https://www.jianshu.com/p/c31513f5f550)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
