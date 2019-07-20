@@ -24,6 +24,8 @@
 
 [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/602761180)
 
+[算法学习思路](http://jartto.wang/2019/04/07/learn-algorithm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 例子
 
 [计算一个整数数组中最大差值的元素？](https://segmentfault.com/q/1010000019377383?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
