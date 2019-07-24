@@ -34,6 +34,8 @@
 
 [Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
 
+[代码洁癖症的我，学习Lint学到心态爆炸](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
