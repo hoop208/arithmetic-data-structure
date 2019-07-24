@@ -15,3 +15,5 @@
 # 文档教程
 
 [Android 测试教程](http://wiki.jikexueyuan.com/project/android-test-course/)
+
+[测试教程网-android测试](http://www.testclass.net/android)
