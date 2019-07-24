@@ -8,9 +8,11 @@
 
 [数据结构排序算法之桶排序演示](https://www.bilibili.com/video/av17940595/)
 
-# 博客
+# 知识点
 
 [算法的时间复杂度和空间复杂度-总结](https://blog.csdn.net/zolalad/article/details/11848739)
+
+[加密算法简介](https://jin-yang.github.io/post/security-encryption-introduce.html)
 
 # 教程
 
