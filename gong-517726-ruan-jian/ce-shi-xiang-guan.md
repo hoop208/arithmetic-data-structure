@@ -15,5 +15,11 @@
 [Android抓包方法(一)
 之Fiddler代理](https://www.cnblogs.com/findyou/p/3491014.html)
 
+[Android使用Fiddler模拟弱网络环境测试](https://blog.csdn.net/u010618194/article/details/76652513)
+
+[【Fiddler学习】Fiddler教程，比较经典全面（转）](https://www.cnblogs.com/conquerorren/p/8472285.html)
+
+
+
 
 
