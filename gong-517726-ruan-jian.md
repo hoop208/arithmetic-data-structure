@@ -100,6 +100,16 @@
 
 [重要-作为Android开发者必须了解的Gradle知识](https://www.jianshu.com/p/c31513f5f550)
 
+# Jenkins
+
+[Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
+
+[Jenkins参数化构建android项目](https://www.aliyun.com/jiaocheng/119725.html)
+
+[Android使用Gradle命令动态传参完成打包，不需要修改代码](https://blog.csdn.net/u014637428/article/details/52249423)
+
+
+
 
 
 
