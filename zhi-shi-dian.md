@@ -22,6 +22,8 @@
 
 [WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
 
+[二进制](https://rkhcy.github.io/2019/03/12/binary/)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
