@@ -12,3 +12,6 @@
 
 [数据库这门课为什么这么难学，该怎么学？](https://www.zhihu.com/question/26788013/answer/369020456)
 
+# 知识点
+
+[数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html)
