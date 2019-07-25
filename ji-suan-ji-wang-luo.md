@@ -47,5 +47,9 @@
 
 [HTTPS的七个误解（译文）](http://www.ruanyifeng.com/blog/2011/02/seven_myths_about_https.html)
 
+# Tcp/ip
+
+[菜鸟教程-TCP/IP 教程](https://www.runoob.com/tcpip/tcpip-tutorial.html)
+
 
 
