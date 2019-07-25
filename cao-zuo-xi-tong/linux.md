@@ -5,3 +5,7 @@
 [linux学习资源整理](https://zhuanlan.zhihu.com/p/22654634)
 
 [有哪些值得关注的技术博客（Linux篇）](https://zhuanlan.zhihu.com/p/22407435)
+
+# 文档
+
+[w3c-linux教程](https://www.w3cschool.cn/linux/?)
