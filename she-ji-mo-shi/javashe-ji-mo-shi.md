@@ -24,6 +24,8 @@
 
 [设计模式 观察者模式 以微信公众服务为例](https://blog.csdn.net/lmj623565791/article/details/24179699)
 
+[从JDK中，我们能学到哪些设计模式？](https://mp.weixin.qq.com/s/QwlkU1T4RQaRqgs9uI3cPg)
+
 
 
 
