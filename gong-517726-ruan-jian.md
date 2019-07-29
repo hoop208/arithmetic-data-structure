@@ -100,6 +100,8 @@
 
 [重要-作为Android开发者必须了解的Gradle知识](https://www.jianshu.com/p/c31513f5f550)
 
+[Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
