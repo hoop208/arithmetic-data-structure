@@ -19,6 +19,10 @@
 
 [【Fiddler学习】Fiddler教程，比较经典全面（转）](https://www.cnblogs.com/conquerorren/p/8472285.html)
 
+# Mock相关
+
+[A simulation data generator](https://github.com/nuysoft/Mock)
+
 
 
 
