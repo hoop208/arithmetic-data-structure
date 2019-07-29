@@ -18,6 +18,7 @@
 
 [正则表达式可视化](https://regexper.com/#)
 
+[百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新](https://github.com/high-speed-downloader/high-speed-downloader)
 
 # IDEA
 
