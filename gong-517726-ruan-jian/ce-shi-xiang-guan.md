@@ -23,6 +23,8 @@
 
 [A simulation data generator](https://github.com/nuysoft/Mock)
 
+[Easy Mock](https://www.easy-mock.com/docs)
+
 
 
 
