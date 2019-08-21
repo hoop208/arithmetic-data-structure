@@ -119,6 +119,9 @@
 
 [Android使用Gradle命令动态传参完成打包，不需要修改代码](https://blog.csdn.net/u014637428/article/details/52249423)
 
+# maven
+
+[使用Nexus搭建maven私有仓库](https://www.jianshu.com/p/9740778b154f)
 
 
 
