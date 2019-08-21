@@ -14,10 +14,6 @@
 
 [加密算法简介](https://jin-yang.github.io/post/security-encryption-introduce.html)
 
-# 教程
-
-[十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
-
 # 经验分享
 
 [推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
@@ -53,6 +49,8 @@
 [base16，base32，base64 编码方式的通俗讲解](https://juejin.im/post/5c0a2407f265da611f0780c7)
 
 # 排序算法
+
+[十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 
 [图解排序算法(二)之希尔排序](https://www.cnblogs.com/chengxiao/p/6104371.html)
 
