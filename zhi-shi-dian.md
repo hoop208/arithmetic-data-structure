@@ -24,6 +24,8 @@
 
 [二进制](https://rkhcy.github.io/2019/03/12/binary/)
 
+[计算机的本质是什么？逻辑？数学？](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485097&idx=1&sn=44522ad79fb9ebf1afa6498ce21f7517)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
