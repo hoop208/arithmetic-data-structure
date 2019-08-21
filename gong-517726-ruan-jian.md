@@ -109,6 +109,8 @@
 
 [Gradle脚本基础全攻略](https://blog.csdn.net/yanbober/article/details/49314255#0-tsina-1-52349-397232819ff9a47a7b7e80a40613cfe1)
 
+[全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
