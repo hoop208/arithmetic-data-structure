@@ -1,4 +1,4 @@
-# [视频教程](https://juejin.im/post/5c0a2407f265da611f0780c7)
+# 视频教程
 
 [堆排序演示](https://www.bilibili.com/video/av18980178/)
 
