@@ -103,6 +103,8 @@
 
 [Gradle从入门到实战 - Groovy基础](https://blog.csdn.net/singwhatiwanna/article/details/76084580)
 
+[深入理解Android之Gradle](https://blog.csdn.net/innost/article/details/48228651)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
