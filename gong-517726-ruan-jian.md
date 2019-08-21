@@ -30,11 +30,6 @@
 
 [使用Intellij Idea打包java为可执行jar包](https://blog.csdn.net/xuemengrui12/article/details/74984731)
 
-
-# Gitbook
-
-[gitbook:简明教程](http://www.chengweiyang.cn/gitbook/index.html)
-
 # Gif
 
 [GifCam:使用Windows电脑创建gif动态图片](https://gifcam.cn.uptodown.com/windows/download)

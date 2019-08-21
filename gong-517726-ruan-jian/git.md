@@ -50,11 +50,17 @@
 
 [几款好用的Git GUI客户端工具](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
 
+# Gitbook
+
+[gitbook:简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+
 # gitlab
 
 [GitLab使用教程(详细)](https://blog.csdn.net/justlpf/article/details/80681853)
 
 [易百教程-gitlab教程](https://www.yiibai.com/gitlab)
+
+
 
 
 
