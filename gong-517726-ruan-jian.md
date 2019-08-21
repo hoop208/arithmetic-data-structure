@@ -105,6 +105,8 @@
 
 [深入理解Android之Gradle](https://blog.csdn.net/innost/article/details/48228651)
 
+[Android 开发必备知识：我和 Gradle 有个约会](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401572523&idx=1&sn=19504d41b81f82a5388ae4f95072aea5&scene=0#wechat_redirect)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
