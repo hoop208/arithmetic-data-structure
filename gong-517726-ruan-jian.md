@@ -106,6 +106,8 @@
 
 [全面理解Gradle - 定义Task](https://blog.csdn.net/singwhatiwanna/article/details/78898113)
 
+[深入理解 Android 之 Gradle](http://wiki.jikexueyuan.com/project/deep-android-gradle/)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
