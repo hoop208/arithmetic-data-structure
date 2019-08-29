@@ -30,4 +30,5 @@
 * [人工智能](ren-gong-zhi-neng.md)
 * [nodejs](nodejs.md)
 * [Groovy](groovy.md)
+* [C++](c++.md)
 
