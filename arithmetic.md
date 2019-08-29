@@ -59,3 +59,7 @@
 [用Java写算法之八：桶排序](https://blog.51cto.com/flyingcat2013/1286645)
 
 [基数排序详解以及java实现](https://www.cnblogs.com/developerY/p/3172379.html)
+
+# 红黑树
+
+[漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
