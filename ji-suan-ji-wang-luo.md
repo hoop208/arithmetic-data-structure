@@ -6,6 +6,8 @@
 
 [什么是SSH 以及常见的ssh 功能](https://blog.csdn.net/u013452337/article/details/80847113)
 
+[Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
+
 # Websocket
 
 [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
