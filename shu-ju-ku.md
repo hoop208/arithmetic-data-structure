@@ -14,6 +14,8 @@
 
 [使用redis实现点赞功能的几种思路](https://www.jianshu.com/p/2ab76d5bde71)
 
+[聊聊Redis使用场景](https://juejin.im/post/58330053570c350059e0bb08)
+
 # mybatis
 
 [极客学院-mybatis实战教程](http://wiki.jikexueyuan.com/project/mybatis-in-action/)
