@@ -12,6 +12,8 @@
 
 [为什么要用Redis](https://juejin.im/post/5b516dc75188251af363492d)
 
+[使用redis实现点赞功能的几种思路](https://www.jianshu.com/p/2ab76d5bde71)
+
 # mybatis
 
 [极客学院-mybatis实战教程](http://wiki.jikexueyuan.com/project/mybatis-in-action/)
