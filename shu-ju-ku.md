@@ -1,8 +1,16 @@
 # Redis
 
+视频
+
 [Redis入门](https://www.imooc.com/learn/839)
 
+文档
+
 [菜鸟教程-Redis 教程](https://www.runoob.com/redis/redis-tutorial.html)
+
+博客
+
+[为什么要用Redis](https://juejin.im/post/5b516dc75188251af363492d)
 
 # mybatis
 
