@@ -44,6 +44,8 @@
 
 [FsCapture](http://www.faststone.org/FSCaptureDetail.htm)
 
+[截图+贴图 snipaste](https://zh.snipaste.com/)
+
 # 性能相关工具
 
 [ClassyShark ](https://github.com/google/android-classyshark)
