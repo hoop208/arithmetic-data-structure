@@ -11,7 +11,6 @@
 
 [如何入门 Python 爬虫？](https://www.zhihu.com/question/20899988/answer/96904827)
 
-[1198元学习python爬虫合适吗？
-](https://www.zhihu.com/question/329282168/answer/741495656)
+[1198元学习python爬虫合适吗？](https://www.zhihu.com/question/329282168/answer/741495656)
 
 
