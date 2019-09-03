@@ -16,6 +16,8 @@
 
 [聊聊Redis使用场景](https://juejin.im/post/58330053570c350059e0bb08)
 
+[Redis 入门](https://juejin.im/post/5b4dd82ee51d451925629622)
+
 # mybatis
 
 [极客学院-mybatis实战教程](http://wiki.jikexueyuan.com/project/mybatis-in-action/)
