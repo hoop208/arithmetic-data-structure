@@ -5,3 +5,5 @@
 [Android网络编程之--Socket编程](https://www.jianshu.com/p/fb4dfab4eec1)
 
 [Java Socket编程基础及深入讲解](https://www.cnblogs.com/yiwangzhibujian/p/7107785.html)
+
+[读懂Java中的Socket编程](https://droidyue.com/blog/2015/03/08/sockets-programming-in-java/)
