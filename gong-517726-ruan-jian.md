@@ -115,6 +115,7 @@
 [Gradle for Android 第三篇( 依赖管理 )](https://segmentfault.com/a/1190000004237922)
 [Gradle for Android 第四篇( 构建变体 )](https://segmentfault.com/a/1190000004241503)
 [Gradle for Android 第五篇( 多模块构建 )](https://segmentfault.com/a/1190000004247809)
+[Gradle for Android 第六篇( 测试)](https://segmentfault.com/a/1190000004260141)
 
 # Jenkins
 
