@@ -116,6 +116,7 @@
 [Gradle for Android 第四篇( 构建变体 )](https://segmentfault.com/a/1190000004241503)
 [Gradle for Android 第五篇( 多模块构建 )](https://segmentfault.com/a/1190000004247809)
 [Gradle for Android 第六篇( 测试)](https://segmentfault.com/a/1190000004260141)
+[Gradle for Android 第七篇( Groovy入门 )](https://segmentfault.com/a/1190000004276167)
 
 # Jenkins
 
