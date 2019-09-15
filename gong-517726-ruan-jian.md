@@ -112,6 +112,7 @@
 
 [Gradle for Android 第一篇( 从 Gradle 和 AS 开始 )](https://segmentfault.com/a/1190000004229002)
 [Gradle for Android 第二篇( Build.gradle入门 )](https://segmentfault.com/a/1190000004234712)
+[Gradle for Android 第三篇( 依赖管理 )](https://segmentfault.com/a/1190000004237922)
 
 # Jenkins
 
