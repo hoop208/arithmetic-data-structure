@@ -110,6 +110,8 @@
 
 [深入理解 Android 之 Gradle](http://wiki.jikexueyuan.com/project/deep-android-gradle/)
 
+[Gradle for Android 第一篇( 从 Gradle 和 AS 开始 )](https://segmentfault.com/a/1190000004229002)
+
 # Jenkins
 
 [Android Jenkins+Git+Gradle持续集成-实在太详细](https://www.jianshu.com/p/38b2e17ced73)
