@@ -18,6 +18,8 @@
 
 [通信协议之Protocol buffer(Java篇)](https://frank909.blog.csdn.net/article/details/53187780)
 
+[Google Protocol Buffer 的使用和原理](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
+
 
 
 
