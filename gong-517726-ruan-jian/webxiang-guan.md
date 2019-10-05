@@ -11,3 +11,5 @@
 # chrome开发工具
 
 [Chrome 开发工具指南](http://wiki.jikexueyuan.com/project/chrome-devtools/)
+
+[chrome开发者工具各种骚技巧](https://juejin.im/post/5af53823f265da0b75282b0f)
