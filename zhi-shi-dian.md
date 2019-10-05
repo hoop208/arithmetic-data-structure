@@ -38,6 +38,8 @@
 
 [正则表达式简明教程](https://juejin.im/post/5d2dfd48e51d45772a49adf4)
 
+[想写个 App 练手，有什么有趣的 API 接口推荐吗？](https://www.zhihu.com/question/39479153/answer/786952398)
+
 # RPC
 
 [谁能用通俗的语言解释一下什么是 RPC 框架？](https://www.zhihu.com/question/25536695)
