@@ -52,5 +52,7 @@
 
 [你都用 Python 来做什么？](https://www.zhihu.com/question/20799742/answer/99491808)
 
+[你们都是怎么学 Python 的？](https://www.zhihu.com/question/55493026/answer/637938925)
+
 
 
