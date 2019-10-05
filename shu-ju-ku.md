@@ -18,6 +18,8 @@
 
 [Redis 入门](https://juejin.im/post/5b4dd82ee51d451925629622)
 
+[余额并发扣减一致性，能否使用redis事务？](https://mp.weixin.qq.com/s/4mGXzC9U5lM91GpVM__BMg)
+
 # mybatis
 
 [极客学院-mybatis实战教程](http://wiki.jikexueyuan.com/project/mybatis-in-action/)
