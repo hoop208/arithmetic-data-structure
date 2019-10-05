@@ -1,4 +1,4 @@
-# 博客
+# 其它
 
 [几种计算机语言的评价](http://www.ruanyifeng.com/blog/2006/03/programming_language_evaluations.html)
 
@@ -27,6 +27,8 @@
 [计算机的本质是什么？逻辑？数学？](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485097&idx=1&sn=44522ad79fb9ebf1afa6498ce21f7517)
 
 [即使到了 2020 年，编程语言之争仍未休！](https://mp.weixin.qq.com/s/QTQ_Fja4l9AIjpLzcCshWg)
+
+[消息队列的使用场景是怎样的？](https://www.zhihu.com/question/34243607/answer/58314162)
 
 # 正则表达式
 
