@@ -30,6 +30,8 @@
 
 [消息队列的使用场景是怎样的？](https://www.zhihu.com/question/34243607/answer/58314162)
 
+[反向代理为何叫反向代理？](https://www.zhihu.com/question/24723688/answer/128105528)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
