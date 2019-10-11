@@ -41,7 +41,10 @@
 文档
 
 [正则表达式 - 教程](https://www.runoob.com/regexp/regexp-tutorial.html)
+
 博客
+
+[正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
 
 # 经验分享
 
