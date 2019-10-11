@@ -32,6 +32,8 @@
 
 [反向代理为何叫反向代理？](https://www.zhihu.com/question/24723688/answer/128105528)
 
+[架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
