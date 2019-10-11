@@ -34,6 +34,8 @@
 
 [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[弱类型、强类型、动态类型、静态类型语言的区别是什么？](https://www.zhihu.com/question/19918532)
+
 # 正则表达式
 
 [正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
