@@ -11,3 +11,7 @@
 [w3c-linux教程](https://www.w3cschool.cn/linux/?)
 
 [菜鸟教程-linux教程](https://www.runoob.com/linux/linux-tutorial.html)
+
+# 知识点
+
+[Linux系统的IPC](https://github.com/francistao/LearningNotes/blob/master/Part4/OperatingSystem/Linux%E7%B3%BB%E7%BB%9F%E7%9A%84IPC.md)
