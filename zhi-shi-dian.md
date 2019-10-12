@@ -36,6 +36,8 @@
 
 [弱类型、强类型、动态类型、静态类型语言的区别是什么？](https://www.zhihu.com/question/19918532)
 
+[DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
+
 # 正则表达式
 
 文档
