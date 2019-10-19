@@ -11,3 +11,5 @@
 [Android App消息推送 实现原理](https://blog.csdn.net/u012232736/article/details/80315295?utm_source=app)
 
 [【Android开发】如何实现android和服务器长连接呢？推送消息的原理](https://blog.csdn.net/sunmenggmail/article/details/12008075?utm_source=app)
+
+[WEB即时通讯/消息推送](https://blog.csdn.net/u010297957/article/details/60878821?utm_source=app)
