@@ -39,6 +39,8 @@
 
 [DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 
+[漫画：什么是中台？](https://mp.weixin.qq.com/s/_3-QdqKTx_VL_dq2Z_I7AQ)
+
 # 正则表达式
 
 文档
