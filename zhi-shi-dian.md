@@ -58,6 +58,8 @@
 
 [代码整洁 vs 代码肮脏](https://juejin.im/post/5d7f09e55188251ecc40dcbc)
 
+[【译】Google 官方文章——如何去做coder review](https://mp.weixin.qq.com/s/r4n_RtaA8vGbw7D-2E8bXg)
+
 # RPC
 
 [谁能用通俗的语言解释一下什么是 RPC 框架？](https://www.zhihu.com/question/25536695)
