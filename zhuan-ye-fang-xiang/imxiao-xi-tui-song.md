@@ -13,3 +13,5 @@
 [【Android开发】如何实现android和服务器长连接呢？推送消息的原理](https://blog.csdn.net/sunmenggmail/article/details/12008075?utm_source=app)
 
 [WEB即时通讯/消息推送](https://blog.csdn.net/u010297957/article/details/60878821?utm_source=app)
+
+[Web 实时推送技术的总](https://segmentfault.com/a/1190000018496938?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
