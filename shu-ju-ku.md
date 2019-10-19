@@ -22,7 +22,11 @@
 
 # mybatis
 
+文档
+
 [极客学院-mybatis实战教程](http://wiki.jikexueyuan.com/project/mybatis-in-action/)
+
+[w3c-MyBatis 教程](https://www.w3cschool.cn/mybatis/)
 
 # sqlite
 
