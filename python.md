@@ -54,5 +54,9 @@
 
 [你们都是怎么学 Python 的？](https://www.zhihu.com/question/55493026/answer/637938925)
 
+# 文档
+
+[菜鸟教程-Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
+
 
 
