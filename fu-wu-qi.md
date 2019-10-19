@@ -39,3 +39,7 @@
 文档
 
 [易百教程-nginx教程](https://www.yiibai.com/nginx/nginx-feature.html)
+
+博客
+
+[一个前端必会的 Nginx免费教程 (共11集)](http://jspang.com/posts/2018/10/05/nginx.html)
