@@ -34,4 +34,8 @@
 
 视频教程
 
-[Nginx免费视频教程](https://www.bilibili.com/video/av35986548) 
+[Nginx免费视频教程](https://www.bilibili.com/video/av35986548)  
+
+文档
+
+[易百教程-nginx教程](https://www.yiibai.com/nginx/nginx-feature.html)
