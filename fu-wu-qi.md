@@ -29,3 +29,9 @@
 视频
 
 [Docker入门](https://www.imooc.com/learn/867)
+
+# Nginx
+
+视频教程
+
+[Nginx免费视频教程](https://www.bilibili.com/video/av35986548) 
