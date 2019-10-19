@@ -61,9 +61,7 @@
 
 [【译】Google 官方文章——如何去做coder review](https://mp.weixin.qq.com/s/r4n_RtaA8vGbw7D-2E8bXg)
 
-
-
-[](https://mp.weixin.qq.com/s/GSVQn8zkwwVyI77JmfXvXA)
+[再看计算机体系基础](https://mp.weixin.qq.com/s/GSVQn8zkwwVyI77JmfXvXA)
 
 # RPC
 
