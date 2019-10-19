@@ -7,7 +7,7 @@
 [Stack的三种含义](http://www.ruanyifeng.com/blog/2013/11/stack.html)
 
 [计算机是如何启动的？](http://www.ruanyifeng.com/blog/2013/02/booting.html)
-
+[](https://mp.weixin.qq.com/s/KSLiCw12JJrgqGSTqcBTTQ)
 [字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
 
 [数据类型和Json格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
@@ -64,6 +64,8 @@
 [【译】Google 官方文章——如何去做coder review](https://mp.weixin.qq.com/s/r4n_RtaA8vGbw7D-2E8bXg)
 
 [再看计算机体系基础](https://mp.weixin.qq.com/s/GSVQn8zkwwVyI77JmfXvXA)
+
+[为什么要追求“极简”代码？](https://mp.weixin.qq.com/s/KSLiCw12JJrgqGSTqcBTTQ)
 
 # RPC
 
