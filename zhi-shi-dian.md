@@ -56,6 +56,8 @@
 
 [想写个 App 练手，有什么有趣的 API 接口推荐吗？](https://www.zhihu.com/question/39479153/answer/786952398)
 
+[代码整洁 vs 代码肮脏](https://juejin.im/post/5d7f09e55188251ecc40dcbc)
+
 # RPC
 
 [谁能用通俗的语言解释一下什么是 RPC 框架？](https://www.zhihu.com/question/25536695)
