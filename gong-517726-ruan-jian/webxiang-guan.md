@@ -4,6 +4,8 @@
 
 [Sublime Text 新建文件快速生成Html【头部信息】和【代码补全】、【汉化】](https://www.jianshu.com/p/f44e91bf9dfb)
 
+[Sublime Text 3 全程详细图文原创教程（持续更新中。。。）](https://www.cnblogs.com/wind128/p/4409422.html)
+
 # vscode
 
 [强大的 VS Code](https://juejin.im/post/5b123ace6fb9a01e6f560a4b)
