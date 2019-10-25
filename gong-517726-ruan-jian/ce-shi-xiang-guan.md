@@ -6,6 +6,8 @@
 
 [最强postman使用教程](https://blog.csdn.net/u013613428/column/info/37531)
 
+[善用工具之postman高级用法概述](https://lailin.xyz/post/45050.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # fiddler
 
 [Fiddler实用教程](https://segmentfault.com/a/1190000004240812)
