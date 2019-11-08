@@ -15,3 +15,7 @@
 **视频教程**
 
 [android摄像头基础](http://www.imooc.com/learn/543)
+
+# 开源项目 # 
+
+[Android自定义相机 ](https://github.com/jinguangyue/Android-CustomCamera)
