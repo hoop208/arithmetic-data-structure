@@ -14,6 +14,8 @@
 
 [你猜一个 TCP 连接上面能发多少个 HTTP 请求](https://zhuanlan.zhihu.com/p/61423830)
 
+[聊点 TCP 干货(1)](https://mp.weixin.qq.com/s?__biz=MzAwNjY3MjgzOA==&mid=2477610578&idx=1&sn=edf68d8c87215fe30549d432ce14a6e9&chksm=8d502efbba27a7ed31bb916acf27d7e107a97f2d019b19cd7e797fa6dba0a1ac3a0ceb200f9b&token=1027437335&lang=zh_CN#rd)
+
 
 
 
