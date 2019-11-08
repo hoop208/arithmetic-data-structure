@@ -63,6 +63,8 @@
 
 [借助Stetho在Chrome上调试Android网络&数据库](https://www.jianshu.com/p/03da9f91f41f)
 
+[使用全新 Android 模拟器工具进行持续测试](https://mp.weixin.qq.com/s/xAOxfuAySn__nPJlIKQXqA)
+
 
 
 
