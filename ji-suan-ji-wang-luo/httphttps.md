@@ -34,6 +34,8 @@
 
 [HTTPS 原理浅析及其在 Android 中的使用](https://zhuanlan.zhihu.com/p/27040041)
 
+[漫画：什么是 HTTPS 协议？](https://mp.weixin.qq.com/s/qrihPhQ_rezIJqyyIpmwSQ)
+
 
 
 
