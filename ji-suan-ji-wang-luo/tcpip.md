@@ -10,6 +10,8 @@
 
 [Android 基于TCP的 Socket 编程实现（结合 okio）](https://blog.csdn.net/yhaolpz/article/details/59483916)
 
+[IP、UDP和TCP的关系](https://mp.weixin.qq.com/s/1r4xgZqmmvZor7VAwSCk6A)
+
 
 
 
