@@ -1,4 +1,4 @@
-# 资料
+# 知识点
 
 [必知必会 | Android 测试相关的方方面面都在这儿](https://blog.csdn.net/lmj623565791/article/details/79623159)
 
@@ -7,6 +7,8 @@
 [Android 手机自动化测试工具有哪几种？](https://www.zhihu.com/question/19716849)
 
 [在Android Studio中进行单元测试和UI测试](https://www.jianshu.com/p/03118c11c199)
+
+[Android兼容性测试应该怎么做逼格更高呢？](https://mp.weixin.qq.com/s?__biz=MzIzNTYyOTE3NQ==&mid=2247485367&idx=1&sn=47d25a996707eea2068414d91f92d9b9)
 
 # 文档教程
 
@@ -19,3 +21,4 @@
 [Espresso 官方文档](https://testerhome.com/wiki/espresso)
 
 [使用Espresso测试UI](http://www.tastones.com/stackoverflow/android/testing-ui-with-espresso/group_a_collection_of_test_classes_in_a_test_suite/)
+
