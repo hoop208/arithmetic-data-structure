@@ -18,6 +18,8 @@
 
 [HTTP 传输编码增大了传输量，只为解决这一个问题 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485535&idx=1&sn=2e9f9113de8b84429e19ee12b69f3336&chksm=9785117ea0f298683c0a56d016711633f7b8b86d7570f8ffbe9216ae5f175ea5fa53471e55c4&scene=21#wechat_redirect)
 
+[解密HTTP/2与HTTP/3 的新特性](https://juejin.im/post/5d9abde7e51d4578110dc77f)
+
 # https
 
 [详解https是如何确保安全的？](http://www.wxtlife.com/2016/03/27/%E8%AF%A6%E8%A7%A3https%E6%98%AF%E5%A6%82%E4%BD%95%E7%A1%AE%E4%BF%9D%E5%AE%89%E5%85%A8%E7%9A%84%EF%BC%9F/)
