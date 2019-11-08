@@ -6,6 +6,8 @@
 
 [为什么 C 语言仍然占据统治地位？](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
 
+[如何学习 C 语言？](https://www.zhihu.com/question/19668080/answer/776041790)
+
 # 学习路线
 
 [学习C语言基本思路与参考书籍](https://zhuanlan.zhihu.com/p/19694823)
