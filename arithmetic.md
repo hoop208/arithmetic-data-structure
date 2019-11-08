@@ -61,6 +61,7 @@
 [基数排序详解以及java实现](https://www.cnblogs.com/developerY/p/3172379.html)
 
 [手写算法并记住它：冒泡排序](https://juejin.im/post/5d6dcd59e51d45620c1c5416)
+[手写算法并记住它：快速排序（5行代码简单版）](https://juejin.im/post/5d75b4d45188250c992d5919)
 
 # 红黑树
 
