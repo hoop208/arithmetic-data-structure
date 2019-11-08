@@ -41,6 +41,8 @@
 
 [漫画：什么是中台？](https://mp.weixin.qq.com/s/_3-QdqKTx_VL_dq2Z_I7AQ)
 
+[一文带你搞懂API网关](https://acoder2013.typlog.io/2019/yi-wen-dai-ni-gao-dong-apiwang-guan-fd536318?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 正则表达式
 
 文档
