@@ -28,6 +28,8 @@
 
 [写给前端的Docker实战教程](https://zhuanlan.zhihu.com/p/83309276)
 
+[如何通俗解释Docker是什么？](https://www.zhihu.com/question/28300645/answer/67707287)
+
 视频
 
 [Docker入门](https://www.imooc.com/learn/867)
