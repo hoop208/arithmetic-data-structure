@@ -1,4 +1,4 @@
-# 经验分享[](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
+# 经验分享
 
 [C#、C++、Java、Python 选择哪个好？](https://www.zhihu.com/question/298323023/answer/523720835)
 
@@ -7,8 +7,6 @@
 [为什么 C 语言仍然占据统治地位？](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
 
 [如何学习 C 语言？](https://www.zhihu.com/question/19668080/answer/776041790)
-
-# 学习路线
 
 [学习C语言基本思路与参考书籍](https://zhuanlan.zhihu.com/p/19694823)
 
@@ -19,3 +17,7 @@
 # 文档
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
+
+# 知识点
+
+[三问C语言头文件：什么是头文件？头文件作用是什么？如何包含头文件？](https://www.dotcpp.com/wp/374.html)
