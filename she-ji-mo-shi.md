@@ -21,3 +21,7 @@
 # 函数式编程
 
 [函数式编程初探](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)
+
+# 面向对象
+
+[面向对象编程之兴衰](https://mp.weixin.qq.com/s/eytnPRhZQBIc0hUxLL9ZHA)
