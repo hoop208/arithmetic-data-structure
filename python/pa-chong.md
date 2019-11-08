@@ -13,4 +13,8 @@
 
 [1198元学习python爬虫合适吗？](https://www.zhihu.com/question/329282168/answer/741495656)
 
+# 文档
+
+[Python 爬虫学习系列教程](http://wiki.jikexueyuan.com/project/python-crawler-guide/)
+
 
