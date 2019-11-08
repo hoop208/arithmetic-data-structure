@@ -32,6 +32,8 @@
 
 [HTTPS的七个误解（译文）](http://www.ruanyifeng.com/blog/2011/02/seven_myths_about_https.html)
 
+[HTTPS 原理浅析及其在 Android 中的使用](https://zhuanlan.zhihu.com/p/27040041)
+
 
 
 
