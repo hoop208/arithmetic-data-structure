@@ -60,6 +60,8 @@
 
 [基数排序详解以及java实现](https://www.cnblogs.com/developerY/p/3172379.html)
 
+[手写算法并记住它：冒泡排序](https://juejin.im/post/5d6dcd59e51d45620c1c5416)
+
 # 红黑树
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
