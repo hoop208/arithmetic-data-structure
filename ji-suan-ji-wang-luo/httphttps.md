@@ -36,6 +36,8 @@
 
 [漫画：什么是 HTTPS 协议？](https://mp.weixin.qq.com/s/qrihPhQ_rezIJqyyIpmwSQ)
 
+[深入揭秘HTTPS安全问题&连接建立全过程](https://zhuanlan.zhihu.com/p/22142170)
+
 
 
 
