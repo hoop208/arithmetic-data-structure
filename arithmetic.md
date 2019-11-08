@@ -66,6 +66,7 @@
 [手写算法并记住它：选择排序](https://juejin.im/post/5d6f14c5e51d4561f17a5130)
 [手写算法并记住它：插入排序](https://juejin.im/post/5d72201df265da03ca11906d)
 [手写算法并记住它：归并排序](https://juejin.im/post/5d73187ae51d4561fb04bfc7)
+[手写算法并记住它：计数排序](https://juejin.im/post/5d7eec9a5188254d2f656131)
 
 # 红黑树
 
