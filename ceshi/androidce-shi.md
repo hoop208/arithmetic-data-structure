@@ -34,3 +34,4 @@
 [安卓单元测试(八)：Junit Rule的使用](https://chriszou.com/2016/07/09/junit-rule.html)
 [安卓单元测试（九）：使用Mockito Annotation快速创建Mock](https://chriszou.com/2016/07/16/mockito-annotation.html)
 [Android单元测试(十)：DaggerMock：The Power of Dagger2, The Ease of Mockito](https://chriszou.com/2016/07/24/android-unit-testing-daggermock.html)
+[安卓单元测试(十一)：异步代码怎么测试](https://chriszou.com/2016/08/06/android-unit-testing-async.html)
