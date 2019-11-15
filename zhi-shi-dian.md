@@ -43,6 +43,10 @@
 
 [一文带你搞懂API网关](https://acoder2013.typlog.io/2019/yi-wen-dai-ni-gao-dong-apiwang-guan-fd536318?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+DNS
+
+[讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 正则表达式
 
 文档
