@@ -28,15 +28,20 @@
 
 [AndroidStudio教程](https://study.163.com/course/courseMain.htm?courseId=1003130007&_trace_c_p_k2_=3246dfc4312742779fdcb73160bb7656#/courseDetail?tab=1)
 
-[希望整理Android Studio 最全面的开发插件。](https://github.com/PegasusCharles/Android-Studio-Plugins-cn)
-
 [你所不知道的Android Studio调试技巧](https://www.jianshu.com/p/011eb88f4e0d)
 
 [Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
-
 [代码洁癖症的我，学习Lint学到心态爆炸](https://juejin.im/post/5d307615f265da1b6b1d0dd9)
 
 [是时候让 Android Tools 属性拯救你了 | 开发者说·DTalk](https://mp.weixin.qq.com/s/cMckAwINOB1LD-j5GfjrZQ)
+
+插件
+
+[Android Studio最全插件整理](https://mp.weixin.qq.com/s/CImUPof04Sjc6oUey3hBRw)
+
+[希望整理Android Studio 最全面的开发插件。](https://github.com/PegasusCharles/Android-Studio-Plugins-cn)
+
+[Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
 
 # 其它
 
