@@ -22,6 +22,8 @@
 
 [android图像处理系列之三－－图片色调饱和度、色相、亮度处理](https://blog.csdn.net/sjf0115/article/details/7267063)
 
+[Android-图像处理小记](https://www.jianshu.com/p/9f3726a479b6)
+
 阴影
 
 [给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
