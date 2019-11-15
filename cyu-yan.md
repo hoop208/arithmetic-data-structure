@@ -20,4 +20,8 @@
 
 # 知识点
 
+头文件
+
 [三问C语言头文件：什么是头文件？头文件作用是什么？如何包含头文件？](https://www.dotcpp.com/wp/374.html)
+
+[C语言中.h和.c文件解析（很精彩）](https://www.cnblogs.com/laojie4321/archive/2012/03/30/2425015.html)
