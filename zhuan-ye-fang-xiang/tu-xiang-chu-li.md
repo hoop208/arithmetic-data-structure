@@ -1,22 +1,6 @@
 # 知识点
 
-[Android L 使用 ViewOutlineProvider 裁剪 View](https://panda912.com/2017/01/12/Android-L-%E4%BD%BF%E7%94%A8-ViewOutlineProvider-%E8%A3%81%E5%89%AA-View/)
-
-[你不知道的圆形圆角处理方式](https://juejin.im/post/5a7a6bd1f265da4e9c630fa9)
-
-[android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
-
-[android:clipToPadding的使用](https://blog.csdn.net/wangjiang_qianmo/article/details/54604378)
-
-[android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
-
-[Android 高清加载巨图方案 拒绝压缩图片](https://blog.csdn.net/lmj623565791/article/details/49300989)
-
 [逻辑分辨率和物理分辨率到底是什么呀？](https://www.zhihu.com/question/40506180)
-
-[Android 视图圆角化处理方案](https://www.jianshu.com/p/b24683e29aff?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
-[Fun with Android Shaders and Filters](https://chiuki.github.io/android-shaders-filters/#/)
 
 # 阴影
 
@@ -39,6 +23,28 @@
 [手把手教学， android 使用 SVG](https://www.jianshu.com/p/5c81970ddf33)
 
 [Android使用矢量图（SVG, VectorDrawable）实践篇](https://www.jianshu.com/p/0555b8c1d26a)
+
+# android图像处理
+
+[Android L 使用 ViewOutlineProvider 裁剪 View](https://panda912.com/2017/01/12/Android-L-%E4%BD%BF%E7%94%A8-ViewOutlineProvider-%E8%A3%81%E5%89%AA-View/)
+
+[你不知道的圆形圆角处理方式](https://juejin.im/post/5a7a6bd1f265da4e9c630fa9)
+
+[android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
+
+[android:clipToPadding的使用](https://blog.csdn.net/wangjiang_qianmo/article/details/54604378)
+
+[android:clipToPadding和android:clipChildren](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0317/2613.html)
+
+[Android 高清加载巨图方案 拒绝压缩图片](https://blog.csdn.net/lmj623565791/article/details/49300989)
+
+
+
+[Android 视图圆角化处理方案](https://www.jianshu.com/p/b24683e29aff?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Fun with Android Shaders and Filters](https://chiuki.github.io/android-shaders-filters/#/)
+
+
 
 
 
