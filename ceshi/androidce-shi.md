@@ -33,3 +33,4 @@
 [Android单元测试（七）：Robolectric，在JVM上调用安卓的类](https://chriszou.com/2016/06/05/robolectric-android-on-jvm.html)
 [安卓单元测试(八)：Junit Rule的使用](https://chriszou.com/2016/07/09/junit-rule.html)
 [安卓单元测试（九）：使用Mockito Annotation快速创建Mock](https://chriszou.com/2016/07/16/mockito-annotation.html)
+[Android单元测试(十)：DaggerMock：The Power of Dagger2, The Ease of Mockito](https://chriszou.com/2016/07/24/android-unit-testing-daggermock.html)
