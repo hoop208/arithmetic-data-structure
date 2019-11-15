@@ -35,6 +35,8 @@
 
 [是时候让 Android Tools 属性拯救你了 | 开发者说·DTalk](https://mp.weixin.qq.com/s/cMckAwINOB1LD-j5GfjrZQ)
 
+[Split layouts into subfolders in Android Studio](https://proandroiddev.com/split-layout-into-subfolder-in-android-5bf76f805e90)
+
 插件
 
 [Android Studio最全插件整理](https://mp.weixin.qq.com/s/CImUPof04Sjc6oUey3hBRw)
