@@ -47,6 +47,8 @@
 
 [Android Studio有哪些非常好用的插件？](https://www.zhihu.com/question/28527388)
 
+[学会编写Android Studio插件 别停留在用的程度了](https://blog.csdn.net/lmj623565791/article/details/51548272)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
