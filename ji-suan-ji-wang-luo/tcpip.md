@@ -18,6 +18,8 @@
 
 [TCP/IP 协议到底在讲什么？](https://www.zhihu.com/question/51074319)
 
+[以女朋友为例讲解 TCP/IP 三次握手与四次挥手](https://zhuanlan.zhihu.com/p/35768805)
+
 
 
 
