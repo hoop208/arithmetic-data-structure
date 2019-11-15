@@ -27,3 +27,7 @@
 [C语言中.h和.c文件解析（很精彩）](https://www.cnblogs.com/laojie4321/archive/2012/03/30/2425015.html)
 
 [C语言头文件深入理解](http://outofmemory.cn/C-lang/tutorial/1-file-understand)
+
+指针
+
+[C 语言指针怎么理解？](https://www.zhihu.com/question/24466000/answer/659429892)
