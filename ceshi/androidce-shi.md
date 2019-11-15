@@ -30,3 +30,4 @@
 [Android单元测试（四）：Mock以及Mockito的使用](https://chriszou.com/2016/04/29/android-unit-testing-mockito.html)
 [Android单元测试（五）：依赖注入，将mock方便的用起来](https://chriszou.com/2016/05/06/android-unit-testing-di.html)
 [Android单元测试（六）：使用dagger2来做依赖注入，以及在单元测试中的应用](https://chriszou.com/2016/05/10/android-unit-testing-di-dagger.html)
+[Android单元测试（七）：Robolectric，在JVM上调用安卓的类](https://chriszou.com/2016/06/05/robolectric-android-on-jvm.html)
