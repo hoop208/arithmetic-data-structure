@@ -28,3 +28,4 @@
 [Android单元测试（二）：再来谈谈为什么](https://chriszou.com/2016/04/16/android-unit-testing-about-why.html)
 [Android单元测试(三)：JUnit单元测试框架的使用](https://chriszou.com/2016/04/18/android-unit-testing-junit.html)
 [Android单元测试（四）：Mock以及Mockito的使用](https://chriszou.com/2016/04/29/android-unit-testing-mockito.html)
+[Android单元测试（五）：依赖注入，将mock方便的用起来](https://chriszou.com/2016/05/06/android-unit-testing-di.html)
