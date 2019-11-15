@@ -45,6 +45,8 @@
 
 [Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
 
+[Android Studio有哪些非常好用的插件？](https://www.zhihu.com/question/28527388)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
