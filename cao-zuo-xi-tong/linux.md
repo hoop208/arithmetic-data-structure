@@ -15,3 +15,5 @@
 # 知识点
 
 [Linux系统的IPC](https://github.com/francistao/LearningNotes/blob/master/Part4/OperatingSystem/Linux%E7%B3%BB%E7%BB%9F%E7%9A%84IPC.md)
+
+[如何学习 Linux 命令行，有哪些经验思路和方法？](https://www.zhihu.com/question/19655399/answer/719652193)
