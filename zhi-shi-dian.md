@@ -43,6 +43,8 @@
 
 [一文带你搞懂API网关](https://acoder2013.typlog.io/2019/yi-wen-dai-ni-gao-dong-apiwang-guan-fd536318?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[ARM与X86 CPU架构对比区别](https://www.iteye.com/blog/ihyperwin-1701132)
+
 DNS
 
 [讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
