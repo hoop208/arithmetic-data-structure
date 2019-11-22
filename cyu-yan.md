@@ -14,6 +14,8 @@
 
 [学c语言该怎么入门？](https://www.zhihu.com/question/28514714/answer/227338767)
 
+[为什么说 C/C++ 不适合做 Web 开发？](https://www.zhihu.com/question/26852208/answer/34278013)
+
 # 文档
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
