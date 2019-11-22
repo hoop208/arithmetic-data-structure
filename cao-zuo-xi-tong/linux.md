@@ -20,6 +20,8 @@
 
 [如何学习 Linux 命令行，有哪些经验思路和方法？](https://www.zhihu.com/question/19655399/answer/719652193)
 
+[看完这篇Linux基本的操作就会了](https://zhuanlan.zhihu.com/p/36801617)
+
 # Linux内核
 
 [漫画赏析：Linux 内核到底长啥样](https://linux.cn/article-8290-1.html)
