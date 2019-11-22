@@ -33,3 +33,5 @@
 [C 语言指针怎么理解？](https://www.zhihu.com/question/24466000/answer/659429892)
 
 [指针究竟有什么用？](https://www.zhihu.com/question/38864414/answer/81448294)
+
+[为什么说指针是 C 语言的精髓？](https://www.zhihu.com/question/20125963/answer/104060886)
