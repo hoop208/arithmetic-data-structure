@@ -37,3 +37,7 @@
 [指针究竟有什么用？](https://www.zhihu.com/question/38864414/answer/81448294)
 
 [为什么说指针是 C 语言的精髓？](https://www.zhihu.com/question/20125963/answer/104060886)
+
+其它
+
+[编写C语言程序时必须有#include<stdio.h>这一行吗？为什么有时候不需要？](https://www.zhihu.com/question/21287371/answer/17791323)
