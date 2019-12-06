@@ -16,6 +16,8 @@
 
 [为什么说 C/C++ 不适合做 Web 开发？](https://www.zhihu.com/question/26852208/answer/34278013)
 
+[C 语言比 C++ 更强大吗？](https://www.zhihu.com/question/63015547/answer/205667751)
+
 # 文档
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
