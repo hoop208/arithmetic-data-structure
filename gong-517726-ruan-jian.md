@@ -20,6 +20,8 @@
 
 [百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新](https://github.com/high-speed-downloader/high-speed-downloader)
 
+[《吐血整理》-顶级程序员工具集](https://mp.weixin.qq.com/s/bEgmpIS2Ecp73GcX7nE1ug)
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
