@@ -51,16 +51,6 @@ DNS
 
 [讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-# 正则表达式
-
-文档
-
-[正则表达式 - 教程](https://www.runoob.com/regexp/regexp-tutorial.html)
-
-博客
-
-[正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
-
 # 经验分享
 
 [程序员阅读源码是一种什么心态？源码对编程意义何在？如何才能更好阅读代码？](https://www.zhihu.com/question/29765945/answer/47725158)
@@ -78,6 +68,16 @@ DNS
 [为什么要追求“极简”代码？](https://mp.weixin.qq.com/s/KSLiCw12JJrgqGSTqcBTTQ)
 
 [【译】做好这几件事，代码质量可以提升一个档次](https://mp.weixin.qq.com/s/9FEG8YaW6uCt_05tOqi7rw)
+
+# 正则表达式
+
+文档
+
+[正则表达式 - 教程](https://www.runoob.com/regexp/regexp-tutorial.html)
+
+博客
+
+[正则表达式不要背](https://juejin.im/post/5cdcd42551882568651554e6)
 
 # RPC
 
