@@ -77,6 +77,8 @@ DNS
 
 [为什么要追求“极简”代码？](https://mp.weixin.qq.com/s/KSLiCw12JJrgqGSTqcBTTQ)
 
+[【译】做好这几件事，代码质量可以提升一个档次](https://mp.weixin.qq.com/s/9FEG8YaW6uCt_05tOqi7rw)
+
 # RPC
 
 [谁能用通俗的语言解释一下什么是 RPC 框架？](https://www.zhihu.com/question/25536695)
