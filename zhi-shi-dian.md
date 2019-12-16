@@ -69,6 +69,8 @@ DNS
 
 [【译】做好这几件事，代码质量可以提升一个档次](https://mp.weixin.qq.com/s/9FEG8YaW6uCt_05tOqi7rw)
 
+[尽量避免 Bug 的一些手法](https://mp.weixin.qq.com/s/wockwoduuEIRTHkLTxP4Dw)
+
 # 正则表达式
 
 文档
