@@ -51,6 +51,8 @@
 
 [优秀的代码都是如何分层的？](https://mp.weixin.qq.com/s/OBrpxEG_5cY6aJWjhf9VEQ)
 
+[“RPC好，还是RESTful好？”，这个问题不简单](https://mp.weixin.qq.com/s/rdRe0k4nFYFeZIa_Y6xBKA)
+
 DNS
 
 [讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
