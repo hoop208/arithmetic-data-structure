@@ -20,6 +20,8 @@
 
 [C语言仅凭自学能到什么高度？](https://www.zhihu.com/question/22465774/answer/660997629)
 
+[为什么我选择用 C 编写游戏？](https://mp.weixin.qq.com/s/00_FTQkRG0MagF2vn2v_sA)
+
 # 文档
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
