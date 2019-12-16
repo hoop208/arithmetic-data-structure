@@ -47,3 +47,5 @@
 [编写C语言程序时必须有#include<stdio.h>这一行吗？为什么有时候不需要？](https://www.zhihu.com/question/21287371/answer/17791323)
 
 [C语言里，main 函数中 return x和 exit(x) 到底有什么区别 ?](https://www.zhihu.com/question/26591968/answer/33639916)
+
+[C 语言这么厉害，它自身是用什么语言写的？](https://mp.weixin.qq.com/s/oUe0_Y3nKbaBJt0ZwLDy6g)
