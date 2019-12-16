@@ -71,6 +71,8 @@ DNS
 
 [尽量避免 Bug 的一些手法](https://mp.weixin.qq.com/s/wockwoduuEIRTHkLTxP4Dw)
 
+[这篇文章我们来聊聊什么是程序的局部性原理](https://mp.weixin.qq.com/s/nvEELIgGmOGBwK-aOChyGg)
+
 # 正则表达式
 
 文档
