@@ -18,6 +18,8 @@
 
 [C 语言比 C++ 更强大吗？](https://www.zhihu.com/question/63015547/answer/205667751)
 
+[C语言仅凭自学能到什么高度？](https://www.zhihu.com/question/22465774/answer/660997629)
+
 # 文档
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
