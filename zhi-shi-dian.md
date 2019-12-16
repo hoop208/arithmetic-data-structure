@@ -49,6 +49,8 @@
 
 [为什么你学不会递归？告别递归，谈谈我的一些经验](https://mp.weixin.qq.com/s/fjL2APVquivPk9rhXX8T-w)
 
+[优秀的代码都是如何分层的？](https://mp.weixin.qq.com/s/OBrpxEG_5cY6aJWjhf9VEQ)
+
 DNS
 
 [讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
