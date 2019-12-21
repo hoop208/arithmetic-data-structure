@@ -22,6 +22,8 @@
 
 [为什么我选择用 C 编写游戏？](https://mp.weixin.qq.com/s/00_FTQkRG0MagF2vn2v_sA)
 
+[什么时候用C而不用C++？](https://www.zhihu.com/question/30567850/answer/48645759)
+
 # 文档
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
