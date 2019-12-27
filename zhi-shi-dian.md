@@ -81,6 +81,8 @@ DNS
 
 [如何做一名有高度的移动开发工程师](https://zhuanlan.zhihu.com/p/92749086?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[十年程序员血与泪：千万别重构代码！](https://mp.weixin.qq.com/s/nj7Q-De-0VcuQ0IOWkb7Kg)
+
 # 正则表达式
 
 文档
