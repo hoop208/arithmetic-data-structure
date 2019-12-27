@@ -49,6 +49,10 @@
 
 [学会编写Android Studio插件 别停留在用的程度了](https://blog.csdn.net/lmj623565791/article/details/51548272)
 
+# Profile
+
+[Android Studio 3.0 利用 Android Profiler 测量应用性能](https://juejin.im/post/5b7cbf6f518825430810bcc6)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
