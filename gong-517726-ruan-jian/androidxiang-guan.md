@@ -53,6 +53,8 @@
 
 [Android Studio 3.0 利用 Android Profiler 测量应用性能](https://juejin.im/post/5b7cbf6f518825430810bcc6)
 
+[Android Studio 3.0 Memory Profiler使用](https://www.jianshu.com/p/e75680772375)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
