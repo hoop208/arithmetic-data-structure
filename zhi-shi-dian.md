@@ -79,6 +79,8 @@ DNS
 
 [这篇文章我们来聊聊什么是程序的局部性原理](https://mp.weixin.qq.com/s/nvEELIgGmOGBwK-aOChyGg)
 
+[如何做一名有高度的移动开发工程师](https://zhuanlan.zhihu.com/p/92749086?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # 正则表达式
 
 文档
