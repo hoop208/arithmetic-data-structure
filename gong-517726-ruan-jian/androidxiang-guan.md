@@ -55,6 +55,8 @@
 
 [Android Studio 3.0 Memory Profiler使用](https://www.jianshu.com/p/e75680772375)
 
+[Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
+
 # 其它
 
 [Dex to Java decompiler](https://github.com/skylot/jadx)
