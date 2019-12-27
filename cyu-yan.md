@@ -28,6 +28,8 @@
 
 [w3c-c教程](https://www.w3cschool.cn/c/)
 
+[c语言教程-菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
+
 # 知识点
 
 头文件
