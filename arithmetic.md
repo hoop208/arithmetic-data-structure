@@ -8,6 +8,10 @@
 
 [数据结构排序算法之桶排序演示](https://www.bilibili.com/video/av17940595/)
 
+# 资料
+
+[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+
 # 知识点
 
 [算法的时间复杂度和空间复杂度-总结](https://blog.csdn.net/zolalad/article/details/11848739)
