@@ -83,6 +83,8 @@ DNS
 
 [十年程序员血与泪：千万别重构代码！](https://mp.weixin.qq.com/s/nj7Q-De-0VcuQ0IOWkb7Kg)
 
+[如何学会所有的编程语言？](https://www.infoq.cn/article/8STbPDW9M9xVGVc2eVIP)
+
 # 正则表达式
 
 文档
