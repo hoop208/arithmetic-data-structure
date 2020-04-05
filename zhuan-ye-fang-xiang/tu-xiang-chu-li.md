@@ -54,6 +54,8 @@
 
 [Take control of view’s shadow — Android (Part 2)](https://medium.com/@ArmanSo/take-control-of-views-shadow-android-part-2-b4f2c715e880)
 
+[View Outline Providers and their awesomeness](https://www.tengio.com/blog/view-outline-providers-and-their-awesomeness/)
+
 svg
 
 [手把手教学， android 使用 SVG](https://www.jianshu.com/p/5c81970ddf33)
