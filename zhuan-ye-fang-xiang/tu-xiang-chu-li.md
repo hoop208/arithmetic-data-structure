@@ -42,6 +42,8 @@
 
 [Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
 
+[Playing with elevation in Android (part 1)](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftips.seebrock3r.me%2Fplaying-with-elevation-in-android-part-1-36b901287249)
+
 svg
 
 [手把手教学， android 使用 SVG](https://www.jianshu.com/p/5c81970ddf33)
