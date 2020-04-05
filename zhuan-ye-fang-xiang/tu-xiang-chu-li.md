@@ -40,6 +40,8 @@
 
 [Android开发中阴影效果的实现](https://juejin.im/post/5ae1ba4d6fb9a07acc116b8d)
 
+[Playing with elevation in Android](https://blog.usejournal.com/playing-with-elevation-in-android-91af4f3be596)
+
 svg
 
 [手把手教学， android 使用 SVG](https://www.jianshu.com/p/5c81970ddf33)
