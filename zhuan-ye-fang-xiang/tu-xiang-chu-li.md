@@ -46,7 +46,11 @@
 
 [Playing with elevation in Android (part 2)](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftips.seebrock3r.me%2Fplaying-with-elevation-in-android-part-2-2b415795ceb6)
 
-[uplift](https://github.com/rock3r/uplift)
+[A playground for elevation on Android](https://github.com/rock3r/uplift)
+
+[Mastering Shadows in Android](https://android.jlelse.eu/mastering-shadows-in-android-e883ad2c9d5b)
+
+[Take control of view’s shadow — Android](https://medium.com/@ArmanSo/take-control-of-views-shadow-android-c6b35ba573e9)
 
 svg
 
