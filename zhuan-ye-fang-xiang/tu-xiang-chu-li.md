@@ -52,6 +52,8 @@
 
 [Take control of view’s shadow — Android](https://medium.com/@ArmanSo/take-control-of-views-shadow-android-c6b35ba573e9)
 
+[Take control of view’s shadow — Android (Part 2)](https://medium.com/@ArmanSo/take-control-of-views-shadow-android-part-2-b4f2c715e880)
+
 svg
 
 [手把手教学， android 使用 SVG](https://www.jianshu.com/p/5c81970ddf33)
