@@ -80,7 +80,8 @@
 [手写算法并记住它：基数排序](https://juejin.im/post/5d849ce46fb9a06af372f2de)
 
 [动画 | 什么是归并排序？](https://mp.weixin.qq.com/s/OoFxn7JgO2_b6MBGw82QEQ)  
-[漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)
+[漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)  
+[](https://mp.weixin.qq.com/s/P9_BH0WJ_H3tjItnqsRlcQ)
 
 
 # 红黑树
@@ -96,3 +97,5 @@
 # LRU
 
 [缓存淘汰算法之LRU](https://www.cnblogs.com/-OYK/archive/2012/12/05/2803317.html)
+
+[漫画：什么是LRU算法？](https://mp.weixin.qq.com/s/P9_BH0WJ_H3tjItnqsRlcQ)
