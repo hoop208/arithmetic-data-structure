@@ -79,6 +79,8 @@
 [手写算法并记住它：桶排序](https://juejin.im/post/5d819a2ee51d45620064bc00)
 [手写算法并记住它：基数排序](https://juejin.im/post/5d849ce46fb9a06af372f2de)
 
+[动画 | 什么是归并排序？](https://mp.weixin.qq.com/s/OoFxn7JgO2_b6MBGw82QEQ)
+
 # 红黑树
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
