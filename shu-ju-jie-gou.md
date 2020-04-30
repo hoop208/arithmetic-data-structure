@@ -11,3 +11,5 @@
 # 二叉树
 
 [二叉树就是这么简单](https://juejin.im/post/5ab5a01d518825555c1d9a24)
+
+[数据结构：堆（Heap）](https://www.jianshu.com/p/6b526aa481b1)
