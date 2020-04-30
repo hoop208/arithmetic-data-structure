@@ -24,6 +24,8 @@
 
 [超酷炫！5 款图像工具瞬间提高代码逼格！](https://mp.weixin.qq.com/s/e0UHgnp511awTerxiA2uEw)
 
+[开源源码阅读工具](https://github.com/CoatiSoftware/Sourcetrail)
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
