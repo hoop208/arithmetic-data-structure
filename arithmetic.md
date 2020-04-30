@@ -60,7 +60,8 @@
 
 [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 
-[图解排序算法(二)之希尔排序](https://www.cnblogs.com/chengxiao/p/6104371.html)
+[图解排序算法(二)之希尔排序](https://www.cnblogs.com/chengxiao/p/6104371.html)  
+[图解排序算法(三)之堆排序](https://www.cnblogs.com/chengxiao/p/6129630.html)
 
 [堆排序就这么简单](https://segmentfault.com/a/1190000013960582#articleHeader1)
 
