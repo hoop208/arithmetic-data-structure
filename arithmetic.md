@@ -8,6 +8,8 @@
 
 [数据结构排序算法之桶排序演示](https://www.bilibili.com/video/av17940595/)
 
+[（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/BV1os41117Fs?p=1)
+
 # 资料
 
 [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
