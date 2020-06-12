@@ -16,11 +16,15 @@
 
 [天天给 App 抓包，还不懂 HTTP 代理吗？ | 实用 HTTP](https://mp.weixin.qq.com/s/H5H0LixgRY6CoRunBaLBAw)
 
-[HTTP 传输编码增大了传输量，只为解决这一个问题 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485535&idx=1&sn=2e9f9113de8b84429e19ee12b69f3336&chksm=9785117ea0f298683c0a56d016711633f7b8b86d7570f8ffbe9216ae5f175ea5fa53471e55c4&scene=21#wechat_redirect)
+[HTTP 传输编码增大了传输量，只为解决这一个问题 | 实用 HTTP](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247485535&idx=1&sn=2e9f9113de8b84429e19ee12b69f3336&chksm=9785117ea0f298683c0a56d016711633f7b8b86d7570f8ffbe9216ae5f175ea5fa53471e55c4&scene=21#wechat_redirect
+
+# http2
 
 [解密HTTP/2与HTTP/3 的新特性](https://juejin.im/post/5d9abde7e51d4578110dc77f)
 
 [HTTP/2 服务器推送（Server Push）教程](http://www.ruanyifeng.com/blog/2018/03/http2_server_push.html)
+
+[Http2.0的奇妙日常](http://www.alloyteam.com/2015/03/http2-0-di-qi-miao-ri-chang/)
 
 # https
 
