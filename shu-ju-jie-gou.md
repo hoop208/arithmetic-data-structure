@@ -33,6 +33,10 @@
 
 [一文读懂平衡二叉树 | 技术头条](https://mp.weixin.qq.com/s/AYWe67uhB466GcJoWehx5A)
 
+# 堆
+
+[数据结构-堆（heap）](https://blog.csdn.net/juanqinyang/article/details/51418629)
+
 # 红黑树
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
