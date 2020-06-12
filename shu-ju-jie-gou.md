@@ -49,3 +49,5 @@
 
 [漫画：什么是红黑树？](https://mp.weixin.qq.com/s/E8KTTZHCmr9e0jHO3DosNQ)
 
+[我画了 20 张图，给女朋友讲清楚红黑树](https://mp.weixin.qq.com/s/Un1LuUo4LDQC8Sl-mfg4og)
+
