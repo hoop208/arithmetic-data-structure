@@ -50,6 +50,8 @@
 
 [SHA1算法原理](https://www.cnblogs.com/scu-cjx/p/6878853.html)
 
+[动画：散列表 | 文本编辑器是如何检查英文单词出错的？](https://mp.weixin.qq.com/s?__biz=MzAxNDYwODEzNw==&mid=2247485571&amp;idx=1&amp;sn=a0c3bc31d1d0aa79620f4ad60985d6c4&source=41#wechat_redirect)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
