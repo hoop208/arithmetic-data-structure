@@ -58,6 +58,8 @@
 
 [漫画：小学生都能看懂的 HTTPS](https://mp.weixin.qq.com/s/8KjNS8ZpmcyCWrKoaMZU7Q)
 
+[也许，这样理解HTTPS更容易](https://mp.weixin.qq.com/s/ro-tuO1DwM0CINJUxtiu3g)
+
 
 
 
