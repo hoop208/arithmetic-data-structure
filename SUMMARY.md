@@ -4,7 +4,7 @@
 * [算法和数据结构](arithmetic.md)
   * [排序算法](arithmetic/pai-xu-suan-fa.md)
   * [数据结构](shu-ju-jie-gou.md)
-  * [hash算法](arithmetic/hashsuan-fa.md)
+  * [算法](arithmetic/hashsuan-fa.md)
 * [计算机网络](ji-suan-ji-wang-luo.md)
   * [Tcp/Ip](ji-suan-ji-wang-luo/tcpip.md)
   * [Http/Https](ji-suan-ji-wang-luo/httphttps.md)
