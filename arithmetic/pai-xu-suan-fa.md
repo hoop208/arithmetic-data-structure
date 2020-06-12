@@ -47,3 +47,5 @@
 
 [你有进一步深入理解二分查找吗？](https://mp.weixin.qq.com/s/Rle4ZlJaqeOYRxo_xVmX1Q)
 
+[动画: 快速排序 | 如何求第 K 大元素？](https://mp.weixin.qq.com/s?__biz=MzAxNDYwODEzNw==&mid=2247485584&amp;idx=1&amp;sn=564943ad231c1150b72c8873fc7db722&source=41#wechat_redirect)
+
