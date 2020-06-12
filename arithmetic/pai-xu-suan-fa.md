@@ -22,8 +22,10 @@
 [手写算法并记住它：基数排序](https://juejin.im/post/5d849ce46fb9a06af372f2de)
 
 [动画 | 什么是归并排序？](https://mp.weixin.qq.com/s/OoFxn7JgO2_b6MBGw82QEQ)  
+[](https://mp.weixin.qq.com/s/g1uYrl0dxVkoLNK4vSpH9Q)
+
 [漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)  
-[](https://mp.weixin.qq.com/s/P9_BH0WJ_H3tjItnqsRlcQ)
+[动画 | 什么是桶排序？](https://mp.weixin.qq.com/s/P9_BH0WJ_H3tjItnqsRlcQ)
 
 [图解排序算法-彻底搞懂归并排序](https://mp.weixin.qq.com/s/RuN5nAZORq2gTY7IU85B4w)
 
