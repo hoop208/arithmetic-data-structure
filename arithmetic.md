@@ -28,6 +28,8 @@
 
 [计算一个整数数组中最大差值的元素？](https://segmentfault.com/q/1010000019377383?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
+[漫画：五分钟学会贪心算法！](https://mp.weixin.qq.com/s/vt3Ivc5sQlDgUl1ag7vixA)
+
 # 经验分享
 
 [推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
