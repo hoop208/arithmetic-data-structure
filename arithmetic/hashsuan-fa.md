@@ -56,3 +56,4 @@
 
 [来吧！一文彻底搞定哈希表！](https://mp.weixin.qq.com/s/eqjaweuZZizcMZdA0WEATQ)
 
+[Hash冲突之开放地址法](https://mp.weixin.qq.com/s/yTEs1rlRFCnCNrVlX_ul4Q)
