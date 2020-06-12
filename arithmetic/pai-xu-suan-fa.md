@@ -37,6 +37,7 @@
 
 [漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)   
 [漫画：什么是插入排序？](https://mp.weixin.qq.com/s/Iuk8_KFxm-017vbTgFXTVA)
+[漫画：什么是堆排序？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653195208&idx=1&sn=e3d6559402148458f0a4993b47d8bc6f&chksm=8c99f912bbee7004625a0b204acc8484acbdf4f1b18953e7ff5acbea958ec002d8c8ea072792&scene=21#wechat_redirect)
 
 [图解排序算法-彻底搞懂归并排序](https://mp.weixin.qq.com/s/RuN5nAZORq2gTY7IU85B4w)
 
