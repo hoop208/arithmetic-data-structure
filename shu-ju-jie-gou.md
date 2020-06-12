@@ -23,7 +23,9 @@
 
 [耿宇航Java版数据结构与算法](https://isxxy.com/course/33)
 
-# 二叉树
+# 树
+
+二叉树:
 
 [二叉树就是这么简单](https://juejin.im/post/5ab5a01d518825555c1d9a24)
 
@@ -31,7 +33,7 @@
 
 [一文读懂平衡二叉树 | 技术头条](https://mp.weixin.qq.com/s/AYWe67uhB466GcJoWehx5A)
 
-# 堆
+堆:
 
 [数据结构-堆（heap）](https://blog.csdn.net/juanqinyang/article/details/51418629)
 
@@ -41,7 +43,7 @@
 
 [看动画轻松理解「 堆 」](https://www.cxyxiaowu.com/1943.html)
 
-# 红黑树
+红黑树:
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
 
