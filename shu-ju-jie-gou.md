@@ -17,6 +17,8 @@
 
 [学习数据结构有什么用？](https://www.zhihu.com/question/29587605/answer/44895115)
 
+[数据结构应该教会我们什么?](https://mp.weixin.qq.com/s/98u1tddCYFNSYARc7duEpQ)
+
 # 视频
 
 [耿宇航Java版数据结构与算法](https://isxxy.com/course/33)
