@@ -3,6 +3,8 @@
 [数据结构(一)之线性表](https://www.cnblogs.com/chengxiao/p/5979059.html)  
 [数据结构(二)之二叉树](https://www.cnblogs.com/chengxiao/p/6395265.html)
 
+[动画演绎Java常用数据结构（建议收藏）](https://mp.weixin.qq.com/s/ECq6Ws7ZyfA06uVkCFig6g)
+
 # 经验分享
 
 [为什么要学数据结构？| 原力计划](https://mp.weixin.qq.com/s/qbGBa6pThRkAmkRZ4Lacgg)
