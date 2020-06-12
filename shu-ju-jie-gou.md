@@ -5,6 +5,8 @@
 
 [动画演绎Java常用数据结构（建议收藏）](https://mp.weixin.qq.com/s/ECq6Ws7ZyfA06uVkCFig6g)
 
+[如何彻底搞懂 Java 数据结构？｜CSDN 博文精选](https://mp.weixin.qq.com/s/ipy6avfnzIP7R6Qxj1BMpw)
+
 # 经验分享
 
 [为什么要学数据结构？| 原力计划](https://mp.weixin.qq.com/s/qbGBa6pThRkAmkRZ4Lacgg)
