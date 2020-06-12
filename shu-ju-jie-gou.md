@@ -37,6 +37,8 @@
 
 [数据结构：堆（Heap）](https://www.jianshu.com/p/6b526aa481b1)
 
+[纸上谈兵: 堆 (heap)](https://www.cnblogs.com/vamei/archive/2013/03/20/2966612.html)
+
 # 红黑树
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
