@@ -4,6 +4,10 @@
 
 [如何学习数据结构？](https://www.zhihu.com/question/21318658)
 
+# 经验分享
+
+[为什么要学数据结构？| 原力计划](https://mp.weixin.qq.com/s/qbGBa6pThRkAmkRZ4Lacgg)
+
 # 视频
 
 [耿宇航Java版数据结构与算法](https://isxxy.com/course/33)
