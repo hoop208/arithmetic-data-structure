@@ -50,6 +50,8 @@
 
 [深入揭秘HTTPS安全问题&连接建立全过程](https://zhuanlan.zhihu.com/p/22142170)
 
+[深入理解HTTPS](https://mp.weixin.qq.com/s/smYo1tECl6-TS6anKF8Jgw)
+
 
 
 
