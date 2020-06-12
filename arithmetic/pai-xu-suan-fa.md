@@ -2,6 +2,8 @@
 
 [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 
+[十大经典排序算法](https://mp.weixin.qq.com/s/seer1Z3jIHn2Xw_Hmi-F4w)
+
 [七大排序算法精讲，图文+代码，超全！](https://mp.weixin.qq.com/s/vNac5Ak0gBbi6v1iqbesLw)
 
 [图解排序算法(一)之3种简单排序(选择，冒泡，直接插入)](https://www.cnblogs.com/chengxiao/p/6103002.html)  
