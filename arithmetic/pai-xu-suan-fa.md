@@ -25,9 +25,10 @@
 [](https://mp.weixin.qq.com/s/g1uYrl0dxVkoLNK4vSpH9Q)
 
 [漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)   
-[动画 | 什么是桶排序？](https://mp.weixin.qq.com/s/P9_BH0WJ_H3tjItnqsRlcQ)
-[动画 | 什么是基数排序？](https://mp.weixin.qq.com/s/WA3_h4IgIgNTNYeKs-j__Q)
-[动画 | 什么是计数排序？](https://mp.weixin.qq.com/s/xpsB0jVj5tqgHaFezDoxPw)
+[漫画：什么是插入排序？](https://mp.weixin.qq.com/s/Iuk8_KFxm-017vbTgFXTVA)
+[动画 | 什么是桶排序？](https://mp.weixin.qq.com/s/P9_BH0WJ_H3tjItnqsRlcQ)  
+[动画 | 什么是基数排序？](https://mp.weixin.qq.com/s/WA3_h4IgIgNTNYeKs-j__Q)  
+[动画 | 什么是计数排序？](https://mp.weixin.qq.com/s/xpsB0jVj5tqgHaFezDoxPw)  
 
 [图解排序算法-彻底搞懂归并排序](https://mp.weixin.qq.com/s/RuN5nAZORq2gTY7IU85B4w)
 
