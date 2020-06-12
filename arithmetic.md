@@ -91,11 +91,6 @@
 
 [看动画理解递归和动态规划](https://mp.weixin.qq.com/s?__biz=MzAxNDYwODEzNw==&mid=2247485557&amp;idx=1&amp;sn=185cd16c0fda7b9ce9fa37dc4f9c9082&source=41#wechat_redirect)
 
-
-# 红黑树
-
-[漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
-
 # RSA
 
 [RSA算法原理（一）](http://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html)
