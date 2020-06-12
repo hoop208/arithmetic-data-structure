@@ -60,8 +60,6 @@
 
 [也许，这样理解HTTPS更容易](https://mp.weixin.qq.com/s/ro-tuO1DwM0CINJUxtiu3g)
 
-[SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
-
 [图解SSL/TLS协议](http://www.ruanyifeng.com/blog/2014/09/illustration-ssl.html)
 
 [十分钟搞懂HTTP和HTTPS协议？](https://zhuanlan.zhihu.com/p/72616216?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
