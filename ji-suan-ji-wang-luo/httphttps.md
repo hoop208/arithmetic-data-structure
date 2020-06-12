@@ -74,6 +74,8 @@
 
 [为什么要把网站升级到HTTPS](https://zhuanlan.zhihu.com/p/29022279)
 
+[HTTPS 证书认证原理分析](https://mp.weixin.qq.com/s/Oy1r73K07ijS_e-Gs-su4g)
+
 
 
 
