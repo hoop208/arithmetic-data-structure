@@ -10,7 +10,7 @@
 
 [（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/BV1os41117Fs?p=1)
 
-# 资料
+# LeetCode
 
 [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 
