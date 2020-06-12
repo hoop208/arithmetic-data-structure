@@ -1,6 +1,6 @@
 # 知识点
 
-
+[数据结构(一)之线性表](https://www.cnblogs.com/chengxiao/p/5979059.html)
 
 # 经验分享
 
