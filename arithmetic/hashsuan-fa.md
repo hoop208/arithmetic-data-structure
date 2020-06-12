@@ -10,6 +10,8 @@
 
 [通用高效字符串匹配--Sunday算法](https://www.cnblogs.com/sunsky303/p/11693792.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[五分钟学算法之「分治算法」三步走](https://mp.weixin.qq.com/s/G7hlvXeW_qNDPOwnIFteug)
+
 # 经验分享
 
 [推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
