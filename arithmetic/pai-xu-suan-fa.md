@@ -1,6 +1,6 @@
 # 排序算法
 
-[十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
+[十大经典排序算法(JS-Sorting-Algorithm)](https://github.com/hustcc/JS-Sorting-Algorithm)
 
 [十大经典排序算法](https://mp.weixin.qq.com/s/seer1Z3jIHn2Xw_Hmi-F4w)
 
