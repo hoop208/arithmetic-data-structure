@@ -33,3 +33,5 @@
 
 [看动画理解递归和动态规划](https://mp.weixin.qq.com/s?__biz=MzAxNDYwODEzNw==&mid=2247485557&amp;idx=1&amp;sn=185cd16c0fda7b9ce9fa37dc4f9c9082&source=41#wechat_redirect)
 
+[你有进一步深入理解二分查找吗？](https://mp.weixin.qq.com/s/Rle4ZlJaqeOYRxo_xVmX1Q)
+
