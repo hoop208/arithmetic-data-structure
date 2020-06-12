@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [算法](arithmetic.md)
+  * [排序算法](arithmetic/pai-xu-suan-fa.md)
 * [计算机网络](ji-suan-ji-wang-luo.md)
   * [Tcp/Ip](ji-suan-ji-wang-luo/tcpip.md)
   * [Http/Https](ji-suan-ji-wang-luo/httphttps.md)
