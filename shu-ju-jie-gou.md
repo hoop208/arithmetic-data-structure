@@ -47,3 +47,5 @@
 
 [爱恨交织的红黑树](https://mp.weixin.qq.com/s/oisJz1vz6z3N8G8xyJWI7Q)
 
+[漫画：什么是红黑树？](https://mp.weixin.qq.com/s/E8KTTZHCmr9e0jHO3DosNQ)
+
