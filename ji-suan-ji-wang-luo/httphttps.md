@@ -54,6 +54,8 @@
 
 [解读https的正确姿势](https://mp.weixin.qq.com/s/QsKceFcxELbUDSbehs8QpQ)
 
+[HTTPS 原理分析：带着疑问层层深入](https://mp.weixin.qq.com/s/NK717u-5qOlRqiLm-aaLSQ)
+
 
 
 
