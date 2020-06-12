@@ -66,6 +66,8 @@
 
 [十分钟搞懂HTTP和HTTPS协议？](https://zhuanlan.zhihu.com/p/72616216?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[https到底把什么加密了?](https://mp.weixin.qq.com/s/lpSWMIGL9owtfPWIXNZ-xQ)
+
 
 
 
