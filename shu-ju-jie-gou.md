@@ -27,8 +27,6 @@
 
 [二叉树就是这么简单](https://juejin.im/post/5ab5a01d518825555c1d9a24)
 
-[数据结构：堆（Heap）](https://www.jianshu.com/p/6b526aa481b1)
-
 [动画 | 什么是二分搜索树（附伪代码）](https://mp.weixin.qq.com/s/0nubI8XPcUJYAaEk-Eomrg)
 
 [一文读懂平衡二叉树 | 技术头条](https://mp.weixin.qq.com/s/AYWe67uhB466GcJoWehx5A)
@@ -36,6 +34,8 @@
 # 堆
 
 [数据结构-堆（heap）](https://blog.csdn.net/juanqinyang/article/details/51418629)
+
+[数据结构：堆（Heap）](https://www.jianshu.com/p/6b526aa481b1)
 
 # 红黑树
 
