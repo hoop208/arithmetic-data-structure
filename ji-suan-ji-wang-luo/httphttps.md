@@ -76,6 +76,7 @@
 
 [HTTPS 证书认证原理分析](https://mp.weixin.qq.com/s/Oy1r73K07ijS_e-Gs-su4g)
 
+[HTTPS 详解一：附带最精美详尽的 HTTPS 原理图](https://segmentfault.com/a/1190000021494676?utm_source=weekly&utm_medium=email&utm_campaign=SegmentFault%20%E7%B2%BE%E9%80%89%E6%AF%8F%E5%91%A8%E7%B2%BE%E9%80%89%E4%B8%A8%E6%80%9D%E5%90%A6%E5%AE%98%E6%96%B9%E7%A5%9D%E5%90%84%E4%BD%8D%E7%A4%BE%E5%8C%BA%E5%BC%80%E5%8F%91%E8%80%85%202020%20%E6%98%A5%E8%8A%82%E5%BF%AB%E4%B9%90%EF%BC%8C%E5%81%A5%E5%BA%B7%E5%B9%B3%E5%AE%89%EF%BC%81)
 
 
 
