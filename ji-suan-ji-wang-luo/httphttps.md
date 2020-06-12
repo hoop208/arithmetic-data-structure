@@ -81,7 +81,8 @@
 
 [「开位」你所应该知道的HTTP——基础篇](https://segmentfault.com/a/1190000022295229)  
 [「开位」你所应该知道的HTTP——进阶篇](https://segmentfault.com/a/1190000022322405)  
-[「开位」你所应该知道的HTTP——缓存篇](https://segmentfault.com/a/1190000022336086)
+[「开位」你所应该知道的HTTP——缓存篇](https://segmentfault.com/a/1190000022336086)  
+[「开位」你所应该知道的HTTP——HTTPS篇](https://segmentfault.com/a/1190000022362157)
 
 
 
