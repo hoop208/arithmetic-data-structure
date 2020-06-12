@@ -35,10 +35,11 @@
 [动画 | 什么是基数排序？](https://mp.weixin.qq.com/s/WA3_h4IgIgNTNYeKs-j__Q)  
 [动画 | 什么是计数排序？](https://mp.weixin.qq.com/s/xpsB0jVj5tqgHaFezDoxPw)  
 
-[漫画：什么是选择排序？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653198991&idx=1&sn=7f98d59898a911e1425baa6cc180c598&chksm=8c99e855bbee61439086680ceefef33c56038c5d552ae64c1d6135abe467b617aa62f4934f36&scene=21#wechat_redirect)
-[漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)   
-[漫画：什么是插入排序？](https://mp.weixin.qq.com/s/Iuk8_KFxm-017vbTgFXTVA)
-[漫画：什么是堆排序？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653195208&idx=1&sn=e3d6559402148458f0a4993b47d8bc6f&chksm=8c99f912bbee7004625a0b204acc8484acbdf4f1b18953e7ff5acbea958ec002d8c8ea072792&scene=21#wechat_redirect)
+[漫画：什么是选择排序？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653198991&idx=1&sn=7f98d59898a911e1425baa6cc180c598&chksm=8c99e855bbee61439086680ceefef33c56038c5d552ae64c1d6135abe467b617aa62f4934f36&scene=21#wechat_redirect)  
+[漫画：什么是插入排序？](https://mp.weixin.qq.com/s/Iuk8_KFxm-017vbTgFXTVA)   
+[漫画：什么是希尔排序？](https://mp.weixin.qq.com/s/KBsYth2xhowkdFv3AYuTPw)
+[漫画：什么是快速排序？（完整版）](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653195042&idx=1&sn=2b0915cd2298be9f2163cc90a3d464da&chksm=8c99f9f8bbee70eef627d0f5e5b80a604221abb3a1b5617b397fa178582dcb063c9fb6f904b3&scene=21#wechat_redirect)
+[漫画：什么是堆排序？](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653195208&idx=1&sn=e3d6559402148458f0a4993b47d8bc6f&chksm=8c99f912bbee7004625a0b204acc8484acbdf4f1b18953e7ff5acbea958ec002d8c8ea072792&scene=21#wechat_redirect)  
 
 [图解排序算法-彻底搞懂归并排序](https://mp.weixin.qq.com/s/RuN5nAZORq2gTY7IU85B4w)
 
