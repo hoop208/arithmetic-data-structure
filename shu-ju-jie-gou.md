@@ -14,6 +14,8 @@
 
 [数据结构：堆（Heap）](https://www.jianshu.com/p/6b526aa481b1)
 
+[动画 | 什么是二分搜索树（附伪代码）](https://mp.weixin.qq.com/s/0nubI8XPcUJYAaEk-Eomrg)
+
 # 红黑树
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
