@@ -5,3 +5,5 @@
 [ViewHolder 的 MVVM实现](https://mp.weixin.qq.com/s/bUwXS9OdHs8nil0xNcfYPQ)
 
 [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.tianmaying.com/tutorial/AndroidMVC)
+
+[MVC、MVP、MVVM，我到底该怎么选？](https://juejin.im/post/5b3a3a44f265da630e27a7e6)
