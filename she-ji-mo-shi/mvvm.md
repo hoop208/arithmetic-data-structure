@@ -15,3 +15,5 @@
 [关于使用 Android MVVM + LiveData 模式的一些建议](https://zhuanlan.zhihu.com/p/33206893)
 
 [使用 Kotlin 构建 Android MVVM 应用程序](https://xiaozhuanlan.com/topic/1736458920)
+
+[Android MVVM到底是啥？看完就明白了](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
