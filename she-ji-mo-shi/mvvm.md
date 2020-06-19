@@ -11,3 +11,5 @@
 [Android MVVM实战Demo完全解析](https://www.jianshu.com/p/996d76b2317f)
 
 [android UI设计MVVM设计模式讨论？](https://www.zhihu.com/question/30976423/answer/50224601)
+
+[关于使用 Android MVVM + LiveData 模式的一些建议](https://zhuanlan.zhihu.com/p/33206893)
