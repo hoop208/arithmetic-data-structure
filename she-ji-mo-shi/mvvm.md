@@ -7,3 +7,5 @@
 [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.tianmaying.com/tutorial/AndroidMVC)
 
 [MVC、MVP、MVVM，我到底该怎么选？](https://juejin.im/post/5b3a3a44f265da630e27a7e6)
+
+[Android MVVM实战Demo完全解析](https://www.jianshu.com/p/996d76b2317f)
