@@ -10,6 +10,8 @@
 
 [Tutorial: Sustainable Android Tests with Page Objects](https://www.protechtraining.com/blog/post/893?ncr=1)
 
+[Test before integration](https://medium.com/@orhanobut/test-before-integrate-e713090070d6#.rmbgibgno)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
