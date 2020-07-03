@@ -2,9 +2,11 @@
 
 [如何写好测试用例](https://www.imooc.com/learn/816)
 
-# 经验分享
+# 知识点
 
 [软件测试自学指南---从入门到精通](https://blog.csdn.net/xc5683/article/details/9448427)
+
+[Testing rxjava observables subscriptions](https://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
 
 # Junit
 
