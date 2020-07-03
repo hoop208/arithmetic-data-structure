@@ -14,6 +14,8 @@
 
 [Understanding Test Rules](https://blog.egorand.me/understanding-test-rules/)
 
+[What makes Android Apps Testable?](https://www.philosophicalhacker.com/post/what-makes-android-apps-testable/)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
