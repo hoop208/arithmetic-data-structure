@@ -10,12 +10,6 @@
 
 [Android兼容性测试应该怎么做逼格更高呢？](https://mp.weixin.qq.com/s?__biz=MzIzNTYyOTE3NQ==&mid=2247485367&idx=1&sn=47d25a996707eea2068414d91f92d9b9)
 
-# 文档教程
-
-[Android 测试教程](http://wiki.jikexueyuan.com/project/android-test-course/)
-
-[测试教程网-android测试](http://www.testclass.net/android)
-
 # Espresso
 
 [Espresso 官方文档](https://testerhome.com/wiki/espresso)
