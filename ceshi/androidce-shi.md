@@ -36,3 +36,5 @@
 [Android单元测试(十)：DaggerMock：The Power of Dagger2, The Ease of Mockito](https://chriszou.com/2016/07/24/android-unit-testing-daggermock.html)
 [安卓单元测试(十一)：异步代码怎么测试](https://chriszou.com/2016/08/06/android-unit-testing-async.html)
 [android-unit-testing-tutorial](https://github.com/ChrisZou/android-unit-testing-tutorial)
+
+[The Do’s and Don’ts of Writing Test cases in Android.](https://medium.com/mindorks/the-dos-and-don-ts-of-writing-test-cases-in-android-70f1b5dab3e1#.dywbzpl9o)
