@@ -8,6 +8,8 @@
 
 [Testing rxjava observables subscriptions](https://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
 
+[Tutorial: Sustainable Android Tests with Page Objects](https://www.protechtraining.com/blog/post/893?ncr=1)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
