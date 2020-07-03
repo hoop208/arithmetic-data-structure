@@ -30,6 +30,10 @@
 
 [c语言教程-菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
 
+# 书籍
+
+京东读书:c和指针
+
 # 知识点
 
 头文件
