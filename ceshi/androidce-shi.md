@@ -10,12 +10,6 @@
 
 [Android兼容性测试应该怎么做逼格更高呢？](https://mp.weixin.qq.com/s?__biz=MzIzNTYyOTE3NQ==&mid=2247485367&idx=1&sn=47d25a996707eea2068414d91f92d9b9)
 
-# Espresso
-
-[Espresso 官方文档](https://testerhome.com/wiki/espresso)
-
-[使用Espresso测试UI](http://www.tastones.com/stackoverflow/android/testing-ui-with-espresso/group_a_collection_of_test_classes_in_a_test_suite/)
-
 # 单元测试
 
 [Android单元测试: 首先，从是什么开始](https://chriszou.com/2016/04/13/android-unit-testing-start-from-what.html)  
