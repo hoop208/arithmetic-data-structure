@@ -39,3 +39,5 @@
 [android-unit-testing-tutorial](https://github.com/ChrisZou/android-unit-testing-tutorial)
 
 [The Do’s and Don’ts of Writing Test cases in Android.](https://medium.com/mindorks/the-dos-and-don-ts-of-writing-test-cases-in-android-70f1b5dab3e1#.dywbzpl9o)
+
+[Why Android Testing is so Hard: Historical Edition](https://www.philosophicalhacker.com/post/why-android-testing-is-so-hard-historical-edition/)
