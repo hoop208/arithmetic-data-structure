@@ -12,6 +12,8 @@
 
 [Test before integration](https://medium.com/@orhanobut/test-before-integrate-e713090070d6#.rmbgibgno)
 
+[Understanding Test Rules](https://blog.egorand.me/understanding-test-rules/)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
