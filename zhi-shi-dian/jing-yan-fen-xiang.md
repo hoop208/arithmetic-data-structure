@@ -89,6 +89,20 @@ AOSP
 [用 Kotlin 开发 Android 项目是一种什么样的感受？](https://www.jianshu.com/p/8a1fce6fa93a)
 [用 Kotlin 开发 Android 项目是一种什么样的感受？（二）](https://www.jianshu.com/p/b444aea1b038)
 
+# 数据结构
+
+[为什么要学数据结构？| 原力计划](https://mp.weixin.qq.com/s/qbGBa6pThRkAmkRZ4Lacgg)
+
+[《算法与数据结构》这门功课人人都要会，但这样学你就赢了！](https://www.itcodemonkey.com/article/8344.html)
+
+[如何学习数据结构？](https://www.zhihu.com/question/21318658)
+
+[学习数据结构有什么用？](https://www.zhihu.com/question/29587605/answer/44895115)
+
+[数据结构应该教会我们什么?](https://mp.weixin.qq.com/s/98u1tddCYFNSYARc7duEpQ)
+
+
+
 
 
 
