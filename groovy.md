@@ -1,8 +1,4 @@
-# 文档
-
-[w3c-groovy教程](https://www.w3cschool.cn/groovy/?)
-
-# 博客
+# 知识点
 
 [Groovy 简明教程](https://www.qikqiak.com/post/groovy-simple-tutorial/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 

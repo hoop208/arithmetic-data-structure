@@ -84,6 +84,76 @@ git
 
 [测试教程网-appium简明教程](http://www.testclass.net/appium)
 
+# 数据库
+
+[菜鸟教程-Redis 教程](https://www.runoob.com/redis/redis-tutorial.html)
+
+# mybatis
+
+[极客学院-mybatis实战教程](http://wiki.jikexueyuan.com/project/mybatis-in-action/)
+
+[w3c-MyBatis 教程](https://www.w3cschool.cn/mybatis/)
+
+[菜鸟教程-SQLite 教程](https://www.runoob.com/sqlite/sqlite-tutorial.html)
+
+[菜鸟教程-MongoDB 教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
+
+# C语言
+
+[w3c-c教程](https://www.w3cschool.cn/c/)
+
+[c语言教程-菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
+
+# Python
+
+[菜鸟教程-Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)
+
+[Python 爬虫学习系列教程](http://wiki.jikexueyuan.com/project/python-crawler-guide/)
+
+# Linux
+
+[w3c-linux教程](https://www.w3cschool.cn/linux/?)
+
+[菜鸟教程-linux教程](https://www.runoob.com/linux/linux-tutorial.html)
+
+# 服务器
+
+[菜鸟教程-Docker 教程](https://www.runoob.com/docker/docker-tutorial.html)
+
+[易百教程-nginx教程](https://www.yiibai.com/nginx/nginx-feature.html)
+
+# nodejs
+
+[Node.js 教程](http://www.runoob.com/nodejs/nodejs-tutorial.html)
+
+# groovy
+
+[w3c-groovy教程](https://www.w3cschool.cn/groovy/?)
+
+# C++
+
+[菜鸟教程-c++](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+
+[c语言网-c++入门教程](https://www.dotcpp.com/course/cpp/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

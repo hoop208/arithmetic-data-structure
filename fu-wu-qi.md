@@ -14,12 +14,6 @@
 
 # docker
 
-文档
-
-[菜鸟教程-Docker 教程](https://www.runoob.com/docker/docker-tutorial.html)
-
-博客
-
 [Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 
 [Docker 微服务教程](http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html)
@@ -30,20 +24,6 @@
 
 [如何通俗解释Docker是什么？](https://www.zhihu.com/question/28300645/answer/67707287)
 
-视频
-
-[Docker入门](https://www.imooc.com/learn/867)
-
 # Nginx
-
-视频教程
-
-[Nginx免费视频教程](https://www.bilibili.com/video/av35986548)  
-
-文档
-
-[易百教程-nginx教程](https://www.yiibai.com/nginx/nginx-feature.html)
-
-博客
 
 [一个前端必会的 Nginx免费教程 (共11集)](http://jspang.com/posts/2018/10/05/nginx.html)

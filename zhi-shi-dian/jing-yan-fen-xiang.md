@@ -101,7 +101,7 @@ AOSP
 
 [数据结构应该教会我们什么?](https://mp.weixin.qq.com/s/98u1tddCYFNSYARc7duEpQ)
 
-# 经验分享
+# 算法
 
 [推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
 
@@ -110,6 +110,146 @@ AOSP
 [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/602761180)
 
 [算法学习思路](http://jartto.wang/2019/04/07/learn-algorithm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+# C语言
+
+[C#、C++、Java、Python 选择哪个好？](https://www.zhihu.com/question/298323023/answer/523720835)
+
+[初学C语言，有什么好书推荐？](https://www.zhihu.com/question/22524467/answer/32762832)
+
+[为什么 C 语言仍然占据统治地位？](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
+
+[如何学习 C 语言？](https://www.zhihu.com/question/19668080/answer/776041790)
+
+[学习C语言基本思路与参考书籍](https://zhuanlan.zhihu.com/p/19694823)
+
+[如何学习 C 语言？](https://www.zhihu.com/question/19668080)
+
+[学c语言该怎么入门？](https://www.zhihu.com/question/28514714/answer/227338767)
+
+[为什么说 C/C++ 不适合做 Web 开发？](https://www.zhihu.com/question/26852208/answer/34278013)
+
+[C 语言比 C++ 更强大吗？](https://www.zhihu.com/question/63015547/answer/205667751)
+
+[C语言仅凭自学能到什么高度？](https://www.zhihu.com/question/22465774/answer/660997629)
+
+[为什么我选择用 C 编写游戏？](https://mp.weixin.qq.com/s/00_FTQkRG0MagF2vn2v_sA)
+
+[什么时候用C而不用C++？](https://www.zhihu.com/question/30567850/answer/48645759)
+
+# Python
+
+[如何系统地自学 Python？](https://www.zhihu.com/question/29138020/answer/81972368)
+
+[编程零基础应当如何开始学习 Python？](https://www.zhihu.com/question/20039623/answer/64926634)
+
+[你们都是怎么学 Python 的？](https://www.zhihu.com/question/55493026/answer/163537026)
+
+[你在 B 站看番剧，别人在 B 站学 Python](https://zhuanlan.zhihu.com/p/67196322)
+
+[Python学习路径及练手项目合集](https://zhuanlan.zhihu.com/p/23561159)
+
+[GitHub标星8100：Python中文资源，从新手到老司机，只要100天](https://zhuanlan.zhihu.com/p/64462281)
+
+[呢喃40：免费Python Web开发入门教程](https://zhuanlan.zhihu.com/p/38226188)
+
+[毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560/answer/55697707)
+
+[毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560/answer/628512526)
+
+[编程零基础应当如何开始学习 Python？](https://www.zhihu.com/question/20039623/answer/251224727)
+
+[Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88624507)
+
+[Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574/answer/88744491)
+
+[70个Python练手项目列表](https://zhuanlan.zhihu.com/p/27931879)
+
+[请问自学Python有必要买课程吗？](https://www.zhihu.com/question/318258554/answer/643789124)
+
+[学习python有什么好的视频教程?](https://www.zhihu.com/question/28479292/answer/608582285)
+
+[有哪些适合新手练手的Python项目？](https://zhuanlan.zhihu.com/p/22164270)
+
+[Python学习资料总结](https://zhuanlan.zhihu.com/p/22333205)
+
+[学习编程道路上的入门书籍之Python篇](https://zhuanlan.zhihu.com/p/22983834)
+
+[有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/621624961)
+
+[Python书籍推荐](https://zhuanlan.zhihu.com/p/22198827)
+
+[有哪些值得关注的技术博客（Python篇）](https://zhuanlan.zhihu.com/p/22370545)
+
+[哪里能找到 Python 视频教程地址？](https://www.zhihu.com/question/19660572/answer/612968760)
+
+[有没有简单一点的 Python 小例子或小项目？](https://www.zhihu.com/question/51920544/answer/618254238)
+
+[整理了70个Python实战项目列表，都有完整且详细的教程](https://zhuanlan.zhihu.com/p/60246173)
+
+[你都用 Python 来做什么？](https://www.zhihu.com/question/20799742/answer/99491808)
+
+[你们都是怎么学 Python 的？](https://www.zhihu.com/question/55493026/answer/637938925)
+
+# 爬虫
+
+[你需要这些：Python3.x爬虫学习资料整理](https://zhuanlan.zhihu.com/p/24358829)
+
+[如何学习Python爬虫[入门篇]？](https://zhuanlan.zhihu.com/p/21479334)
+
+[如何入门 Python 爬虫？](https://www.zhihu.com/question/20899988/answer/96904827)
+
+[1198元学习python爬虫合适吗？](https://www.zhihu.com/question/329282168/answer/741495656)
+
+# Linux
+
+[Linux初学者(学习资料)](https://zhuanlan.zhihu.com/p/21723250)
+
+[linux学习资源整理](https://zhuanlan.zhihu.com/p/22654634)
+
+[有哪些值得关注的技术博客（Linux篇）](https://zhuanlan.zhihu.com/p/22407435)
+
+[未来想从事Linux 后台开发，需要学习linux内核吗？像读内核源码。还是学好linux网络编程，C，算法。学习内核的意义有哪些呢？](https://www.zhihu.com/question/20541014/answer/93312920)
+
+# PHP
+
+[报告，我要学php！[学习资料整理]](https://zhuanlan.zhihu.com/p/21910473)
+
+# 集齐学习
+
+[普通程序员如何正确学习人工智能方向的知识？](https://www.zhihu.com/question/51039416/answer/126821822)
+
+[火爆 GitHub 的《机器学习 100 天》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/54229077)
+
+[吴恩达课程从未失望，斯坦福CS230深度学习课程全套资料放出（附下载）](https://zhuanlan.zhihu.com/p/38426219)
+
+[谷歌今日上线基于TensorFlow的机器学习速成课程（免费中文版）](https://juejin.im/post/5a978d47f265da4e9957c231)
+
+#  nodejs
+
+[怎样有效地学习 Node.js？](https://www.zhihu.com/question/19793473)
+
+[Node.js是用来做什么的？](https://www.zhihu.com/question/33578075/answer/56951771)
+
+[为什么要用Node.js](https://segmentfault.com/a/1190000019320503?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+# 音视频开发
+
+[开发小白如何成为音视频专家？](https://zhuanlan.zhihu.com/p/31717622)
+
+[iOS/Android 音视频开发专题](https://mp.weixin.qq.com/s?__biz=MzI0NzI0NDY2OQ==&mid=2652749899&idx=1&sn=3d24f93e2a12f84e91eb9a3496c3a5a0&scene=21#wechat_redirect)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

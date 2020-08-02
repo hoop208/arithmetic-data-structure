@@ -1,39 +1,3 @@
-# 经验分享
-
-[C#、C++、Java、Python 选择哪个好？](https://www.zhihu.com/question/298323023/answer/523720835)
-
-[初学C语言，有什么好书推荐？](https://www.zhihu.com/question/22524467/answer/32762832)
-
-[为什么 C 语言仍然占据统治地位？](https://mp.weixin.qq.com/s/Z8PpiZhwGZ-BwxjJLkfqag)
-
-[如何学习 C 语言？](https://www.zhihu.com/question/19668080/answer/776041790)
-
-[学习C语言基本思路与参考书籍](https://zhuanlan.zhihu.com/p/19694823)
-
-[如何学习 C 语言？](https://www.zhihu.com/question/19668080)
-
-[学c语言该怎么入门？](https://www.zhihu.com/question/28514714/answer/227338767)
-
-[为什么说 C/C++ 不适合做 Web 开发？](https://www.zhihu.com/question/26852208/answer/34278013)
-
-[C 语言比 C++ 更强大吗？](https://www.zhihu.com/question/63015547/answer/205667751)
-
-[C语言仅凭自学能到什么高度？](https://www.zhihu.com/question/22465774/answer/660997629)
-
-[为什么我选择用 C 编写游戏？](https://mp.weixin.qq.com/s/00_FTQkRG0MagF2vn2v_sA)
-
-[什么时候用C而不用C++？](https://www.zhihu.com/question/30567850/answer/48645759)
-
-# 文档
-
-[w3c-c教程](https://www.w3cschool.cn/c/)
-
-[c语言教程-菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)
-
-# 书籍
-
-京东读书:c和指针
-
 # 知识点
 
 头文件

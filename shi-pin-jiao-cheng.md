@@ -78,6 +78,32 @@ IPC
 
 [如何写好测试用例](https://www.imooc.com/learn/816)
 
+# 数据库
+
+[Redis入门](https://www.imooc.com/learn/839)
+
+# 操作系统原理
+
+[操作系统_清华大学(向勇、陈渝)](https://www.bilibili.com/video/BV1js411b7vg?p=1)
+
+# 服务器
+
+[Docker入门](https://www.imooc.com/learn/867)
+
+[Nginx免费视频教程](https://www.bilibili.com/video/av35986548)  
+
+# 相机开发
+
+[android摄像头基础](http://www.imooc.com/learn/543)
+
+
+
+
+
+
+
+
+
 
 
 

@@ -12,10 +12,6 @@
 [Android:Camera2开发详解(上)：实现预览、拍照、保存照片等功能](https://www.jianshu.com/p/0ea5e201260f)
 [Android:Camera2开发详解(下)：实现人脸检测功能并实时显示人脸框](https://www.jianshu.com/p/331af6dc2772)
 
-**视频教程**
-
-[android摄像头基础](http://www.imooc.com/learn/543)
-
 # 开源项目 # 
 
 [Android自定义相机 ](https://github.com/jinguangyue/Android-CustomCamera)
