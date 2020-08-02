@@ -1,4 +1,4 @@
-# 资料
+# 其它
 
 [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062/answer/670441675)
 
@@ -47,3 +47,20 @@
 [计算机专业有哪些不错的公开课资源？](https://www.zhihu.com/question/38335108/answer/346474854)
 
 [有哪些质量上乘的程序员必关注的网站或论坛？](https://www.zhihu.com/question/22525413/answer/206003596)
+
+# Android
+
+[使用浏览器监测okhttp请求响应](https://github.com/adibfara/WatchTower)
+
+[android开发书籍](http://www.jizhuomi.com/android/book/)
+
+[GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
+
+[View辅助工具包，帮助你快速优雅的完成自定义View](https://github.com/GcsSloop/ViewSupport)
+
+[收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等](https://github.com/inferjay/AndroidDevTools)
+
+[安卓架构文章合集](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+
+[Simplify Android M system permissions](https://github.com/googlesamples/easypermissions)
+
