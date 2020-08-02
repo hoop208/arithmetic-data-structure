@@ -96,6 +96,12 @@ IPC
 
 [android摄像头基础](http://www.imooc.com/learn/543)
 
+# 图像处理
+
+[Android图像处理-打造美图秀秀从它开始](https://www.imooc.com/learn/302)
+
+[Android图像处理-变"换"莫测的图像](https://www.imooc.com/learn/343)
+
 
 
 

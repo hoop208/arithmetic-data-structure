@@ -64,11 +64,6 @@ svg
 
 [Android使用矢量图（SVG, VectorDrawable）实践篇](https://www.jianshu.com/p/0555b8c1d26a)
 
-视频教程
-
-[Android图像处理-打造美图秀秀从它开始](https://www.imooc.com/learn/302)
-
-[Android图像处理-变"换"莫测的图像](https://www.imooc.com/learn/343)
 
 
 

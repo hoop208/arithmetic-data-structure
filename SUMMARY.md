@@ -41,8 +41,6 @@
   * [IM&消息推送](zhuan-ye-fang-xiang/imxiao-xi-tui-song.md)
   * [Camera](zhuan-ye-fang-xiang/camera.md)
   * [图像处理](zhuan-ye-fang-xiang/tu-xiang-chu-li.md)
-  * [opengl](zhuan-ye-fang-xiang/opengl.md)
-* [GO](go.md)
 * [文档](wen-dang.md)
 * [书籍](shu-ji.md)
 * [视频教程](shi-pin-jiao-cheng.md)

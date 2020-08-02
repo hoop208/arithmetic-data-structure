@@ -76,6 +76,8 @@ AOSP
 
 [如何阅读源码？](https://mp.weixin.qq.com/s/Jrn8WzabaDX8hxoal3MzUw)
 
+[想学习android源码，该如何组织？](https://www.zhihu.com/question/36028926/answer/97264610)
+
 # kotlin
 
 [Android 开发者自述：为什么我要改用 Kotlin？](https://zhuanlan.zhihu.com/p/26980146)
@@ -211,6 +213,10 @@ AOSP
 
 [未来想从事Linux 后台开发，需要学习linux内核吗？像读内核源码。还是学好linux网络编程，C，算法。学习内核的意义有哪些呢？](https://www.zhihu.com/question/20541014/answer/93312920)
 
+[进入内核态究竟是什么意思？](https://www.zhihu.com/question/306127044/answer/555327651)
+
+[为什么 Linux 原生不能运行 exe 格式的文件？](https://www.zhihu.com/question/320884011/answer/657036534)
+
 # PHP
 
 [报告，我要学php！[学习资料整理]](https://zhuanlan.zhihu.com/p/21910473)
@@ -238,6 +244,13 @@ AOSP
 [开发小白如何成为音视频专家？](https://zhuanlan.zhihu.com/p/31717622)
 
 [iOS/Android 音视频开发专题](https://mp.weixin.qq.com/s?__biz=MzI0NzI0NDY2OQ==&mid=2652749899&idx=1&sn=3d24f93e2a12f84e91eb9a3496c3a5a0&scene=21#wechat_redirect)
+
+# GO
+
+[系统学习GO，推荐几本靠谱的书?](https://www.zhihu.com/question/30461290/answer/210414739)
+
+[如何客观评价 Go 语言](https://mp.weixin.qq.com/s/WOvjEQc6Tr3hcZlCu5aLkA)
+
 
 
 
