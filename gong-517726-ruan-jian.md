@@ -76,12 +76,6 @@
 
 # uml
 
-文档
-
-[w3c-uml教程](https://www.w3cschool.cn/uml_tutorial/uml_tutorial-c1gf28pd.html)
-
-博客
-
 [五分钟读懂UML类图](https://www.cnblogs.com/shindo/p/5579191.html#undefined)
 
 [五分钟读懂UML类图](https://www.jianshu.com/p/1178ec9f2007)

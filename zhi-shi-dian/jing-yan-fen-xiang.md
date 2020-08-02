@@ -101,6 +101,18 @@ AOSP
 
 [数据结构应该教会我们什么?](https://mp.weixin.qq.com/s/98u1tddCYFNSYARc7duEpQ)
 
+# 经验分享
+
+[推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
+
+[这可能是史上最全的 Python 算法集（建议收藏）](https://zhuanlan.zhihu.com/p/60356696)
+
+[程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/602761180)
+
+[算法学习思路](http://jartto.wang/2019/04/07/learn-algorithm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
+
 
 
 

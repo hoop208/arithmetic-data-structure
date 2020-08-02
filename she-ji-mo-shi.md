@@ -12,10 +12,6 @@
 
 [面向接口编程详解（三）——模式研究](https://www.cnblogs.com/leoo2sk/archive/2008/04/14/1151569.html)
 
-# 文档
-
-[Google Java编程风格规范](http://wiki.jikexueyuan.com/project/google-java-styleguide-zh/)
-
 # 函数式编程
 
 [函数式编程初探](http://www.ruanyifeng.com/blog/2012/04/functional_programming.html)

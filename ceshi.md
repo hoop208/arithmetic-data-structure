@@ -1,13 +1,3 @@
-# 视频教程
-
-[如何写好测试用例](https://www.imooc.com/learn/816)
-
-# 文档教程
-
-[Android 测试教程](http://wiki.jikexueyuan.com/project/android-test-course/)
-
-[测试教程网-android测试](http://www.testclass.net/android)
-
 # 知识点
 
 [软件测试自学指南---从入门到精通](https://blog.csdn.net/xc5683/article/details/9448427)
@@ -29,4 +19,12 @@
 [JUnit4单元测试入门教程](https://www.jianshu.com/p/7088822e21a3)
 
 [Junit 入门使用教程](https://www.cnblogs.com/ysocean/p/6889906.html)
+
+# 接口测试
+
+[REST API 接口测试](https://www.imooc.com/learn/1048)
+
+# 自动化测试
+
+[Android自动化页面测速在美团的实践](https://tech.meituan.com/2018/07/12/autospeed.html)
 

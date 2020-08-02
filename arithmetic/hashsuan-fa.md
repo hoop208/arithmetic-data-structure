@@ -12,16 +12,6 @@
 
 [五分钟学算法之「分治算法」三步走](https://mp.weixin.qq.com/s/G7hlvXeW_qNDPOwnIFteug)
 
-# 经验分享
-
-[推荐：常见算法的python实现（github上25000多star）](https://zhuanlan.zhihu.com/p/63754427)
-
-[这可能是史上最全的 Python 算法集（建议收藏）](https://zhuanlan.zhihu.com/p/60356696)
-
-[程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377/answer/602761180)
-
-[算法学习思路](http://jartto.wang/2019/04/07/learn-algorithm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)

@@ -1,3 +1,9 @@
+# 其它
+
+[编译器和解释器有什么不一样？](https://www.bilibili.com/video/av52513568)
+
+[【计算机科学速成课】[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th?p=1)
+
 # Android
 
 [okhttp的使用](https://www.imooc.com/learn/764)
@@ -67,6 +73,12 @@ IPC
 # 数据结构
 
 [耿宇航Java版数据结构与算法](https://isxxy.com/course/33)
+
+# 测试
+
+[如何写好测试用例](https://www.imooc.com/learn/816)
+
+
 
 
 

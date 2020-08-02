@@ -1,9 +1,5 @@
 # AndroidStudio
 
-文档
-
-[官方文档](https://developer.android.google.cn/studio/intro)
-
 知识点
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
