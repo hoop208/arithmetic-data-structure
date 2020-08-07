@@ -17,3 +17,5 @@
 [使用 Kotlin 构建 Android MVVM 应用程序](https://xiaozhuanlan.com/topic/1736458920)
 
 [Android MVVM到底是啥？看完就明白了](https://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f#rd)
+
+[在开发过程中如何应用mvvm思想](https://www.zhihu.com/answer/92475533)

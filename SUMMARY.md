@@ -13,7 +13,7 @@
   * [资料](zi-liao.md)
   * [经验分享](zhi-shi-dian/jing-yan-fen-xiang.md)
   * [练习](zhi-shi-dian/lian-xi.md)
-* [软件设计](she-ji-mo-shi.md)
+* [软件工程](she-ji-mo-shi.md)
   * [java设计模式](she-ji-mo-shi/javashe-ji-mo-shi.md)
   * [android设计模式](she-ji-mo-shi/androidshe-ji-mo-shi.md)
   * [mvvm](she-ji-mo-shi/mvvm.md)

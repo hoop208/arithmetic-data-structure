@@ -217,6 +217,8 @@ AOSP
 
 [为什么 Linux 原生不能运行 exe 格式的文件？](https://www.zhihu.com/question/320884011/answer/657036534)
 
+[怎样提升 Linux 水平？](https://www.zhihu.com/question/277982515/answer/398983427)
+
 # PHP
 
 [报告，我要学php！[学习资料整理]](https://zhuanlan.zhihu.com/p/21910473)
