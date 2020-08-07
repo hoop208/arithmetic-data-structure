@@ -251,6 +251,26 @@ AOSP
 
 [如何客观评价 Go 语言](https://mp.weixin.qq.com/s/WOvjEQc6Tr3hcZlCu5aLkA)
 
+# Java
+
+[大学生刚学完 Java 如何学习 SpringMVC？](https://www.zhihu.com/question/327107482/answer/718731277)
+
+[springboot怎么学？](https://www.zhihu.com/question/50958416/answer/529875117)
+
+[spring boot和SSM开发中有什么区别？](https://www.zhihu.com/question/284488830/answer/618290880)
+
+[Spring，Django，Rails，Express这些框架技术的出现都是为了解决什么问题，现在这些框架都应用在哪些方面？](https://www.zhihu.com/question/25654738/answer/31302541)
+
+[学习Spring之前要先学习什么？](https://zhuanlan.zhihu.com/p/64001753)
+
+[Spring 框架有哪些缺点？](https://www.zhihu.com/question/25255223/answer/31961636)
+
+[国内外知名的 Java 学习网站有哪些？](https://mp.weixin.qq.com/s/EHBmwy3Lm-eETgdyMcBaKw)
+
+[成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)
+
+[servlet的本质是什么，它是如何工作的？](https://www.zhihu.com/question/21416727/answer/690289895)
+
 
 
 
