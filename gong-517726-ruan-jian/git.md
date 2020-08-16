@@ -38,6 +38,10 @@
 
 [几款好用的Git GUI客户端工具](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
 
+[如何同步多个git仓库](https://mp.weixin.qq.com/s/Oqub9TX3-FblPnr_C2laCA)
+
+[记一次常规的gitflow工作流](https://mp.weixin.qq.com/s?__biz=MzUzMzE4MDY0Nw==&mid=2247483665&idx=1&sn=5bd10a6d8c2f621a678d7b023bd9988f)
+
 
 
 

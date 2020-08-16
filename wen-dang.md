@@ -8,19 +8,21 @@
 
 [google官方示例](https://developer.android.google.cn/samples/?language=java)
 
-[官方文档-Intent 和 Intent 过滤器](https://developer.android.google.cn/guide/components/intents-filters)
+[Intent 和 Intent 过滤器](https://developer.android.google.cn/guide/components/intents-filters)
 
-[官方文档-界面和导航](https://developer.android.google.cn/guide/topics/ui)
+[界面和导航](https://developer.android.google.cn/guide/topics/ui)
 
-[官方文档-动画和过渡](https://developer.android.google.cn/training/animation)
+[动画和过渡](https://developer.android.google.cn/training/animation)
 
-[官方文档-架构组件](https://developer.android.google.cn/topic/libraries/architecture)
+[架构组件](https://developer.android.google.cn/topic/libraries/architecture)
 
-[官方文档-audio&video](https://developer.android.google.cn/guide/topics/media)
+[audio&video](https://developer.android.google.cn/guide/topics/media)
 
 [freemarker中文文档](http://freemarker.foofun.cn/index.html)
 
-[官方文档-core topics-touch&input](https://developer.android.google.cn/guide/input)
+[core topics-touch&input](https://developer.android.google.cn/guide/input)
+
+[core topics-render script](https://developer.android.google.cn/guide/topics/renderscript/compute)
 
 ndk
 
@@ -40,9 +42,9 @@ kotlin
 
 性能优化
 
-[google官方-性能优化典范](https://www.kancloud.cn/kancloud/android-performance/53237)
+[性能优化典范](https://www.kancloud.cn/kancloud/android-performance/53237)
 
-[google官方文档_性能与功耗](https://developer.android.google.cn/topic/performance) 
+[性能与功耗](https://developer.android.google.cn/topic/performance) 
 
 AOSP
 
@@ -83,6 +85,8 @@ git
 [易百教程-Selenium教程](https://www.yiibai.com/selenium)
 
 [测试教程网-appium简明教程](http://www.testclass.net/appium)
+
+[测试](https://developer.android.google.cn/training/testing)
 
 # 数据库
 
