@@ -26,6 +26,8 @@
 
 [开源源码阅读工具](https://github.com/CoatiSoftware/Sourcetrail)
 
+[这可能是你见过最好的工程师绘图指北](https://www.bilibili.com/video/BV1pJ411X7Ut)
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
@@ -97,6 +99,35 @@
 [使用Nexus搭建maven私有仓库](https://www.jianshu.com/p/9740778b154f)
 
 [菜鸟教程-maven](https://www.runoob.com/maven/maven-tutorial.html)
+
+# Gitbook
+
+[gitbook:简明教程](http://www.chengweiyang.cn/gitbook/index.html)
+
+[GitBook 简明使用教程](https://www.phpjieshuo.com/archives/153/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+# gitlab
+
+[GitLab使用教程(详细)](https://blog.csdn.net/justlpf/article/details/80681853)
+
+[易百教程-gitlab教程](https://www.yiibai.com/gitlab)
+
+# github
+
+[史上最简单的 GitHub 教程](https://blog.csdn.net/qq_35246620/article/details/66973794)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

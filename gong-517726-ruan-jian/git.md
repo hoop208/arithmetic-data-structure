@@ -1,4 +1,4 @@
-# 博客
+# 知识点
 
 [全面介绍Android Studio中Git 的使用（一）](https://blog.csdn.net/gao_chun/article/details/49817229)
 
@@ -36,23 +36,9 @@
 
 [Git Flow工作流程](https://www.jianshu.com/p/9a76e9aa9534)
 
-# 资料
-
 [几款好用的Git GUI客户端工具](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
 
-# Gitbook
 
-[gitbook:简明教程](http://www.chengweiyang.cn/gitbook/index.html)
-
-# gitlab
-
-[GitLab使用教程(详细)](https://blog.csdn.net/justlpf/article/details/80681853)
-
-[易百教程-gitlab教程](https://www.yiibai.com/gitlab)
-
-# github
-
-[史上最简单的 GitHub 教程](https://blog.csdn.net/qq_35246620/article/details/66973794)
 
 
 
