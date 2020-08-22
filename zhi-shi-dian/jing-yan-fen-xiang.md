@@ -68,6 +68,12 @@
 
 [Android Developer Career Paths](https://goobar.io/2020/01/13/android-developer-career-paths/)
 
+[Android Trends in 2020](https://android.jlelse.eu/android-trends-in-2020-d6a2930596a) 
+
+[Thoughts after two years as an Android Developer](https://medium.com/@bards95/thoughts-after-two-years-as-an-android-developer-d90a27ed00a7)
+
+[How to be an Android Expert: Women Who Code Connect](https://www.slideshare.net/chiuki/how-to-be-an-android-expert-wwcode)
+
 AOSP
 
 [(连载)Android 8.0 : 如何下载和阅读Android源码](https://juejin.im/post/59ec35f8f265da4307026b79)
