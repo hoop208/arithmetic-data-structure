@@ -64,6 +64,10 @@
 
 [用文字记录自己的编程人生](https://github.com/qingmei2/android-programming-profile)
 
+[Hints for Beginners Navigating Around New Code](https://pspdfkit.com/blog/2018/code-navigation-for-beginners/)
+
+[Android Developer Career Paths](https://goobar.io/2020/01/13/android-developer-career-paths/)
+
 AOSP
 
 [(连载)Android 8.0 : 如何下载和阅读Android源码](https://juejin.im/post/59ec35f8f265da4307026b79)
