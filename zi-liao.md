@@ -1,5 +1,7 @@
 # 其它
 
+[程序员学习视频教程汇总](https://mp.weixin.qq.com/s/sNJ8OtSE-bkr-BsuTnsxRQ)
+
 [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062/answer/670441675)
 
 [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
