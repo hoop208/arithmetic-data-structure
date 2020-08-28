@@ -41,6 +41,7 @@
 * [专业方向](zhuan-ye-fang-xiang.md)
   * [IM&消息推送](zhuan-ye-fang-xiang/imxiao-xi-tui-song.md)
   * [Camera](zhuan-ye-fang-xiang/camera.md)
+  * [音视频](zhuan-ye-fang-xiang/yin-shi-pin.md)
   * [图像处理](zhuan-ye-fang-xiang/tu-xiang-chu-li.md)
 * [文档](wen-dang.md)
 * [书籍](shu-ji.md)
