@@ -21,6 +21,11 @@ NDK
 [Android-NDK入门](https://www.imooc.com/learn/411)  
 [Android-NDK进阶](https://www.imooc.com/learn/918)
 
+[NDK开发实战 - 微信公众号二维码检测与识别之实现思路剖析](https://www.bilibili.com/video/BV1J7411E7WL)  
+[NDK开发实战 - 微信公众号二维码检测与识别之算法流程分析](https://www.bilibili.com/video/BV1R7411E7ZW)  
+[NDK开发实战 - 微信公众号二维码检测与识别之手写实现](https://www.bilibili.com/video/BV1e741177xR)
+[NDK开发实战 - 微信公众号二维码检测与识别之如何优化](https://www.bilibili.com/video/BV1p7411w7cW)  
+
 性能优化
 
 [APP性能优化之内存优化](https://www.imooc.com/learn/777)
