@@ -53,6 +53,4 @@
 * [策划](ce-hua.md)
   * [ppt](ce-hua/ppt.md)
 * [美术](mei-zhu.md)
-  * c4d
-* [ps](ps.md)
 
