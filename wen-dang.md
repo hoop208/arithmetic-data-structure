@@ -184,6 +184,35 @@ Jvm:
 
 [极客学院-深入理解 Java 虚拟机](https://wiki.jikexueyuan.com/project/java-vm/)
 
+# u3d
+
+[c语言中文网-unity3d教程](http://c.biancheng.net/unity3d/)
+
+# LUA
+
+[极客学院-lua教程](http://wiki.jikexueyuan.com/project/lua/)
+
+# C#
+
+[易百教程-c#教程](https://www.yiibai.com/csharp/what-is-c-sharp.html)
+
+[菜鸟教程-C# 教程](https://www.runoob.com/csharp/csharp-tutorial.html)
+
+# OPENGL
+
+[极客学院-Android OpenGL ES 开发教程](http://wiki.jikexueyuan.com/project/opengl-es-guide/)
+
+[modern-opengl-tutorial](http://wiki.jikexueyuan.com/project/modern-opengl-tutorial/)
+
+# AXURE
+
+[Axure中文教程](https://www.w3cschool.cn/axurezwjc/)
+
+# SVG
+
+[w3c-SVG 教程](https://www.w3cschool.cn/svg/svg-tutorial.html)
+
+
 
 
 

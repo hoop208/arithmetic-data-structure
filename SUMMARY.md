@@ -49,4 +49,10 @@
 * [文档](wen-dang.md)
 * [书籍](shu-ji.md)
 * [视频教程](shi-pin-jiao-cheng.md)
+* [游戏开发](you-xi-kai-fa.md)
+* [策划](ce-hua.md)
+  * [ppt](ce-hua/ppt.md)
+* [美术](mei-zhu.md)
+  * c4d
+* [ps](ps.md)
 

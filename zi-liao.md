@@ -112,6 +112,32 @@
 
 [Resources for writing modern Java](https://github.com/cxxr/better-java)
 
+# ppt
+
+[那些高大上的PPT背景，都是在哪找的？](https://mp.weixin.qq.com/s/blDeenPsZGUQDTpPf0Vu9Q)
+
+[免费又好用 | 6个免抠去背图片素材库](https://mp.weixin.qq.com/s/qA5b3zO5OlFJHLeqowAXZw)
+
+[墙裂推荐 | 六个小众但特色十足的图片网站](https://mp.weixin.qq.com/s/I9IY6cwSNuIerKzd3nEMtQ)
+
+[有哪些优秀的图片素材网站，却不为大众所知？](https://mp.weixin.qq.com/s/HspGTLG9JAtV5RJkHxPZYw)
+
+[神器分享 | 一站解决你所有的搜图问题](https://mp.weixin.qq.com/s/DkXCV7HQT0_YoMflHCwKqA)
+
+[这里有一份寻找PPT图片素材的网站合集！](https://mp.weixin.qq.com/s/qLK5AclQMqbqYym6N_ktjw)
+
+[超实用的图片素材全攻略](https://mp.weixin.qq.com/s/J_hnJduJkyJasWsZebUmig)
+
+[教你5招，轻松玩转PPT图片素材！](https://mp.weixin.qq.com/s/zrmRCpTSyggRCXVFf67mRA)
+
+[【重磅】告诉你们13个下载免费商用优质素材的好去处！](https://mp.weixin.qq.com/s/B6nt_4BSzMCHnSiPhbFkPQ)
+
+[哪里可以找到免费可商用的PPT视频素材？](https://mp.weixin.qq.com/s/f-StgxMbG4SLNnRiUxPRiw)
+
+[优品ppt](http://www.ypppt.com/jiaocheng/)
+
+
+
 
 
 

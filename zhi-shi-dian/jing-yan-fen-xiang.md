@@ -287,6 +287,103 @@ AOSP
 
 [几款好用的Git GUI客户端工具](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
 
+# 游戏开发
+
+[想要自己做一款游戏，需要学习哪些知识？](https://www.zhihu.com/question/21031559/answer/118128565)
+
+[Unity 学习资源（超全）](https://zhuanlan.zhihu.com/p/29383687)
+
+# 产品
+
+[说说产品经理的兵器和内功](http://www.runoob.com/w3cnote/weapons-and-skills-of-product-manager.html)
+
+[如何学习使用 Axure？](https://www.zhihu.com/question/19892861)
+
+# ppt
+
+[你见过哪些优秀的ppt作品（不包括模版）？](https://www.zhihu.com/question/37734390/answer/374265591)
+
+[为什么公司的 PPT 一般不加动画效果呢？](https://www.zhihu.com/question/33498987/answer/555958611)
+
+[全球最顶尖的PPT设计公司，做出的幻灯片长什么样？](https://zhuanlan.zhihu.com/p/53570772)
+
+[怎样把PPT做得跟动画一样？](https://www.zhihu.com/question/21539458/answer/663731733)
+
+[有没有一个 PPT 技巧让自己觉得人生都亮了？](https://www.zhihu.com/question/21638597/answer/615840416)
+
+[PowerPoint 到底有多厉害？](https://www.zhihu.com/question/27666000/answer/349627873)
+
+[有没有一个 PPT 技巧让自己觉得人生都亮了？](https://www.zhihu.com/question/21638597/answer/544176795)
+
+[教你制作高逼格的技术分享Keynote(PPT)](https://sq.163yun.com/blog/article/162647498361233408)
+
+[有经验的人做PPT时，都有哪些好习惯？](https://mp.weixin.qq.com/s/wVOnmWe5AIq_h2OeL-rvGg)
+
+[做PPT时，掌握这四个好习惯，让你事半功倍！](https://mp.weixin.qq.com/s/RiiXd-Jf_4GgxhMF1nLakA)
+
+[老司机在做PPT前的8个准备工作，让你的效率蹭蹭蹭！](https://mp.weixin.qq.com/s/hKdLebRzxwhxiZXYG0C90Q)
+
+[PPT小白秒变高手，原来还可以这样「偷」招……](https://mp.weixin.qq.com/s/xMuKIVqhPn7LDS13idjYWw)
+
+[为什么PPT做得那么慢？因为你缺这三个利器！](https://mp.weixin.qq.com/s/tlaCa845HR433KalLyMG_g)
+
+[11个神奇的视觉错觉，让你不敢再相信自己的眼睛！](https://mp.weixin.qq.com/s/4I1Xc8tEGXGt87sl5-GSRQ)
+
+# 美术
+
+[20个最佳的Adobe XD教程](http://www.xueui.cn/tutorials/xd/adobe-xd-course.html)
+
+[从零基础如何自学 UI 设计？](https://www.zhihu.com/question/20857524)
+
+[Awesome design tools 好用的设计工具合集](https://github.com/phh95/Awesome-design-tools/blob/master/README.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[有哪些非常完整的 Ps 基础教程？](https://www.zhihu.com/question/36165573/answer/260103907)
+
+# 视频剪辑
+
+[8个免费视频剪辑软件，你，值得拥有。](https://zhuanlan.zhihu.com/p/21879714)
+
+[如何真正学会视频剪辑？](https://www.zhihu.com/question/23247947/answer/124858273)
+
+[剪辑初学者如何开始学习视频剪辑？](https://www.zhihu.com/question/22457234/answer/776523609)
+
+# C4D
+
+[自学C4D，不要错过这些教程](https://zhuanlan.zhihu.com/p/26277569)
+
+[纯干货：C4D完全自学宝典](https://www.zcool.com.cn/article/ZNDcwOTQ4.html)
+
+[C4D为什么突然火了？小白如何快速的入门？](https://www.zhihu.com/question/49877555/answer/173382566)
+
+[如何系统科学地学习C4D？](https://www.zhihu.com/question/37539600/answer/111446037)
+
+# Adobe illustrator
+
+[请问有像李涛的“ps高手之路”一样脉络清晰、讲解到位的Adobe illustrator教程吗？](https://www.zhihu.com/question/34611488/answer/174917815)
+
+[如何用ai或者其他软件绘制这样的图形？](https://www.zhihu.com/question/51317188/answer/608096021)
+
+# AE
+
+[有哪些适合自学的Ae教程？](https://www.zhihu.com/question/21136217)
+
+[自学PR AE 能找到工作吗？](https://www.zhihu.com/question/268291184/answer/337900690)
+
+[有哪些好的AE和PR的中文视频教程值得推荐？](https://www.zhihu.com/question/34471023/answer/82463301)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
