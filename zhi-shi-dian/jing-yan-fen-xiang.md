@@ -371,6 +371,25 @@ AOSP
 
 [有哪些好的AE和PR的中文视频教程值得推荐？](https://www.zhihu.com/question/34471023/answer/82463301)
 
+# Vue
+
+[新手向：Vue 2.0 的建议学习顺序](https://zhuanlan.zhihu.com/p/23134551)
+
+[Vue 和 React 的优点分别是什么？](https://www.zhihu.com/question/301860721/answer/724759264)
+
+[框架用比不用的真正优势？](https://www.zhihu.com/question/267797409/answer/331492222)
+
+# IOS
+
+[iOS 开发怎么入门？](https://www.zhihu.com/question/20264108/answer/30263999)
+
+[iOS 开发怎么入门？](https://www.zhihu.com/question/20264108/answer/48751640)
+
+
+
+
+
+
 
 
 

@@ -207,6 +207,26 @@ IPC
 
 [Adobe After Effects软件基础入门](https://www.imooc.com/learn/932)
 
+# 前端
+
+[分页页码制作](https://www.imooc.com/learn/15)
+
+[商城分类导航效果](https://www.imooc.com/learn/174)
+
+[倒计时效果](https://www.imooc.com/learn/59)
+
+[弹出层效果](https://www.imooc.com/learn/58)
+
+[基于实例的 React16 傻瓜课程](https://www.imooc.com/learn/1045)
+
+[尚硅谷前端HTML5视频教程_自动化构建工具webpack](https://www.bilibili.com/video/av27141684/?p=1) 
+
+
+
+
+
+
+
 
 
 
