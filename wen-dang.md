@@ -24,6 +24,10 @@
 
 [core topics-render script](https://developer.android.google.cn/guide/topics/renderscript/compute)
 
+[databinding](https://developer.android.google.cn/topic/libraries/data-binding)
+
+[core topics-camera](https://developer.android.google.cn/training/camera)
+
 ndk
 
 [极客学院-android ndk开发教程](http://wiki.jikexueyuan.com/project/android-ndk-development-tutorial/)
