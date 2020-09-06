@@ -76,6 +76,8 @@
 
 [快速、简单避免OOM的java处理Excel工具](https://github.com/alibaba/easyexcel)
 
+[An intelligent diff tool for the output of Gradle's dependencies task which always shows the path to the root dependency](https://github.com/JakeWharton/dependency-tree-diff)
+
 # java
 
 学习路线
