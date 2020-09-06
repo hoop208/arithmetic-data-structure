@@ -60,4 +60,5 @@
   * [知识点](qian-duan/zhi-shi-dian.md)
 * [微信小程序](wei-xin-xiao-cheng-xu.md)
 * [移动端跨平台](yi-dong-duan-kua-ping-tai.md)
+* [练习](lian-xi.md)
 
