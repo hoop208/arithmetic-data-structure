@@ -26,6 +26,8 @@ NDK
 [NDK开发实战 - 微信公众号二维码检测与识别之手写实现](https://www.bilibili.com/video/BV1e741177xR)
 [NDK开发实战 - 微信公众号二维码检测与识别之如何优化](https://www.bilibili.com/video/BV1p7411w7cW)  
 
+[JNI — Jesse Wilson](https://www.youtube.com/watch?v=uglvahwOvIM)  
+
 性能优化
 
 [APP性能优化之内存优化](https://www.imooc.com/learn/777)
