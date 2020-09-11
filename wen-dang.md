@@ -28,6 +28,8 @@
 
 [core topics-camera](https://developer.android.google.cn/training/camera)
 
+[依赖注入](https://developer.android.google.cn/training/dependency-injection)
+
 ndk
 
 [极客学院-android ndk开发教程](http://wiki.jikexueyuan.com/project/android-ndk-development-tutorial/)
