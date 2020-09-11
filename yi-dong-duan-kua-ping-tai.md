@@ -18,6 +18,8 @@
 
 [打包和发布到android平台](https://mp.weixin.qq.com/s/WgLB660dv6b2DmV1AExHEw)
 
+[Flutter学习之“相对布局](https://www.jianshu.com/p/d5949186e666?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
