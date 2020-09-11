@@ -20,6 +20,10 @@
 
 [Flutter学习之“相对布局](https://www.jianshu.com/p/d5949186e666?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[flutter开发初体验](https://mp.weixin.qq.com/s/b1o6UPPx-abnRFgmU6Tv4Q)
+
+[Flutter与原生通信的一切](https://mp.weixin.qq.com/s/FL0lXYEj4Z_aWKIiCM8frA)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
