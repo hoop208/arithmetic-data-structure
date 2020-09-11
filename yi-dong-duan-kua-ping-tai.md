@@ -10,6 +10,8 @@
 
 [声明式 UI 介绍](https://mp.weixin.qq.com/s/M30IRYUCsSOwTk8Mh-yGeA)
 
+[向现有应用添加flutter](https://mp.weixin.qq.com/s/DckZviEm6P1cNC1oZBvXKw)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
