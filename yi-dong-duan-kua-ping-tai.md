@@ -22,5 +22,7 @@
 
 [图片实用教程 | 显示网络上的远程图片](https://mp.weixin.qq.com/s/xiaOUf99NeJTs-mHghOW_w)
 
+[Flutter 也可以做这么炫酷的动画](https://mp.weixin.qq.com/s/E1LcBKi23LEv7ojFqo7LEQ)
+
 
 
