@@ -257,6 +257,10 @@ AOSP
 
 [iOS/Android 音视频开发专题](https://mp.weixin.qq.com/s?__biz=MzI0NzI0NDY2OQ==&mid=2652749899&idx=1&sn=3d24f93e2a12f84e91eb9a3496c3a5a0&scene=21#wechat_redirect)
 
+[推荐几个堪称教科书级别的 Android 音视频入门项目](https://mp.weixin.qq.com/s/LpXcK3lF4HlbDfSP7JK3YA)
+
+[音视频开发学习路线](https://mp.weixin.qq.com/s/u1MktZdId94bqoI-3DWosA)
+
 # GO
 
 [系统学习GO，推荐几本靠谱的书?](https://www.zhihu.com/question/30461290/answer/210414739)
