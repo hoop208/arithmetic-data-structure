@@ -6,6 +6,8 @@ Android的设计与实现(京东读书)
 
 京东读书-Android系统源代码情景分析
 
+[Introduction to the Android Graphics Pipeline](https://mathias-garbe.de/files/introduction-android-graphics.pdf)
+
 # 数据结构和算法
 
 算法第四版

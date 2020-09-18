@@ -24,6 +24,8 @@
 
 [Flutter与原生通信的一切](https://mp.weixin.qq.com/s/FL0lXYEj4Z_aWKIiCM8frA)
 
+[爱奇艺 Flutter 跨平台 Hybrid 实践](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843425&idx=1&sn=7f1753b9eb6f4c63140823c5507222cc&scene=19#wechat_redirect)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
