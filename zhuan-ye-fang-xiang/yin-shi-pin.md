@@ -52,6 +52,10 @@
 [Android ffmpeg播放器开发梳理 第零章 基础公共类的封装](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526712&idx=1&sn=050fa18353b1ee22fb137228dd802de3&scene=19#wechat_redirect)  
 [Android ffmpeg播放器开发梳理 第一章 播放器初始化与解复用流程](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526716&idx=1&sn=78c06bd0aa9ca0b35c2aa44b7d2b7f2d&scene=19#wechat_redirect)  
 
+[A Story about FFmpeg on Android. Part I: Compilation](https://proandroiddev.com/a-story-about-ffmpeg-in-android-part-i-compilation-898e4a249422)  
+[A Story about FFmpeg on Android. Part II: Integration.](https://proandroiddev.com/a-story-about-ffmpeg-in-android-part-ii-integration-55fb217251f0)  
+[A Story about FFmpeg on Android. Part III: Extension](https://proandroiddev.com/a-story-about-ffmpeg-on-android-part-iii-extension-71025444896e)  
+
 # ExoPlayer
 
 [Drop-in Android Video — Exoplayer2 with Picture in Picture](https://medium.com/s23nyc-tech/drop-in-android-video-exoplayer2-with-picture-in-picture-e2d4f8c1eb30)
