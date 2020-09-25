@@ -389,6 +389,10 @@ AOSP
 
 [iOS 开发怎么入门？](https://www.zhihu.com/question/20264108/answer/48751640)
 
+# C++
+
+[c++有必要这么复杂吗](https://mp.weixin.qq.com/s/qYbKq-krR_GkBNbHsvbl5Q)
+
 
 
 
