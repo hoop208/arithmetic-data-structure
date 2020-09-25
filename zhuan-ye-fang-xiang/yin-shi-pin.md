@@ -61,7 +61,7 @@
 [【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】三、Android FFmpeg视频解码播放](https://juejin.im/post/5e72f9abe51d4527031386d2)  
 [【Android 音视频开发打怪升级：FFmpeg音视频编解码】四、Android FFmpeg＋OpenSL ES音频解码播放](https://mp.weixin.qq.com/s/EPG8sWZJJa2y3pE2FwDGmw)  
 [【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】五、Android FFmpeg＋OpenGL ES播放视频](https://mp.weixin.qq.com/s/OOK9-hBplEFJxIPhgekIBg)  
-[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】六、FFmpeg 简单合成 MP4 ：视频解封与重新封装](https://mp.weixin.qq.com/s/ONL316cn3nSoM0R5ynmvPg)
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】六、FFmpeg 简单合成 MP4 ：视频解封与重新封装](https://mp.weixin.qq.com/s/ONL316cn3nSoM0R5ynmvPg)  
 
 # ExoPlayer
 
