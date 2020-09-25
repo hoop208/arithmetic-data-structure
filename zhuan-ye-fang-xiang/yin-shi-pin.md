@@ -56,6 +56,13 @@
 [A Story about FFmpeg on Android. Part II: Integration.](https://proandroiddev.com/a-story-about-ffmpeg-in-android-part-ii-integration-55fb217251f0)  
 [A Story about FFmpeg on Android. Part III: Extension](https://proandroiddev.com/a-story-about-ffmpeg-on-android-part-iii-extension-71025444896e)  
 
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】一、FFmpeg so库编译](https://juejin.im/post/5e130df55188253a8b42ebac)  
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】二、Android 引入FFmpeg](https://juejin.im/post/5e40f7eef265da5734023254)  
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】三、Android FFmpeg视频解码播放](https://juejin.im/post/5e72f9abe51d4527031386d2)  
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码】四、Android FFmpeg＋OpenSL ES音频解码播放](https://mp.weixin.qq.com/s/EPG8sWZJJa2y3pE2FwDGmw)  
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】五、Android FFmpeg＋OpenGL ES播放视频](https://mp.weixin.qq.com/s/OOK9-hBplEFJxIPhgekIBg)  
+[【Android 音视频开发打怪升级：FFmpeg音视频编解码篇】六、FFmpeg 简单合成 MP4 ：视频解封与重新封装](https://mp.weixin.qq.com/s/ONL316cn3nSoM0R5ynmvPg)
+
 # ExoPlayer
 
 [Drop-in Android Video — Exoplayer2 with Picture in Picture](https://medium.com/s23nyc-tech/drop-in-android-video-exoplayer2-with-picture-in-picture-e2d4f8c1eb30)
