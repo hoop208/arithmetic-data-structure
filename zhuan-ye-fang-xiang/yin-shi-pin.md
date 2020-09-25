@@ -1,4 +1,4 @@
-# 知识点
+# 知识点[](https://medium.com/androiddevelopers/building-a-video-player-app-in-android-part-4-5-c69f12b49143)
 
 [封装bilibili播放器 , 仿抖音视频播放效果](https://mp.weixin.qq.com/s/a3T6sZhQyxMddjS_JFYgMg)
 
@@ -6,9 +6,11 @@
 
 [一文读懂yuv的采样和格式](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526625&idx=1&sn=117a22b577d0638de92f18149e3602a3&scene=19#wechat_redirect)
 
-[Android mediacodec 硬编码h264文件](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526770&idx=1&sn=25cd744ea471ede99bbbece6f1150237&scene=19#wechat_redirect)
-
 [Deep Understanding of Seek](https://medium.com/@takusemba/deep-understanding-of-seek-4e10079165ec)
+
+[segmentfault-18个音视频开发中会用到的开源项目](https://segmentfault.com/a/1190000013145638)
+
+[音视频开发入门指南](https://blog.51cto.com/ticktick/1956269)
 
 [移动端音视频从零到上手(上)](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526703&idx=1&sn=775ac9ddace134162bcb797fe5718580&scene=19#wechat_redirect)  
 [移动端音视频从零到上手(下)](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526703&idx=2&sn=98a421227f28f87b1889ec36c76a4124&scene=19#wechat_redirect)
@@ -34,6 +36,12 @@
 [十八 讲解音频编解码的原理 演进和技术选型](http://www.52im.net/forum.php?mod=viewthread&tid=2230&mobile=2)  
 [十九 零基础 史上最通俗视频编码技术入门](http://www.52im.net/thread-2840-1-1.html)  
 
+[Building a video player app in Android (Part 1 / 5)](https://medium.com/androiddevelopers/building-a-video-player-app-in-android-part-1-5-d95770ef762d)  
+[Building a video player app in Android (Part 2 / 5)](https://medium.com/androiddevelopers/building-a-video-player-app-in-android-part-2-5-e5a5392879fa)  
+[Building a video player app in Android (Part 3 / 5)](https://medium.com/androiddevelopers/building-a-video-player-app-in-android-part-3-5-19543ea9d416)  
+[Building a video player app in Android (Part 4 / 5)](https://medium.com/androiddevelopers/building-a-video-player-app-in-android-part-4-5-c69f12b49143)  
+[Building a video player app in Android (Part 5 / 5)](https://medium.com/androiddevelopers/building-a-video-player-app-in-android-part-5-5-725c1ec2557a)  
+
 
 # FFMPEG
 
@@ -45,3 +53,11 @@
 # ExoPlayer
 
 [Drop-in Android Video — Exoplayer2 with Picture in Picture](https://medium.com/s23nyc-tech/drop-in-android-video-exoplayer2-with-picture-in-picture-e2d4f8c1eb30)
+
+# 音视频编解码
+
+[Android mediacodec 硬编码h264文件](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526770&idx=1&sn=25cd744ea471ede99bbbece6f1150237&scene=19#wechat_redirect)
+
+[Android MediaCodec 硬编码 H264 文件](https://mp.weixin.qq.com/s/RULqfsd0VMci1JLy0V3bKw)
+
+
