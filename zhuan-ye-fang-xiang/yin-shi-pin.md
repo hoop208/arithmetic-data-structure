@@ -12,6 +12,8 @@
 
 [音视频开发入门指南](https://blog.51cto.com/ticktick/1956269)
 
+[音视频基础概念介绍](https://mp.weixin.qq.com/s/0s9dkRgIxtpMlHAadXRyFA)
+
 [移动端音视频从零到上手(上)](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526703&idx=1&sn=775ac9ddace134162bcb797fe5718580&scene=19#wechat_redirect)  
 [移动端音视频从零到上手(下)](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526703&idx=2&sn=98a421227f28f87b1889ec36c76a4124&scene=19#wechat_redirect)
 
@@ -59,5 +61,10 @@
 [Android mediacodec 硬编码h264文件](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526770&idx=1&sn=25cd744ea471ede99bbbece6f1150237&scene=19#wechat_redirect)
 
 [Android MediaCodec 硬编码 H264 文件](https://mp.weixin.qq.com/s/RULqfsd0VMci1JLy0V3bKw)
+
+[【Android音视频开发打怪升级：音视频硬解码篇】一、音视频基础知识](https://mp.weixin.qq.com/s/NZCd0i3L2ArmOeqRR95OCg)  
+[【Android 音视频开发打怪升级：音视频硬解码篇】二、音视频硬解码流程：封装基础解码框架](https://mp.weixin.qq.com/s/SUHt0PD22WYdhNeSqLt__g)     
+[【Android 音视频开发打怪升级：音视频硬解码篇】三、音视频播放：音视频同步](https://mp.weixin.qq.com/s/J5wgN3d1gUOd7axFBdDx2Q)  
+[【Android 音视频开发打怪升级：音视频硬解码篇】四、音视频解封和封装：生成一个MP4](https://mp.weixin.qq.com/s/vCWo8472TdQ6DJYMBAat4Q)
 
 
