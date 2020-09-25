@@ -297,6 +297,8 @@ Jvm:
 
 [C语言中文网-OpenCV教程：超详细的OpenCV入门教程，值得收藏！](http://c.biancheng.net/opencv/)
 
+[w3c-OpenCV官方文档](https://www.w3cschool.cn/opencv/)
+
 
 
 
