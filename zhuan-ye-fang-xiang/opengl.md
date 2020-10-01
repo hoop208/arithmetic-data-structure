@@ -1,6 +1,24 @@
-[如何理解 OpenGL 中着色器、渲染管线、光栅化等概念？](https://www.zhihu.com/question/29163054/answer/46695506)
+[如何理解 OpenGL 中着色器、渲染管线、光栅化等概念？](https://www.zhihu.com/question/29163054/answer/46695506)[](https://www.androidos.net.cn/doc/android/issue/star-wars-the-force-awakens-or-how-to-crumble-view-into-tiny-pieces-on-android.html)
 
 [可编程渲染管线比固定管线的优势在哪？有什么应用？](https://www.zhihu.com/question/28024422/answer/39097192)
+
+[opengl视频编辑中的转场效果](https://mp.weixin.qq.com/s/OuyU_7ieecjdGyDKTx-iFg)
+
+[星球大战：原力觉醒或者用原力粉碎Android的视图](https://www.androidos.net.cn/doc/android/issue/star-wars-the-force-awakens-or-how-to-crumble-view-into-tiny-pieces-on-android.html)
+
+[我用 OpenGL 实现了那些年流行的相机滤镜](https://mp.weixin.qq.com/s/6ujjsKblu9n83rftJdDfgw)
+
+[你还不知道 OpenGL ES 和 EGL 的关系？](https://mp.weixin.qq.com/s/t4Sszky-uDliq7gITGE-mw)
+
+[Android OpenGL ES 实现 3D 阿凡达效果](https://mp.weixin.qq.com/s/5D7f7HOivmpLmlHxQT0haA)
+
+[Android OpenGLes基础入门知识](https://mp.weixin.qq.com/s/H5wfYuRnITld5O5vgsd-OA)
+
+[OpenGL ES 实现动态（水波纹）涟漪效果](https://mp.weixin.qq.com/s/zHf-OqrpJvoyzoiTSscyRw)
+
+[OpenGL ES 实现瘦身大长腿效果](https://mp.weixin.qq.com/s/ZyPMwuze_CVSvMyk3isyVw)
+
+[我用 OpenGL ES 给小姐姐做了几个抖音滤镜](https://mp.weixin.qq.com/s/Z344_eal4UTRrmUjH-FTfA)
 
 [【Android 音视频开发打怪升级：OpenGL渲染视频画面篇】一、初步了解OpenGL ES](https://mp.weixin.qq.com/s/vwNsFj4S8pEIAzhSBrYv-w)  
 [【Android 音视频开发打怪升级：OpenGL渲染视频画面篇】二、使用OpenGL渲染视频画面](https://mp.weixin.qq.com/s/meN-xlt8mJjLWJ_YufbjXQ)  
