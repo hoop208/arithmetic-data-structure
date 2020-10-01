@@ -28,6 +28,8 @@
 
 [【腾讯Bugly干货分享】WebP原理和Android支持现状介绍](https://zhuanlan.zhihu.com/p/23648251)
 
+[安卓的模糊视图](https://www.androidos.net.cn/doc/day/2019-02-28/14887.html)
+
 阴影
 
 [给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
