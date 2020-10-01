@@ -26,6 +26,8 @@
 
 [Android-图像处理小记](https://www.jianshu.com/p/9f3726a479b6)
 
+[【腾讯Bugly干货分享】WebP原理和Android支持现状介绍](https://zhuanlan.zhihu.com/p/23648251)
+
 阴影
 
 [给控件添加阴影效果与发光效果](https://blog.csdn.net/harvic880925/article/details/51818489)
