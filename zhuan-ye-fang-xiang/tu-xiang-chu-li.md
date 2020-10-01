@@ -66,6 +66,11 @@ svg
 
 [Android使用矢量图（SVG, VectorDrawable）实践篇](https://www.jianshu.com/p/0555b8c1d26a)
 
+# Skia
+
+[Android Skia和2D图形系统](https://www.linuxidc.com/Linux/2011-07/38709.htm)
+
+[Skia图片解析流程与图片编码原理初探](https://zhuanlan.zhihu.com/p/30453831)
 
 
 
