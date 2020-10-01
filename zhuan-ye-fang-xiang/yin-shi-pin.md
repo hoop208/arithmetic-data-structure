@@ -58,7 +58,9 @@
 [Cross Compiling FFmpeg with x264 for Android](https://vinsol.com/blog/2014/07/30/cross-compiling-ffmpeg-with-x264-for-android/)
 
 [FFmpeg 播放器实现音视频同步的三种方式](https://mp.weixin.qq.com/s/RRZAAUV8OZ0ksyhFPJnGEw)  
-[FFmpeg 音视频同步](https://mp.weixin.qq.com/s/PUMyQQmxZhL6SN4JllQcow)
+[FFmpeg 音视频同步](https://mp.weixin.qq.com/s/PUMyQQmxZhL6SN4JllQcow)  
+[NDK FFmpeg 音视频解码](https://mp.weixin.qq.com/s/yaXBQhf4iAYUXq1-2CGW4w)  
+[NDK FFmpeg 编译](https://mp.weixin.qq.com/s/WFt2_Fa2K39UPC4xOMXyxA)  
 
 [Android ffmpeg播放器开发梳理 第零章 基础公共类的封装](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526712&idx=1&sn=050fa18353b1ee22fb137228dd802de3&scene=19#wechat_redirect)  
 [Android ffmpeg播放器开发梳理 第一章 播放器初始化与解复用流程](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526716&idx=1&sn=78c06bd0aa9ca0b35c2aa44b7d2b7f2d&scene=19#wechat_redirect)  
