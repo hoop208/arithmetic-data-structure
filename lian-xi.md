@@ -6,6 +6,8 @@
 
 [Autosizing TextView Tutorial for Android: Getting Started](https://www.raywenderlich.com/7930-autosizing-textview-tutorial-for-android-getting-started#toc-anchor-001)
 
+[Using Dagger in your Android app](https://codelabs.developers.google.com/codelabs/android-dagger/#0)
+
 # Kotlin
 
 [Use Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0) 
