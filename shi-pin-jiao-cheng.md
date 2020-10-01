@@ -18,14 +18,6 @@
 
 [Deep Dive into Android IPC/Binder Framework](https://www.youtube.com/watch?v=Jgampt1DOak)
 
-[Android-NDK入门](https://www.imooc.com/learn/411)  
-[Android-NDK进阶](https://www.imooc.com/learn/918)
-
-[NDK开发实战 - 微信公众号二维码检测与识别之实现思路剖析](https://www.bilibili.com/video/BV1J7411E7WL)  
-[NDK开发实战 - 微信公众号二维码检测与识别之算法流程分析](https://www.bilibili.com/video/BV1R7411E7ZW)  
-[NDK开发实战 - 微信公众号二维码检测与识别之手写实现](https://www.bilibili.com/video/BV1e741177xR)
-[NDK开发实战 - 微信公众号二维码检测与识别之如何优化](https://www.bilibili.com/video/BV1p7411w7cW)  
-
 [JNI — Jesse Wilson](https://www.youtube.com/watch?v=uglvahwOvIM)  
 
 [APP性能优化之内存优化](https://www.imooc.com/learn/777)
@@ -49,11 +41,19 @@
 
 [BAT大牛详解Android面试之Binder机制，祝你成功获得大厂offer！](https://www.bilibili.com/video/BV1vE411j7ZL?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1592178701&unique_k=OQyDVE)
 
-插件化
+[AnDevCon: A Deep Dive into RenderScript](https://www.youtube.com/watch?v=3ynA92x8WQo)
 
 [插件化项目实战上篇](https://b23.tv/Mj8V3e)  
 [插件化项目实战中篇](https://b23.tv/AZVRE6)  
 [插件化项目实战下篇](https://b23.tv/tmZ0ay)
+
+[NDK开发实战 - 微信公众号二维码检测与识别之实现思路剖析](https://www.bilibili.com/video/BV1J7411E7WL)  
+[NDK开发实战 - 微信公众号二维码检测与识别之算法流程分析](https://www.bilibili.com/video/BV1R7411E7ZW)  
+[NDK开发实战 - 微信公众号二维码检测与识别之手写实现](https://www.bilibili.com/video/BV1e741177xR)
+[NDK开发实战 - 微信公众号二维码检测与识别之如何优化](https://www.bilibili.com/video/BV1p7411w7cW)  
+
+[Android-NDK入门](https://www.imooc.com/learn/411)  
+[Android-NDK进阶](https://www.imooc.com/learn/918)
 
 # 算法
 
