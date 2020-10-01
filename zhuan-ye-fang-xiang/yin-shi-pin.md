@@ -57,6 +57,12 @@
 
 [Cross Compiling FFmpeg with x264 for Android](https://vinsol.com/blog/2014/07/30/cross-compiling-ffmpeg-with-x264-for-android/)
 
+[FFmpeg 开发(01)：FFmpeg 编译和集成](https://mp.weixin.qq.com/s/5U6la1GdHf1I0E7Vaa7dIw)  
+[FFmpeg 开发(02)：利用 FFmpeg 和 ANativeWindow 实现视频解码播放](https://mp.weixin.qq.com/s/GQ3PTCnnzsDq7xy5r7qreg)  
+[FFmpeg 开发(03)：FFmpeg + OpenSL ES 实现音频解码播放](https://mp.weixin.qq.com/s/kWBuhjwvBF0NWvAB9P8q9Q)  
+[FFmpeg 开发(04)：FFmpeg + OpenGLES 实现音频可视化播放](https://mp.weixin.qq.com/s/ksWhCpU33l66O1Womguy7A)  
+[FFmpeg + OpenGLES 实现视频解码播放和视频滤镜](https://mp.weixin.qq.com/s?__biz=MzIwNTIwMzAzNg==&mid=2654162883&idx=1&sn=40e6a50ad4ca715dbceaa3782ae2fdc1&chksm=8cf39cf0bb8415e6411b87ed6a0edad423ce2b869399b788815785ea3f0584599a0973c1cf81&scene=21#wechat_redirect)
+
 [FFmpeg 播放器实现音视频同步的三种方式](https://mp.weixin.qq.com/s/RRZAAUV8OZ0ksyhFPJnGEw)  
 [FFmpeg 音视频同步](https://mp.weixin.qq.com/s/PUMyQQmxZhL6SN4JllQcow)  
 [NDK FFmpeg 音视频解码](https://mp.weixin.qq.com/s/yaXBQhf4iAYUXq1-2CGW4w)  
