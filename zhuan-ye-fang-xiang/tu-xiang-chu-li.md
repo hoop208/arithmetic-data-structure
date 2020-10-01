@@ -2,6 +2,12 @@
 
 [逻辑分辨率和物理分辨率到底是什么呀？](https://www.zhihu.com/question/40506180)
 
+[图像与滤波](https://mp.weixin.qq.com/s/jGxU12vocn2ezMs-ZcHd_g)
+
+[一文掌握 YUV 图像的基本处理](https://mp.weixin.qq.com/s/-z8VcAPyBeYJDtcWOhhO7w)  
+
+[图像快速修复技术](https://mp.weixin.qq.com/s/0uxeWS-9-EGUMFDKkLotQg)
+
 # android图像处理
 
 知识点
@@ -29,6 +35,18 @@
 [【腾讯Bugly干货分享】WebP原理和Android支持现状介绍](https://zhuanlan.zhihu.com/p/23648251)
 
 [安卓的模糊视图](https://www.androidos.net.cn/doc/day/2019-02-28/14887.html)
+
+[Android实现图片转字符画效果](https://mp.weixin.qq.com/s/K-PBuTwwTsg2KTNPvQmJCQ)
+
+[Android仿微信 qq 裁剪](https://mp.weixin.qq.com/s/5e1T6m69ehaT5nE1dUfnxg)
+
+[Android图像处理 - 高斯模糊的原理及实现](https://segmentfault.com/a/1190000013261461)
+
+[Android图片压缩加密上传 - JPEG压缩算法解析](https://www.jianshu.com/p/097f4486f3e6)
+
+[尝试在Android中实现PBR管线——基本原理以及直接光照明](https://ragnraok.github.io/try_android_implement_pbr_thery_direct_light.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Android图像处理小记](https://mp.weixin.qq.com/s/Mt9OgTGPAOSRxeAK1QayLg)
 
 阴影
 
