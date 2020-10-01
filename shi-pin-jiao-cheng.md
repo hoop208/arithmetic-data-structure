@@ -43,6 +43,10 @@
 
 [AnDevCon: A Deep Dive into RenderScript](https://www.youtube.com/watch?v=3ynA92x8WQo)
 
+[Single Activity: Why, When, and How (Android Dev Summit '18)](https://www.youtube.com/watch?v=2k8x8V77CrU)
+
+[MCE^3 - Eugenio Marletti, Sebastiano Poggi - Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
+
 [插件化项目实战上篇](https://b23.tv/Mj8V3e)  
 [插件化项目实战中篇](https://b23.tv/AZVRE6)  
 [插件化项目实战下篇](https://b23.tv/tmZ0ay)
