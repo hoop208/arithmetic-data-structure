@@ -14,6 +14,14 @@
 
 [音视频基础概念介绍](https://mp.weixin.qq.com/s/0s9dkRgIxtpMlHAadXRyFA)
 
+[Android音频开发（1）：基础知识](https://zhuanlan.zhihu.com/p/20627525)  
+[Android音频开发（2）：如何采集一帧音频](https://zhuanlan.zhihu.com/p/20642437)  
+[Android音频开发（3）：如何播放一帧音频](https://zhuanlan.zhihu.com/p/20642442)  
+[Android音频开发（4）：如何存储和解析wav文件](https://zhuanlan.zhihu.com/p/20657836)  
+[Android音频开发（5）：音频数据的编解码](https://zhuanlan.zhihu.com/p/20706983)  
+[Android音频开发（6）：使用 OpenSL ES API（上）](https://zhuanlan.zhihu.com/p/20762456)  
+[Android音频开发（7）：使用 OpenSL ES API（下）](https://zhuanlan.zhihu.com/p/20865418)
+
 [移动端音视频从零到上手(上)](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526703&idx=1&sn=775ac9ddace134162bcb797fe5718580&scene=19#wechat_redirect)  
 [移动端音视频从零到上手(下)](https://mp.weixin.qq.com/s?__biz=MzA4MjU1MDk3Ng==&mid=2451526703&idx=2&sn=98a421227f28f87b1889ec36c76a4124&scene=19#wechat_redirect)
 
