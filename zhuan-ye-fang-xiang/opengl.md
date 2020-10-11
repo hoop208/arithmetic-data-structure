@@ -26,3 +26,7 @@
 [【Android 音视频开发打怪升级：OpenGL渲染视频画面篇】四、深入了解OpenGL之EGL](https://mp.weixin.qq.com/s/4Rn5Z54lu3O55c7MK3nNpg)  
 [【Android 音视频开发打怪升级：OpenGL渲染视频画面篇】五、OpenGL FBO数据缓冲区](https://mp.weixin.qq.com/s/64DgS7b7sAhgZE-vyBeeBA)  
 [【Android 音视频开发打怪升级：OpenGL渲染视频画面篇】六、Android音视频硬编码：生成一个MP4](https://mp.weixin.qq.com/s/Mi42zcc_O0RDtl382cKywQ)  
+
+[安卓 OpenGL ES 2.0 完全入门（一）：基本概念和 hello world](https://blog.piasy.com/2016/06/07/Open-gl-es-android-2-part-1/index.html)  
+[安卓 OpenGL ES 2.0 完全入门（二）：矩形、图片、读取显存等](https://blog.piasy.com/2016/06/14/Open-gl-es-android-2-part-2/index.html)  
+[安卓 OpenGL ES 2.0 完全入门（三）：2D 纹理的裁剪、翻转、旋转、缩放](https://blog.piasy.com/2017/10/06/Open-gl-es-android-2-part-3/index.html)  
