@@ -4,6 +4,8 @@
 
 [【计算机科学速成课】[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th?p=1)
 
+[【科普】图片是如何表示的(code.org出品/字幕由二进制学院制作)](https://www.bilibili.com/video/av50612279)
+
 # Android
 
 [okhttp的使用](https://www.imooc.com/learn/764)
