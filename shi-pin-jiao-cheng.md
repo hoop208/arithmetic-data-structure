@@ -8,6 +8,12 @@
 
 [Java的由来，从汇编和C说起](https://www.bilibili.com/video/av53127942)
 
+[arm和x86的区别](https://www.bilibili.com/video/av26154851/)
+
+[【基础 | 油管百万播放量】指针到底是什么？](https://www.bilibili.com/video/av60993628)
+
+[【硬菜 | 油管上百万播放量】一堂课搞懂计算机如何做加法](https://www.bilibili.com/video/av77876583)
+
 # Android
 
 [okhttp的使用](https://www.imooc.com/learn/764)
