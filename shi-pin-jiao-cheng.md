@@ -6,6 +6,8 @@
 
 [【科普】图片是如何表示的(code.org出品/字幕由二进制学院制作)](https://www.bilibili.com/video/av50612279)
 
+[Java的由来，从汇编和C说起](https://www.bilibili.com/video/av53127942)
+
 # Android
 
 [okhttp的使用](https://www.imooc.com/learn/764)
