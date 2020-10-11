@@ -103,6 +103,8 @@
 
 [Android图像处理-变"换"莫测的图像](https://www.imooc.com/learn/343)
 
+[Practical Image Processing in Android](https://www.youtube.com/watch?v=LNNyVVLk-ms)
+
 # Java
 
 [全面解析Java注解](https://www.imooc.com/learn/456)
