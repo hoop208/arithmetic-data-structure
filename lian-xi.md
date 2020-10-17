@@ -11,3 +11,5 @@
 # Kotlin
 
 [Use Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0) 
+
+[Annotation Processing: Supercharge Your Development](https://www.raywenderlich.com/8574679-annotation-processing-supercharge-your-development#toc-anchor-001)
