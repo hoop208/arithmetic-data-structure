@@ -26,7 +26,7 @@
 
 [开源源码阅读工具](https://github.com/CoatiSoftware/Sourcetrail)
 
-[这可能是你见过最好的工程师绘图指北](https://www.bilibili.com/video/BV1pJ411X7Ut)
+[这可能是你见过最好的工程师绘图指北](https://segmentfault.com/a/1190000023490129)
 
 # IDEA
 

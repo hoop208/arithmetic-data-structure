@@ -81,6 +81,8 @@
 
 [（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/BV1os41117Fs?p=1)
 
+[排序算法：希尔排序【图解+代码】](https://www.bilibili.com/video/BV1BK4y1478X?from=search&seid=12619961205079803827)
+
 # 数据结构
 
 [耿宇航Java版数据结构与算法](https://isxxy.com/course/33)
