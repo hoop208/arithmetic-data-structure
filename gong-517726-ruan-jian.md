@@ -28,6 +28,8 @@
 
 [这可能是你见过最好的工程师绘图指北](https://segmentfault.com/a/1190000023490129)
 
+[TranslateMyApp：开源、多平台（Android+iOS）多语言管理工具](https://mp.weixin.qq.com/s/FT0FavocTQHayb6INuLUQg)
+
 # IDEA
 
 [IntelliJ IDEA 乱码解决方案 （项目代码、控制台等）](https://www.cnblogs.com/vhua/p/idea_1.html)
