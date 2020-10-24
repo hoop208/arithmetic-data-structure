@@ -14,6 +14,8 @@
 
 [Testing two consecutive LiveData emissions in Coroutines](https://medium.com/androiddevelopers/testing-two-consecutive-livedata-emissions-in-coroutines-5680b693cbf8)
 
+[Testing ViewModels: The Journey](https://medium.com/android-microsoft/testing-viewmodels-the-journey-c6d7747b316b)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
