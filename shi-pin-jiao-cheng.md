@@ -71,17 +71,19 @@
 
 # 算法
 
-[堆排序演示](https://www.bilibili.com/video/av18980178/)
-
-[堆排序演示视频](https://isxxy.com/play/1389)
+[堆排序演示](https://www.bilibili.com/video/av18980178/)  
+[堆排序演示视频](https://isxxy.com/play/1389)  
+[数据结构排序算法之桶排序演示](https://www.bilibili.com/video/av17940595/)  
 
 [计数算法可视化解读](https://www.bilibili.com/video/av33888999/)
 
-[数据结构排序算法之桶排序演示](https://www.bilibili.com/video/av17940595/)
-
 [（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/BV1os41117Fs?p=1)
 
-[排序算法：希尔排序【图解+代码】](https://www.bilibili.com/video/BV1BK4y1478X?from=search&seid=12619961205079803827)
+[排序算法：希尔排序【图解+代码】](https://www.bilibili.com/video/BV1BK4y1478X?from=search&seid=12619961205079803827)  
+[马士兵说：希尔排序算法-整点儿稍微复杂的](https://www.bilibili.com/video/BV1Pb411s7CN)
+
+[十分钟学会写归并排序](https://www.bilibili.com/video/BV1sE411w7GZ?from=search&seid=16009518329248085328)  
+[排序算法：归并排序【图解+代码](https://www.bilibili.com/video/BV1Pt4y197VZ?from=search&seid=16009518329248085328)  
 
 # 数据结构
 
