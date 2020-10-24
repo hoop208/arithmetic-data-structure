@@ -12,6 +12,8 @@
 
 [What makes Android Apps Testable?](https://www.philosophicalhacker.com/post/what-makes-android-apps-testable/)
 
+[Testing two consecutive LiveData emissions in Coroutines](https://medium.com/androiddevelopers/testing-two-consecutive-livedata-emissions-in-coroutines-5680b693cbf8)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
