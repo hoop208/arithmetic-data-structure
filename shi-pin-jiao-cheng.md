@@ -83,7 +83,8 @@
 [马士兵说：希尔排序算法-整点儿稍微复杂的](https://www.bilibili.com/video/BV1Pb411s7CN)
 
 [十分钟学会写归并排序](https://www.bilibili.com/video/BV1sE411w7GZ?from=search&seid=16009518329248085328)  
-[排序算法：归并排序【图解+代码](https://www.bilibili.com/video/BV1Pt4y197VZ?from=search&seid=16009518329248085328)  
+[排序算法：归并排序【图解+代码](https://www.bilibili.com/video/BV1Pt4y197VZ?from=search&seid=16009518329248085328)   
+[马士兵说：归并排序，java对象排序的默认算法](https://www.bilibili.com/video/BV1yb411p7f1)  
 
 # 数据结构
 

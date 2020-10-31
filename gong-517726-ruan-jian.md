@@ -46,7 +46,7 @@
 
 [EzGif](https://ezgif.com/video-to-gif)
 
-# Sqlite
+# Sqlite[](https://www.cnblogs.com/54chensongxia/p/13236965.html)
 
 [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)
 
@@ -87,6 +87,8 @@
 [Java利器之UML类图详解](https://blog.csdn.net/xiehuimx/article/details/53427452)
 
 [每一个开发人员都应该懂的 UML 规范](https://mp.weixin.qq.com/s/KR2HCcCoIc-gSDLZ69azYw)
+
+[程序员必备画图技能之——时序图](https://www.cnblogs.com/54chensongxia/p/13236965.html)
 
 # Jenkins
 
