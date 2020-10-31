@@ -22,6 +22,8 @@
 
 [Some Resources for Learning how to Test Android Apps](https://www.philosophicalhacker.com/post/some-resources-for-learning-how-to-test-android-apps/)
 
+[Test Driving away Coupling in Activities](https://www.philosophicalhacker.com/post/test-driving-away-coupling-in-activities/)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
