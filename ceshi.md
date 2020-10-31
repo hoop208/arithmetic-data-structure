@@ -28,6 +28,8 @@
 
 [Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
 
+[Android Architecture Components: Testing your ViewModel LiveData](https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
