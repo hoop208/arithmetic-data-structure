@@ -16,6 +16,8 @@
 
 [Testing ViewModels: The Journey](https://medium.com/android-microsoft/testing-viewmodels-the-journey-c6d7747b316b)
 
+[Google I/O 2018 app — Architecture and Testing](https://medium.com/androiddevelopers/google-i-o-2018-app-architecture-and-testing-f546e37fc7eb)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
