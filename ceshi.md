@@ -24,6 +24,8 @@
 
 [Test Driving away Coupling in Activities](https://www.philosophicalhacker.com/post/test-driving-away-coupling-in-activities/)
 
+[Setting up a Jenkins Pipeline for Android Testing](https://www.philosophicalhacker.com/post/setting-up-a-jenkins-pipeline-for-android-testing/)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
