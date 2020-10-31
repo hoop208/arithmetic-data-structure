@@ -20,6 +20,8 @@
 
 [Surface Duo testing tips & tricks](https://devblogs.microsoft.com/surface-duo/surface-duo-testing-tips-tricks/)
 
+[Some Resources for Learning how to Test Android Apps](https://www.philosophicalhacker.com/post/some-resources-for-learning-how-to-test-android-apps/)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
