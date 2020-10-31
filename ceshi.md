@@ -26,6 +26,8 @@
 
 [Setting up a Jenkins Pipeline for Android Testing](https://www.philosophicalhacker.com/post/setting-up-a-jenkins-pipeline-for-android-testing/)
 
+[Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
