@@ -18,6 +18,8 @@
 
 [Google I/O 2018 app — Architecture and Testing](https://medium.com/androiddevelopers/google-i-o-2018-app-architecture-and-testing-f546e37fc7eb)
 
+[Surface Duo testing tips & tricks](https://devblogs.microsoft.com/surface-duo/surface-duo-testing-tips-tricks/)
+
 # Junit
 
 [w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
