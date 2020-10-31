@@ -94,6 +94,8 @@
 
 [如何写好测试用例](https://www.imooc.com/learn/816)
 
+[REST API 接口测试](https://www.imooc.com/learn/1048)
+
 # 数据库
 
 [Redis入门](https://www.imooc.com/learn/839)

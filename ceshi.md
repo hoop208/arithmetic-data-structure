@@ -30,18 +30,6 @@
 
 [Android Architecture Components: Testing your ViewModel LiveData](https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e)
 
-# Junit
-
-[w3c-junit](https://www.w3cschool.cn/junit/fegu1hv3.html)
-
-[JUnit4单元测试入门教程](https://www.jianshu.com/p/7088822e21a3)
-
-[Junit 入门使用教程](https://www.cnblogs.com/ysocean/p/6889906.html)
-
-# 接口测试
-
-[REST API 接口测试](https://www.imooc.com/learn/1048)
-
 # 自动化测试
 
 [Android自动化页面测速在美团的实践](https://tech.meituan.com/2018/07/12/autospeed.html)
