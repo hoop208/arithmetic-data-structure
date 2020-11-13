@@ -38,6 +38,8 @@ rxjava响应式编程(京东读书)
 
 Effective Java
 
+深入理解Java虚拟机（第2版）
+
 
 
 
