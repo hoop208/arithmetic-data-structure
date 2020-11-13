@@ -36,6 +36,8 @@
 
 [Unit testing protected lifecycle methods with Kotlin](https://medium.com/google-developer-experts/unit-testing-activity-lifecycle-4e740f71e68a)
 
+[Unit testing reactive network requests using RESTMock](https://proandroiddev.com/unit-testing-reactive-network-requests-using-restmock-181a5240c661)
+
 [Android单元测试: 首先，从是什么开始](https://chriszou.com/2016/04/13/android-unit-testing-start-from-what.html)  
 [Android单元测试（二）：再来谈谈为什么](https://chriszou.com/2016/04/16/android-unit-testing-about-why.html)  
 [Android单元测试(三)：JUnit单元测试框架的使用](https://chriszou.com/2016/04/18/android-unit-testing-junit.html)  
