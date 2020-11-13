@@ -26,6 +26,8 @@
 
 [如何学会所有的编程语言？](https://www.infoq.cn/article/8STbPDW9M9xVGVc2eVIP)
 
+[八个适合程序员学习新技能的网站](https://mp.weixin.qq.com/s/SjzwGI7TRMuK4lsd7R3agQ)
+
 # Android
 
 [一系列Android进阶文章。持续更新中](https://github.com/SusionSuc/AdvancedAndroid)
