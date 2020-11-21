@@ -1,4 +1,4 @@
-# 知识点
+ # 知识点# 
 
 [软件测试自学指南---从入门到精通](https://blog.csdn.net/xc5683/article/details/9448427)
 
@@ -33,4 +33,20 @@
 # 自动化测试
 
 [Android自动化页面测速在美团的实践](https://tech.meituan.com/2018/07/12/autospeed.html)
+
+# Mock
+
+[Mocking static method in Kotlin](https://medium.com/hackernoon/mocking-static-method-in-kotlin-614df89482ae)
+
+# 压力测试
+
+[Android Monkey 压力测试 介绍](https://www.cnblogs.com/TankXiao/p/4815134.html)
+
+# 自动化测试
+
+[Android 手机自动化测试工具有哪几种？](https://www.zhihu.com/question/19716849)
+
+
+
+
 

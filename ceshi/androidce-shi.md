@@ -2,10 +2,6 @@
 
 [必知必会 | Android 测试相关的方方面面都在这儿](https://blog.csdn.net/lmj623565791/article/details/79623159)
 
-[Android Monkey 压力测试 介绍](https://www.cnblogs.com/TankXiao/p/4815134.html)
-
-[Android 手机自动化测试工具有哪几种？](https://www.zhihu.com/question/19716849)
-
 [在Android Studio中进行单元测试和UI测试](https://www.jianshu.com/p/03118c11c199)
 
 [Android兼容性测试应该怎么做逼格更高呢？](https://mp.weixin.qq.com/s?__biz=MzIzNTYyOTE3NQ==&mid=2247485367&idx=1&sn=47d25a996707eea2068414d91f92d9b9)
@@ -51,8 +47,6 @@
 [Replacing Mocks](https://ryanharter.com/blog/2020/06/replacing-mocks/)
 
 [Data Driven Testing with Kotest](https://proandroiddev.com/data-driven-testing-with-kotlintest-a07ac60e70fc)
-
-[Mocking static method in Kotlin](https://medium.com/hackernoon/mocking-static-method-in-kotlin-614df89482ae)
 
 [Android: Building self-contained, lifecycle aware testable components](https://proandroiddev.com/android-building-self-contained-lifecycle-aware-testable-components-63f25474646f)
 
