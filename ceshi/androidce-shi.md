@@ -52,6 +52,8 @@
 
 [Data Driven Testing with Kotest](https://proandroiddev.com/data-driven-testing-with-kotlintest-a07ac60e70fc)
 
+[Mocking static method in Kotlin](https://medium.com/hackernoon/mocking-static-method-in-kotlin-614df89482ae)
+
 [Android单元测试: 首先，从是什么开始](https://chriszou.com/2016/04/13/android-unit-testing-start-from-what.html)  
 [Android单元测试（二）：再来谈谈为什么](https://chriszou.com/2016/04/16/android-unit-testing-about-why.html)  
 [Android单元测试(三)：JUnit单元测试框架的使用](https://chriszou.com/2016/04/18/android-unit-testing-junit.html)  
