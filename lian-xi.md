@@ -18,4 +18,8 @@
 
 # Flutter
 
-[Flutter Codelabs](https://codelabs.flutter-io.cn/codelabs/first-flutter-app-pt1-cn/index.html#7)
+[编写你的第一个 Flutter App [1/2]](https://codelabs.flutter-io.cn/codelabs/first-flutter-app-pt1-cn/index.html#7)  
+[编写你的第一个 Flutter App [2/2]](https://codelabs.flutter-io.cn/codelabs/first-flutter-app-pt2-cn/index.html#8)  
+
+[MDC Flutter 教程 1：Material 组件基础](https://codelabs.flutter-io.cn/codelabs/mdc-101-flutter-cn/index.html#5)  
+[MDC Flutter 教程 2：Material 组件结构和布局](https://codelabs.flutter-io.cn/codelabs/mdc-102-flutter-cn/index.html#6)
