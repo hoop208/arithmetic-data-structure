@@ -38,6 +38,8 @@
 
 [Mocking static method in Kotlin](https://medium.com/hackernoon/mocking-static-method-in-kotlin-614df89482ae)
 
+[Faking Dagger Injection in Instrumentation Tests](https://amryousef.me/dagger-android-instrumentation)
+
 # 压力测试
 
 [Android Monkey 压力测试 介绍](https://www.cnblogs.com/TankXiao/p/4815134.html)
