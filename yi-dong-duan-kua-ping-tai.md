@@ -40,6 +40,8 @@
 
 [packages的开发和提交](https://mp.weixin.qq.com/s/sDstU5YqwFHzbMxPAfbkvw)
 
+[使用packages](https://mp.weixin.qq.com/s/2Chi4nycsrxcKq2njDg5DQ)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
