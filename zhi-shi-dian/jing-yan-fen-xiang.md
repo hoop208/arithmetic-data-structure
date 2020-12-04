@@ -76,6 +76,8 @@
 
 [How to be an Android Expert: Women Who Code Connect](https://www.slideshare.net/chiuki/how-to-be-an-android-expert-wwcode)
 
+[如何成为Android开发大牛:30+个专业建议](https://mp.weixin.qq.com/s/MW8bQovJkUeIWYeigusvcg)
+
 AOSP
 
 [(连载)Android 8.0 : 如何下载和阅读Android源码](https://juejin.im/post/59ec35f8f265da4307026b79)
