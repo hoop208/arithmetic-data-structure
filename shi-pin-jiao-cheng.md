@@ -163,6 +163,10 @@
 
 [【华中科技大学】计算机图形学 #万琳教授](https://www.bilibili.com/video/BV1V7411k74z?from=search&seid=7538852497558377916)
 
+# Flutter
+
+[Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+
 
 
 
