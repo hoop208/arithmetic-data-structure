@@ -32,6 +32,8 @@
 
 [ume-丰富的flutter调试工具](https://mp.weixin.qq.com/s/9GjXB9Eu-OP3fIjdQWKklg)
 
+[intl插件实现国际化](https://mp.weixin.qq.com/s/K8m3pPpkgkz8o-IOmqVK1A)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
