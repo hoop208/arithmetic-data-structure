@@ -12,6 +12,8 @@
 
 [A curated list of awesome OpenGL libraries, debuggers and resources](https://github.com/eug/awesome-opengl)
 
+[The art of the Shade](https://github.com/radixzz/awesome-glsl)
+
 # OPENGL ES
 
 [你还不知道 OpenGL ES 和 EGL 的关系？](https://mp.weixin.qq.com/s/t4Sszky-uDliq7gITGE-mw)
