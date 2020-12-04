@@ -26,6 +26,8 @@
 
 [爱奇艺 Flutter 跨平台 Hybrid 实践](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843425&idx=1&sn=7f1753b9eb6f4c63140823c5507222cc&scene=19#wechat_redirect)
 
+[国际化及app内切换语言功能](https://mp.weixin.qq.com/s/lA2o9Q6V31_9wlDZ_nvGlg)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
