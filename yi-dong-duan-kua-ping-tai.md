@@ -38,6 +38,8 @@
 
 [不同操作平台的差异和适配](https://mp.weixin.qq.com/s/Ze4m95HeFoUXoP7FLbHcmQ)
 
+[packages的开发和提交](https://mp.weixin.qq.com/s/sDstU5YqwFHzbMxPAfbkvw)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
