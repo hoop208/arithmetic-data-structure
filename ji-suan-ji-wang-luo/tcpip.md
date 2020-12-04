@@ -28,6 +28,8 @@
 
 [tcp为什么要三次握手和四次挥手 握两次手不行吗？](https://mp.weixin.qq.com/s/_iEiqC2txS00lW4uSDq4hw)
 
+[一文彻底搞懂 TCP三次握手、四次挥手过程及原理](https://mp.weixin.qq.com/s/IYopLBVowY8eWDZ0XOQ8IQ)
+
 
 
 
