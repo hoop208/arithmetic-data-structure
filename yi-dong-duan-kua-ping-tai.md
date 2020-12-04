@@ -30,6 +30,8 @@
 
 [pubspec.yaml配置文件详解](https://mp.weixin.qq.com/s/zdPnr0dRMCV6-VbPzWw7nQ)
 
+[ume-丰富的flutter调试工具](https://mp.weixin.qq.com/s/9GjXB9Eu-OP3fIjdQWKklg)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
