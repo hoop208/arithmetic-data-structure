@@ -28,6 +28,8 @@
 
 [国际化及app内切换语言功能](https://mp.weixin.qq.com/s/lA2o9Q6V31_9wlDZ_nvGlg)
 
+[pubspec.yaml配置文件详解](https://mp.weixin.qq.com/s/zdPnr0dRMCV6-VbPzWw7nQ)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
