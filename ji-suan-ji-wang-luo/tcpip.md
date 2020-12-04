@@ -26,6 +26,8 @@
 
 [老生常谈，TCP为啥要三次握手？](https://mp.weixin.qq.com/s/w-8jFYo-oXcCcyyPFvYwOQ)
 
+[tcp为什么要三次握手和四次挥手 握两次手不行吗？](https://mp.weixin.qq.com/s/_iEiqC2txS00lW4uSDq4hw)
+
 
 
 
