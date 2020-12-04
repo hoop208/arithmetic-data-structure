@@ -20,6 +20,7 @@
 
 [tcp/ip基础知识总结](https://mp.weixin.qq.com/s/IqUneS3oQ4SxYoGwl10eFA)
 
+[快读掌握tcp协议](https://mp.weixin.qq.com/s/8jqQj6HpwYH_RydLKgoOCg)
 
 
 
