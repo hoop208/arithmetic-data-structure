@@ -34,6 +34,8 @@
 
 [intl插件实现国际化](https://mp.weixin.qq.com/s/K8m3pPpkgkz8o-IOmqVK1A)
 
+[Android Flutter 内存机制初探](https://mp.weixin.qq.com/s/yQ9e8bUsnmVV85VAYR6msw)
+
 例子
 
 [如何在 Flutter 上创建拥有不同列表项的列表](https://mp.weixin.qq.com/s/XDIDyOts2sNqbMd7cQzzaw)
