@@ -24,6 +24,8 @@
 
 [十五张图了解tcp ip必知必会的十个问题](https://mp.weixin.qq.com/s/n1NooGxL7bNA16QCQ4Iyyw)
 
+[老生常谈，TCP为啥要三次握手？](https://mp.weixin.qq.com/s/w-8jFYo-oXcCcyyPFvYwOQ)
+
 
 
 
