@@ -10,6 +10,8 @@
 
 [我用 OpenGL 实现了那些年流行的相机滤镜](https://mp.weixin.qq.com/s/6ujjsKblu9n83rftJdDfgw)
 
+[A curated list of awesome OpenGL libraries, debuggers and resources](https://github.com/eug/awesome-opengl)
+
 # OPENGL ES
 
 [你还不知道 OpenGL ES 和 EGL 的关系？](https://mp.weixin.qq.com/s/t4Sszky-uDliq7gITGE-mw)
