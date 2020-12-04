@@ -22,6 +22,8 @@
 
 [快读掌握tcp协议](https://mp.weixin.qq.com/s/8jqQj6HpwYH_RydLKgoOCg)
 
+[十五张图了解tcp ip必知必会的十个问题](https://mp.weixin.qq.com/s/n1NooGxL7bNA16QCQ4Iyyw)
+
 
 
 
