@@ -18,6 +18,8 @@
 
 [深入浅出 TCP/IP 协议栈](https://www.cnblogs.com/onepixel/p/7092302.html)
 
+[tcp/ip基础知识总结](https://mp.weixin.qq.com/s/IqUneS3oQ4SxYoGwl10eFA)
+
 
 
 
