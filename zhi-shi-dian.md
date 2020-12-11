@@ -1,5 +1,7 @@
 # 其它
 
+[你们这些奇葩的代码](https://mp.weixin.qq.com/s/EreRd8S8l1wK1Q0ZrLCjsw)
+
 [几种计算机语言的评价](http://www.ruanyifeng.com/blog/2006/03/programming_language_evaluations.html)
 
 [云主机是什么？](http://www.ruanyifeng.com/blog/2010/10/what_is_cloud_hosting.html)
