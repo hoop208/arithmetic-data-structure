@@ -8,6 +8,12 @@
 
 [Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
 
+DNS
+
+[讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
+
 # Websocket
 
 [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)

@@ -10,22 +10,11 @@
 
 [计算机是如何启动的？](http://www.ruanyifeng.com/blog/2013/02/booting.html)
 
-[字符编码笔记：ASCII，Unicode 和 UTF-8](http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html)
-
-[数据类型和Json格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
-
-[关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
-
 [浮点数的二进制表示](http://www.ruanyifeng.com/blog/2010/06/ieee_floating-point_representation.html)
 
 [浮点数的二进制表示学习笔记](https://www.cnblogs.com/jiayouwyhit/p/3148493.html)
 
-[探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/index.html)
-
-[WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
-
 [二进制](https://rkhcy.github.io/2019/03/12/binary/)
-
 
 [计算机的本质是什么？逻辑？数学？](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247485097&idx=1&sn=44522ad79fb9ebf1afa6498ce21f7517)
 
@@ -39,25 +28,19 @@
 
 [弱类型、强类型、动态类型、静态类型语言的区别是什么？](https://www.zhihu.com/question/19918532)
 
-[DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
-
 [漫画：什么是中台？](https://mp.weixin.qq.com/s/_3-QdqKTx_VL_dq2Z_I7AQ)
 
 [一文带你搞懂API网关](https://acoder2013.typlog.io/2019/yi-wen-dai-ni-gao-dong-apiwang-guan-fd536318?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [ARM与X86 CPU架构对比区别](https://www.iteye.com/blog/ihyperwin-1701132)
 
-[JSON 是如何诞生与发展的？](https://mp.weixin.qq.com/s/KwP8jiqMH6scqiYm88jzFg)
-
-[为什么你学不会递归？告别递归，谈谈我的一些经验](https://mp.weixin.qq.com/s/fjL2APVquivPk9rhXX8T-w)
-
-[优秀的代码都是如何分层的？](https://mp.weixin.qq.com/s/OBrpxEG_5cY6aJWjhf9VEQ)
-
 [“RPC好，还是RESTful好？”，这个问题不简单](https://mp.weixin.qq.com/s/rdRe0k4nFYFeZIa_Y6xBKA)
 
-DNS
+# Json
 
-[讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[数据类型和Json格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
+
+[JSON 是如何诞生与发展的？](https://mp.weixin.qq.com/s/KwP8jiqMH6scqiYm88jzFg)
 
 # 正则表达式
 

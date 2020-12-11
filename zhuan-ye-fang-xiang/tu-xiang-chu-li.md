@@ -8,6 +8,10 @@
 
 [图像快速修复技术](https://mp.weixin.qq.com/s/0uxeWS-9-EGUMFDKkLotQg)
 
+[探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/index.html)
+
+[WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
+
 # android图像处理
 
 知识点
