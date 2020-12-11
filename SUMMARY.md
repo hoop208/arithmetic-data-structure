@@ -42,9 +42,6 @@
   * [IM&消息推送](zhuan-ye-fang-xiang/imxiao-xi-tui-song.md)
   * [Camera](zhuan-ye-fang-xiang/camera.md)
   * [音视频](zhuan-ye-fang-xiang/yin-shi-pin.md)
-  * [图像处理](zhuan-ye-fang-xiang/tu-xiang-chu-li.md)
-  * [OpenGl](zhuan-ye-fang-xiang/opengl.md)
-  * [OPENCV](zhuan-ye-fang-xiang/opencv.md)
 * [文档](wen-dang.md)
 * [书籍](shu-ji.md)
 * [视频教程](shi-pin-jiao-cheng.md)
@@ -61,4 +58,7 @@
 * [移动端跨平台](yi-dong-duan-kua-ping-tai.md)
 * [练习](lian-xi.md)
 * [项目学习](xiang-mu-xue-xi.md)
+* [图像处理](tu-xiang-chu-li.md)
+  * [OPENCV](zhuan-ye-fang-xiang/opencv.md)
+  * [OpenGl](zhuan-ye-fang-xiang/opengl.md)
 
