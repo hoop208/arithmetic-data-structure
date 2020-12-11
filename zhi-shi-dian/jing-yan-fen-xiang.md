@@ -397,6 +397,7 @@ AOSP
 
 [c++有必要这么复杂吗](https://mp.weixin.qq.com/s/qYbKq-krR_GkBNbHsvbl5Q)
 
+[c++在嵌入式中表现如何](https://mp.weixin.qq.com/s/i4hMjJ_TjL7Lrx14xX5gNg)
 
 
 
