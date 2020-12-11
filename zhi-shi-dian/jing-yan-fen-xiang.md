@@ -237,7 +237,7 @@ AOSP
 
 [报告，我要学php！[学习资料整理]](https://zhuanlan.zhihu.com/p/21910473)
 
-# 集齐学习
+# 机器学习
 
 [普通程序员如何正确学习人工智能方向的知识？](https://www.zhihu.com/question/51039416/answer/126821822)
 
@@ -398,6 +398,10 @@ AOSP
 [c++有必要这么复杂吗](https://mp.weixin.qq.com/s/qYbKq-krR_GkBNbHsvbl5Q)
 
 [c++在嵌入式中表现如何](https://mp.weixin.qq.com/s/i4hMjJ_TjL7Lrx14xX5gNg)
+
+# Flutter
+
+[自绘引擎时代，为什么 Flutter 能突出重围？](https://mp.weixin.qq.com/s/A1mGjJJkubM4xaKaidIPFA)
 
 
 
