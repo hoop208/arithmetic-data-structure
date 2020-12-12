@@ -1,6 +1,4 @@
-# AndroidStudio
-
-知识点
+# 知识点
 
 [Android SDK环境变量配置(windows和Linux)](https://blog.csdn.net/Rflyee/article/details/8973529)
 
@@ -41,7 +39,7 @@
 
 [When is a Type not a Type? Kotlin in the IDE](https://blog.blundellapps.co.uk/when-is-a-type-not-a-type-kotlin-in-the-ide/)
 
-Profile
+# Profile
 
 [Android Studio 3.0 利用 Android Profiler 测量应用性能](https://juejin.im/post/5b7cbf6f518825430810bcc6)
 
@@ -49,15 +47,17 @@ Profile
 
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
-插件
+# 插件
 
 [Android Studio最全插件整理](https://mp.weixin.qq.com/s/CImUPof04Sjc6oUey3hBRw)
 
 [希望整理Android Studio 最全面的开发插件。](https://github.com/PegasusCharles/Android-Studio-Plugins-cn)
 
-[Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
-
 [Android Studio有哪些非常好用的插件？](https://www.zhihu.com/question/28527388)
 
 [学会编写Android Studio插件 别停留在用的程度了](https://blog.csdn.net/lmj623565791/article/details/51548272)
+
+[Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
+
+
 
