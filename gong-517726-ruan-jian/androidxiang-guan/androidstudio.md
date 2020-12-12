@@ -39,6 +39,8 @@
 
 [Split layouts into subfolders in Android Studio](https://proandroiddev.com/split-layout-into-subfolder-in-android-5bf76f805e90)
 
+[When is a Type not a Type? Kotlin in the IDE](https://blog.blundellapps.co.uk/when-is-a-type-not-a-type-kotlin-in-the-ide/)
+
 Profile
 
 [Android Studio 3.0 利用 Android Profiler 测量应用性能](https://juejin.im/post/5b7cbf6f518825430810bcc6)
