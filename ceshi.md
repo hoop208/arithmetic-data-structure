@@ -12,23 +12,15 @@
 
 [What makes Android Apps Testable?](https://www.philosophicalhacker.com/post/what-makes-android-apps-testable/)
 
-[Testing two consecutive LiveData emissions in Coroutines](https://medium.com/androiddevelopers/testing-two-consecutive-livedata-emissions-in-coroutines-5680b693cbf8)
-
-[Testing ViewModels: The Journey](https://medium.com/android-microsoft/testing-viewmodels-the-journey-c6d7747b316b)
-
 [Google I/O 2018 app — Architecture and Testing](https://medium.com/androiddevelopers/google-i-o-2018-app-architecture-and-testing-f546e37fc7eb)
 
 [Surface Duo testing tips & tricks](https://devblogs.microsoft.com/surface-duo/surface-duo-testing-tips-tricks/)
 
 [Some Resources for Learning how to Test Android Apps](https://www.philosophicalhacker.com/post/some-resources-for-learning-how-to-test-android-apps/)
 
-[Test Driving away Coupling in Activities](https://www.philosophicalhacker.com/post/test-driving-away-coupling-in-activities/)
-
 [Setting up a Jenkins Pipeline for Android Testing](https://www.philosophicalhacker.com/post/setting-up-a-jenkins-pipeline-for-android-testing/)
 
 [Testing common modules](https://blog.kotlin-academy.com/testing-common-modules-66b39d641617)
-
-[Android Architecture Components: Testing your ViewModel LiveData](https://medium.com/exploring-android/android-architecture-components-testing-your-viewmodel-livedata-70177af89c6e)
 
 # 自动化测试
 
