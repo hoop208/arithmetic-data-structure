@@ -42,6 +42,10 @@ Effective Java
 
 深入理解Java虚拟机（第2版）
 
+# 测试
+
+京东读书 Android应用测试指南
+
 
 
 
