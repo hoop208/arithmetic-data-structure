@@ -8,6 +8,8 @@
 
 [优秀的代码都是如何分层的？](https://mp.weixin.qq.com/s/OBrpxEG_5cY6aJWjhf9VEQ)
 
+[The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
+
 [面向接口编程详解（一）——思想基础](https://www.cnblogs.com/leoo2sk/archive/2008/04/10/1146447.html)  
 [面向接口编程详解（二）——编程实例](https://www.cnblogs.com/leoo2sk/archive/2008/04/11/1148236.html)  
 [面向接口编程详解（三）——模式研究](https://www.cnblogs.com/leoo2sk/archive/2008/04/14/1151569.html)  
