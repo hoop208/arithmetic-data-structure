@@ -57,6 +57,8 @@
 
 [MCE^3 - Eugenio Marletti, Sebastiano Poggi - Life Without Fragments](https://www.youtube.com/watch?v=jl1HRiCaAP4)
 
+[Android Jetpack: manage infinite lists with RecyclerView and Paging (Google I/O '18)](https://www.youtube.com/watch?v=BE5bsyGGLf4)
+
 [插件化项目实战上篇](https://b23.tv/Mj8V3e)  
 [插件化项目实战中篇](https://b23.tv/AZVRE6)  
 [插件化项目实战下篇](https://b23.tv/tmZ0ay)
