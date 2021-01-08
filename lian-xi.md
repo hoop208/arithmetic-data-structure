@@ -8,6 +8,8 @@
 
 [Using Dagger in your Android app](https://codelabs.developers.google.com/codelabs/android-dagger/#0)
 
+[Android Paging codelab](http://clmirror.storage.googleapis.com/codelabs/android-paging/index.html?index=..%2F..index#9)
+
 # Kotlin
 
 [Use Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0) 
