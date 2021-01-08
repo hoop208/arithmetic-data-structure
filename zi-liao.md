@@ -198,6 +198,8 @@
 
 [《Flutter实战》电子书 https://book.flutterchina.club](https://github.com/flutterchina/flutter-in-action)
 
+[The Ultimate List Of Flutter Learning Resources (Over 200!)](https://wilsonwilson.dev/flutter-resources/)
+
 # TensorFlow 
 
 [TensorFlow 官方文档中文版发布啦（持续维护）](https://juejin.im/post/5aafa4036fb9a028e33b410a)
