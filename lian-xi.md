@@ -28,6 +28,8 @@
 [MDC Flutter 教程 3：Material 组件主题、形状、阴影和类型](https://codelabs.flutter-io.cn/codelabs/mdc-103-flutter-cn/index.html#9)   
 [MDC Flutter 教程 4：Material 组件进阶](https://codelabs.flutter-io.cn/codelabs/mdc-104-flutter-cn/index.html#9)
 
+[Building Beautiful UIs with Flutter](https://codelabs.flutter-io.cn/codelabs/flutter/index.html#8)
+
 # Dart
 
 [为 Java 开发人员准备的 Dart 教程](https://codelabs.flutter-io.cn/codelabs/from-java-to-dart-cn/index.html#6)
