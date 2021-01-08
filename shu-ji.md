@@ -8,6 +8,8 @@ Android的设计与实现(京东读书)
 
 [Introduction to the Android Graphics Pipeline](https://mathias-garbe.de/files/introduction-android-graphics.pdf)
 
+京东读书-gradle for Android
+
 # 数据结构和算法
 
 算法第四版
