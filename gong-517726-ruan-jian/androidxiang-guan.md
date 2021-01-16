@@ -27,6 +27,8 @@
 
 [Improving App Debugging With Flipper](http://michaelevans.org/blog/2020/03/10/improving-app-debugging-with-flipper/)
 
+[Become a Master Builder with these Android Dev Tools](https://medium.com/over-engineering/become-a-master-builder-with-these-android-dev-tools-1975a3cb6a6e)
+
 
 
 
