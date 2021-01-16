@@ -47,6 +47,10 @@
 
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
+[How to make your own File Templates in Android Studio – Part 1](https://riggaroo.dev/custom-file-templates-android-studio/)  
+[How to create your own Live Templates in Android Studio/IntelliJ – Part 2](https://riggaroo.dev/create-live-templates-android-studio/)  
+[How to create a group of File Templates in Android Studio – Part 3](https://riggaroo.dev/custom-file-template-group-android-studiointellij/)  
+
 # 插件
 
 [Android Studio最全插件整理](https://mp.weixin.qq.com/s/CImUPof04Sjc6oUey3hBRw)
