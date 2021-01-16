@@ -79,6 +79,8 @@
 
 [Building AOSP Platform Apps on Android studio](https://android.jlelse.eu/building-aosp-platform-apps-on-android-studio-fae87d6c370a)
 
+[Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
+
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
