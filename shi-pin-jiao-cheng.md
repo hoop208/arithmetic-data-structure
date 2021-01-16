@@ -165,6 +165,8 @@
 
 [KotlinConf 2017 - Deep Dive into Coroutines on JVM by Roman Elizarov](https://www.youtube.com/watch?v=YrrUCSi72E8)
 
+[在协程和 Flow 使用 LiveData | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1PJ411m7ke)
+
 # OpenGl
 
 [【华中科技大学】计算机图形学 #万琳教授](https://www.bilibili.com/video/BV1V7411k74z?from=search&seid=7538852497558377916)
