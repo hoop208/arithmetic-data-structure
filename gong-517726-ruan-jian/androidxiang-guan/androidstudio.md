@@ -47,6 +47,13 @@
 
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
+[Database Inspector](https://medium.com/androiddevelopers/database-inspector-9e91aa265316)  
+
+[50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.r5l7y44n4)  
+
+[IntelliJ IDEA / Android Studio Tricks: “Save Actions” plugin](https://ivanmorgillo.com/2020/11/13/intellij-idea-android-studio-tricks-save-actions-plugin/)
+
+
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
