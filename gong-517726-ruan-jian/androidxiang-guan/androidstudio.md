@@ -55,6 +55,8 @@
 
 [Layout Inspector in 2020](https://alexzh.com/layout-inspector-in-2020/)
 
+[Android developer — Android Studio plugins and tools](https://medium.com/mobilepeople/android-developer-android-studio-plugins-and-tools-ad686cb3c0df)
+
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
