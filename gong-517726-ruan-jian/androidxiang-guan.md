@@ -25,6 +25,8 @@
 
 [使用全新 Android 模拟器工具进行持续测试](https://mp.weixin.qq.com/s/xAOxfuAySn__nPJlIKQXqA)
 
+[Improving App Debugging With Flipper](http://michaelevans.org/blog/2020/03/10/improving-app-debugging-with-flipper/)
+
 
 
 
