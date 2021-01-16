@@ -77,6 +77,8 @@
 
 [How to resize Icons & Images easily in Android Studio](https://johncodeos.com/how-to-resize-icons-and-images-easily-in-android-studio/)
 
+[Building AOSP Platform Apps on Android studio](https://android.jlelse.eu/building-aosp-platform-apps-on-android-studio-fae87d6c370a)
+
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
