@@ -54,6 +54,14 @@
 [How to create your own Live Templates in Android Studio/IntelliJ – Part 2](https://riggaroo.dev/create-live-templates-android-studio/)  
 [How to create a group of File Templates in Android Studio – Part 3](https://riggaroo.dev/custom-file-template-group-android-studiointellij/)  
 
+[Welcome to my very own Android Studio protip series](https://tips.seebrock3r.me/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286#.h9r3warac)  
+[Analyse a stack trace](https://tips.seebrock3r.me/analyse-a-stack-trace-android-studio-protips-2-7d452056223a#.uz1faqy82)  
+[Analyse data flows without the debugger](https://tips.seebrock3r.me/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.xmr5ez55o)  
+[Use custom viewers for your data](https://tips.seebrock3r.me/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2)  
+[Use tasks to bring the stories to you](https://tips.seebrock3r.me/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0)  
+[Share the settings with the whole team](https://tips.seebrock3r.me/share-the-settings-with-the-whole-team-android-studio-protip-6-3cce16eb2ea4#.r6d18pw9p)  
+[quickly-change-tokens-case](https://tips.seebrock3r.me/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.juunxgy8v)
+
 # 插件
 
 [Android Studio最全插件整理](https://mp.weixin.qq.com/s/CImUPof04Sjc6oUey3hBRw)
