@@ -87,6 +87,8 @@
 
 [Retrofit 2 — Analyze Network Traffic with Android Studio Profiler](https://futurestud.io/tutorials/retrofit-2-analyze-network-traffic-with-android-studio-profiler)
 
+[A smaller, sleeker app using the APK Analyzer](https://genius.engineering/a-smaller-sleeker-apk-using-the-package-analyzer/)
+
 [Important Changes in New Android Studio 4.0](https://proandroiddev.com/important-changes-in-new-android-studio-4-0-82841c7c50b8)
 
 [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
