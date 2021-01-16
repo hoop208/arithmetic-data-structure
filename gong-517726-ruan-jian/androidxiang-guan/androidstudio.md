@@ -65,6 +65,8 @@
 
 [Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/)
 
+[(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.im9teya8w)
+
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
