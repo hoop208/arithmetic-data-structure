@@ -63,6 +63,8 @@
 
 [Analyze Stack Traces in Android Studio](https://segunfamisa.com/posts/analyze-stack-trace-in-android-studio)
 
+[Android Studio Live Templates](https://www.bignerdranch.com/blog/android-studio-live-templates/)
+
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
