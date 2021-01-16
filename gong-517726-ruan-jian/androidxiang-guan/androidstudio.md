@@ -53,6 +53,7 @@
 
 [IntelliJ IDEA / Android Studio Tricks: “Save Actions” plugin](https://ivanmorgillo.com/2020/11/13/intellij-idea-android-studio-tricks-save-actions-plugin/)
 
+[Layout Inspector in 2020](https://alexzh.com/layout-inspector-in-2020/)
 
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
 [Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
