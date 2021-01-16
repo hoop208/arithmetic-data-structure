@@ -39,7 +39,7 @@
 
 [When is a Type not a Type? Kotlin in the IDE](https://blog.blundellapps.co.uk/when-is-a-type-not-a-type-kotlin-in-the-ide/)
 
-# Profile
+[Managing Multiple Apps within a Single Android (Studio) Project](https://medium.com/swlh/managing-multiple-apps-within-a-single-android-studio-project-659eb33f5f0e)
 
 [Android Studio 3.0 利用 Android Profiler 测量应用性能](https://juejin.im/post/5b7cbf6f518825430810bcc6)
 
@@ -58,6 +58,10 @@
 [学会编写Android Studio插件 别停留在用的程度了](https://blog.csdn.net/lmj623565791/article/details/51548272)
 
 [Android File Grouping Plugin](https://github.com/dmytrodanylyk/folding-plugin)
+
+# 自定义lint
+
+[Enforcing Best Practices on Android with Lint](https://medium.com/capital-one-tech/enforcing-best-practices-on-android-with-lint-f9931cd23b28)
 
 
 
