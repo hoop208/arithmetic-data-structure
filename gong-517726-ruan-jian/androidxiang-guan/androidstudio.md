@@ -47,7 +47,8 @@
 
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
-[What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)
+[What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
+[Native Memory Profiling with Android Studio 4.1](https://medium.com/androiddevelopers/native-memory-profiling-with-android-studio-4-1-33a9e6b44be)
 
 [How to make your own File Templates in Android Studio – Part 1](https://riggaroo.dev/custom-file-templates-android-studio/)  
 [How to create your own Live Templates in Android Studio/IntelliJ – Part 2](https://riggaroo.dev/create-live-templates-android-studio/)  
