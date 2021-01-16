@@ -60,7 +60,7 @@
 [Use custom viewers for your data](https://tips.seebrock3r.me/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2)  
 [Use tasks to bring the stories to you](https://tips.seebrock3r.me/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0)  
 [Share the settings with the whole team](https://tips.seebrock3r.me/share-the-settings-with-the-whole-team-android-studio-protip-6-3cce16eb2ea4#.r6d18pw9p)  
-[quickly-change-tokens-case](https://tips.seebrock3r.me/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.juunxgy8v)
+[quickly-change-tokens-case](https://tips.seebrock3r.me/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.juunxgy8v)  
 
 # 插件
 
