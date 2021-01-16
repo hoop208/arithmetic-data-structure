@@ -81,6 +81,8 @@
 
 [How to change your Project Name & Package Name in Android Studio](https://johncodeos.com/how-to-change-your-project-name-package-name-in-android-studio/)
 
+[Android Studio: Layout Inspector](https://proandroiddev.com/android-studio-layout-inspector-4310f0abcdd0)
+
 [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
 
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
