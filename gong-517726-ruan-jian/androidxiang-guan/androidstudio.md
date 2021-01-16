@@ -47,6 +47,8 @@
 
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
+[What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)
+
 [How to make your own File Templates in Android Studio – Part 1](https://riggaroo.dev/custom-file-templates-android-studio/)  
 [How to create your own Live Templates in Android Studio/IntelliJ – Part 2](https://riggaroo.dev/create-live-templates-android-studio/)  
 [How to create a group of File Templates in Android Studio – Part 3](https://riggaroo.dev/custom-file-template-group-android-studiointellij/)  
