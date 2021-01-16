@@ -83,6 +83,8 @@
 
 [Android Studio: Layout Inspector](https://proandroiddev.com/android-studio-layout-inspector-4310f0abcdd0)
 
+[Important Changes in New Android Studio 4.0](https://proandroiddev.com/important-changes-in-new-android-studio-4-0-82841c7c50b8)
+
 [Add custom live templates in Android Studio](https://proandroiddev.com/add-custom-live-templates-in-android-studio-11b59dd0284d)
 
 [What’s new in Android Studio System Trace](https://medium.com/androiddevelopers/whats-new-in-android-studio-system-trace-5841465c5935)  
