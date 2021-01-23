@@ -35,6 +35,8 @@
 
 [是时候让 Android Tools 属性拯救你了 | 开发者说·DTalk](https://mp.weixin.qq.com/s/cMckAwINOB1LD-j5GfjrZQ)
 
+[Android studio 4.1 中design tools的改进](https://mp.weixin.qq.com/s/zu50PWNc9vSnTju9Q-fDSg)
+
 [Split layouts into subfolders in Android Studio](https://proandroiddev.com/split-layout-into-subfolder-in-android-5bf76f805e90)
 
 [When is a Type not a Type? Kotlin in the IDE](https://blog.blundellapps.co.uk/when-is-a-type-not-a-type-kotlin-in-the-ide/)
