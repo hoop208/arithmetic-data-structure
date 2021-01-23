@@ -2,8 +2,6 @@
 
 [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
 
-todo-mvp
-
 [Android Studio使用AndroidJUnitRunner进行单元测试](http://blog.csdn.net/zhuhai__yizhi/article/details/47403723)
 
 [译 使用强大的 Mockito 来测试你的代码](http://www.jianshu.com/p/f6e3ab9719b9)
@@ -14,7 +12,7 @@ todo-mvp
 
 [AndroidMVPSample](https://github.com/WuXiaolong/AndroidMVPSample)
 
-todo-mvp-rxjava
-
 [sqlbrite](https://github.com/square/sqlbrite)
+
+[Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
 
