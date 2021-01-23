@@ -65,6 +65,8 @@
 
 [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://zhuanlan.zhihu.com/p/150449922)
 
+[使用 APK Analyzer 分析你的 APK](https://zhuanlan.zhihu.com/p/26714024)
+
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
 [Database Inspector](https://medium.com/androiddevelopers/database-inspector-9e91aa265316)  
