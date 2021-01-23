@@ -14,5 +14,7 @@
 
 [sqlbrite](https://github.com/square/sqlbrite)
 
-[Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)
+[Designing and Working with Single View States on Android](https://zsmb.co/designing-and-working-with-single-view-states-on-android/)  
+[Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)  
+[Thoughts about Event Handling on Android](https://zsmb.co/thoughts-about-event-handling-on-android/)  
 
