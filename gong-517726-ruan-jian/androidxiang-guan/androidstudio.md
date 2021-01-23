@@ -47,6 +47,8 @@
 
 [Android Studio 3.0 Memory Profiler使用](https://www.jianshu.com/p/e75680772375)
 
+[motioneditor用法详解](https://mp.weixin.qq.com/s/_A-wxa-NcnhxTmdyda73Rg)
+
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
 [Database Inspector](https://medium.com/androiddevelopers/database-inspector-9e91aa265316)  
