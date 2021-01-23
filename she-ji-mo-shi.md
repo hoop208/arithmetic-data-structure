@@ -8,6 +8,8 @@
 
 [优秀的代码都是如何分层的？](https://mp.weixin.qq.com/s/OBrpxEG_5cY6aJWjhf9VEQ)
 
+[google java编码规范](https://mp.weixin.qq.com/s/2Gr35Sl5eatTJKNtbBVw8Q)
+
 [The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
 
 [面向接口编程详解（一）——思想基础](https://www.cnblogs.com/leoo2sk/archive/2008/04/10/1146447.html)  
