@@ -59,6 +59,8 @@
 
 [Android Studio 4.1 的 Dagger 导航更新](https://zhuanlan.zhihu.com/p/270185205)
 
+[Android Studio 4.0+ 中新的 UI 层次结构调试工具](https://zhuanlan.zhihu.com/p/145238588)
+
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
 [Database Inspector](https://medium.com/androiddevelopers/database-inspector-9e91aa265316)  
