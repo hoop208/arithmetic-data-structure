@@ -63,6 +63,8 @@
 
 [[译]Android Studio 3.6 新特性概览](https://mp.weixin.qq.com/s/Xp6bKCq2EnjA6De_SW7u-A)
 
+[使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://zhuanlan.zhihu.com/p/150449922)
+
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
 [Database Inspector](https://medium.com/androiddevelopers/database-inspector-9e91aa265316)  
