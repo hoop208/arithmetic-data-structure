@@ -29,6 +29,8 @@
 
 [Become a Master Builder with these Android Dev Tools](https://medium.com/over-engineering/become-a-master-builder-with-these-android-dev-tools-1975a3cb6a6e)
 
+[ADB用法大全](https://github.com/mzlogin/awesome-adb)
+
 
 
 
