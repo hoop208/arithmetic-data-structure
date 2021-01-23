@@ -49,6 +49,8 @@
 
 [motioneditor用法详解](https://mp.weixin.qq.com/s/_A-wxa-NcnhxTmdyda73Rg)
 
+[学会AS插件 REST Client后就可以丢掉postman了](https://mp.weixin.qq.com/s/Hlq0WmQRl3LOtrL9_Gq0Uw)
+
 [Profiling your app with Android Studio](https://heartbeat.fritz.ai/profiling-your-app-with-android-studio-7accc268cb98)
 
 [Database Inspector](https://medium.com/androiddevelopers/database-inspector-9e91aa265316)  
