@@ -18,3 +18,6 @@
 [Thoughts about State Handling on Android](https://zsmb.co/thoughts-about-state-handling-on-android/)  
 [Thoughts about Event Handling on Android](https://zsmb.co/thoughts-about-event-handling-on-android/)  
 
+[Easy Android Scopes](https://ryanharter.com/blog/easy-android-scopes/)  
+[Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
+
