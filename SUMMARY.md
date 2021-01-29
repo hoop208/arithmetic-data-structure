@@ -11,7 +11,6 @@
   * [java网络编程](ji-suan-ji-wang-luo/javawang-luo-bian-cheng.md)
 * [软件工程](she-ji-mo-shi.md)
   * [java设计模式](she-ji-mo-shi/javashe-ji-mo-shi.md)
-  * [android设计模式](she-ji-mo-shi/androidshe-ji-mo-shi.md)
   * [mvvm](she-ji-mo-shi/mvvm.md)
   * [Android项目框架](she-ji-mo-shi/androidxiang-mu-kuang-jia.md)
     * [组件化](she-ji-mo-shi/androidxiang-mu-kuang-jia/zu-jian-hua.md)
