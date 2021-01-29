@@ -22,6 +22,8 @@
 
 [java代理模式详解](https://mp.weixin.qq.com/s/9fLGoJjLOogGcsifIvr-JQ)
 
+[Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
+
 [Java设计模式透析之 —— 策略(Strategy)](https://blog.csdn.net/guolin_blog/article/details/8986285)  
 [Java设计模式透析之 —— 模板方法(Template Method)](https://blog.csdn.net/guolin_blog/article/details/8744002)   
 [Java设计模式透析之 —— 单例(Singleton)](https://blog.csdn.net/guolin_blog/article/details/8860649)  
