@@ -37,6 +37,8 @@
 
 [BAT大牛详解Android面试之Binder机制，祝你成功获得大厂offer！](https://www.bilibili.com/video/BV1vE411j7ZL?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1592178701&unique_k=OQyDVE)
 
+[Drawn out: How Android renders (Google I/O '18)（36分）](https://www.youtube.com/watch?v=zdQRIYOST64)
+
 [Deep Dive into Android IPC/Binder Framework](https://www.youtube.com/watch?v=Jgampt1DOak)
 
 [JNI — Jesse Wilson](https://www.youtube.com/watch?v=uglvahwOvIM)  
