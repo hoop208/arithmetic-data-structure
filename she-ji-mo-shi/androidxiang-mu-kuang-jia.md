@@ -1,4 +1,4 @@
-# google架构示例
+# 知识点
 
 [MVP+Dagger2+Retrofit实现更清晰的架构](https://blog.csdn.net/tiankong1206/article/details/46486401)
 
@@ -20,4 +20,8 @@
 
 [Easy Android Scopes](https://ryanharter.com/blog/easy-android-scopes/)  
 [Finding the right abstraction (when working with Strings)](https://hannesdorfmann.com/abstraction-text-resource/)
+
+# clean
+
+[使用Clean Architecture模型开发Android应用详细指南](https://www.androidos.net.cn/doc/android/issue/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern.html)
 
