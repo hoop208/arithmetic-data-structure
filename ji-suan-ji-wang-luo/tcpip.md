@@ -34,5 +34,7 @@
 
 [什么是确认重传机制](https://mp.weixin.qq.com/s/1gE9pcpwrc1WtKf4xd4rFA)
 
+[三分钟基础：什么是拥塞控制？](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486586&idx=2&sn=88e9835deb2c1b85ea42b5de13b81e72&scene=21#wechat_redirect)
+
 
 
