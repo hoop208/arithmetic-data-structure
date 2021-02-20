@@ -67,6 +67,8 @@
 
 [WorkManager 进阶课堂 | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1cE411B7T7)
 
+[在 Android 中使用依赖注入 | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1wJ41167Qh)
+
 [插件化项目实战上篇](https://b23.tv/Mj8V3e)  
 [插件化项目实战中篇](https://b23.tv/AZVRE6)  
 [插件化项目实战下篇](https://b23.tv/tmZ0ay)
