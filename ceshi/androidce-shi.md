@@ -6,6 +6,12 @@
 
 [Android兼容性测试应该怎么做逼格更高呢？](https://mp.weixin.qq.com/s?__biz=MzIzNTYyOTE3NQ==&mid=2247485367&idx=1&sn=47d25a996707eea2068414d91f92d9b9)
 
+[Android Studio使用AndroidJUnitRunner进行单元测试](http://blog.csdn.net/zhuhai__yizhi/article/details/47403723)
+
+[译 使用强大的 Mockito 来测试你的代码](http://www.jianshu.com/p/f6e3ab9719b9)
+
+[JUnit + Mockito 单元测试](http://blog.csdn.net/zhangxin09/article/details/42418441)
+
 [android-unit-testing-tutorial](https://github.com/ChrisZou/android-unit-testing-tutorial)
 
 [The Do’s and Don’ts of Writing Test cases in Android.](https://medium.com/mindorks/the-dos-and-don-ts-of-writing-test-cases-in-android-70f1b5dab3e1#.dywbzpl9o)
