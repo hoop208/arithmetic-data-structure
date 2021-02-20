@@ -15,6 +15,7 @@
   * [Android项目框架](she-ji-mo-shi/androidxiang-mu-kuang-jia.md)
     * [组件化](she-ji-mo-shi/androidxiang-mu-kuang-jia/zu-jian-hua.md)
     * [插件化](she-ji-mo-shi/androidxiang-mu-kuang-jia/cha-jian-hua.md)
+  * [Flutter项目架构](she-ji-mo-shi/flutterxiang-mu-jia-gou.md)
 * [知识点](zhi-shi-dian.md)
   * [资料](zi-liao.md)
   * [经验分享](zhi-shi-dian/jing-yan-fen-xiang.md)
