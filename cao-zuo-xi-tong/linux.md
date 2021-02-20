@@ -13,6 +13,8 @@
 
 [Linux是如何收发网络包的](https://mp.weixin.qq.com/s/ISQ2qutpJjYOdtM3taeO_A)
 
+[Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
+
 # 驱动开发
 
 [Linux设备驱动之Ioctl控制](https://www.cnblogs.com/geneil/archive/2011/12/04/2275372.html)
