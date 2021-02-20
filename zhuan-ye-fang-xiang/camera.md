@@ -23,3 +23,5 @@
 [探索 Android 平台的 CameraX](https://mp.weixin.qq.com/s/T-sTKyaiNgoGndHt9kbwmQ)
 
 [Android媒体开发：Camera实践指南](https://www.androidos.net.cn/doc/day/2018-02-18/15363.md)
+
+[摄像头功能开发不再复杂，CameraX 助您轻松打造光影体验](https://zhuanlan.zhihu.com/p/72013778)
