@@ -32,5 +32,7 @@
 
 [一文读懂tcp与udp](https://mp.weixin.qq.com/s/J6hZhof6c6ysmxfUGzf6Tg)
 
+[什么是确认重传机制](https://mp.weixin.qq.com/s/1gE9pcpwrc1WtKf4xd4rFA)
+
 
 
