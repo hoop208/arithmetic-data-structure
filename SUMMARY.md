@@ -18,6 +18,7 @@
 * [知识点](zhi-shi-dian.md)
   * [资料](zi-liao.md)
   * [经验分享](zhi-shi-dian/jing-yan-fen-xiang.md)
+  * [序列化](xu-lie-hua.md)
 * [工具&软件](gong-517726-ruan-jian.md)
   * [android相关](gong-517726-ruan-jian/androidxiang-guan.md)
     * [Android性能优化](gong-517726-ruan-jian/androidxiang-guan/androidxing-neng-you-hua.md)

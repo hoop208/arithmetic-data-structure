@@ -36,12 +36,6 @@
 
 [“RPC好，还是RESTful好？”，这个问题不简单](https://mp.weixin.qq.com/s/rdRe0k4nFYFeZIa_Y6xBKA)
 
-# Json
-
-[数据类型和Json格式](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
-
-[JSON 是如何诞生与发展的？](https://mp.weixin.qq.com/s/KwP8jiqMH6scqiYm88jzFg)
-
 # 正则表达式
 
 文档
