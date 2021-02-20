@@ -37,6 +37,10 @@
 
 [BAT大牛详解Android面试之Binder机制，祝你成功获得大厂offer！](https://www.bilibili.com/video/BV1vE411j7ZL?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1592178701&unique_k=OQyDVE)
 
+[WorkManager 进阶课堂 | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1cE411B7T7)
+
+[在 Android 中使用依赖注入 | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1wJ41167Qh)
+
 [Drawn out: How Android renders (Google I/O '18)（36分）](https://www.youtube.com/watch?v=zdQRIYOST64)
 
 [Deep Dive into Android IPC/Binder Framework](https://www.youtube.com/watch?v=Jgampt1DOak)
@@ -64,10 +68,6 @@
 [Polly McEldowney - Custom Layout Managers for RecyclerView](https://www.youtube.com/watch?v=W55PSgzH6HI)
 
 [Android Jetpack: Manage infinite lists with RecyclerView and Paging (Google I/O '18)](https://www.youtube.com/watch?v=BE5bsyGGLf4)
-
-[WorkManager 进阶课堂 | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1cE411B7T7)
-
-[在 Android 中使用依赖注入 | AndroidDevSummit 中文字幕视频](https://www.bilibili.com/video/BV1wJ41167Qh)
 
 [插件化项目实战上篇](https://b23.tv/Mj8V3e)  
 [插件化项目实战中篇](https://b23.tv/AZVRE6)  
