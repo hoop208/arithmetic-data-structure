@@ -38,6 +38,8 @@
 
 [tcp/ip基础知识总结](https://mp.weixin.qq.com/s/pRTtO6f67GlfL_kOiiShqg)
 
+[简单聊聊 TCP 的可靠性](https://mp.weixin.qq.com/s/OGbZ4rzIQZf6CmDcx_WKOg)
+
 [三分钟基础：什么是拥塞控制？](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486586&idx=2&sn=88e9835deb2c1b85ea42b5de13b81e72&scene=21#wechat_redirect)  
 [三分钟基础：什么是流量控制？](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486593&idx=2&sn=44bcbb94cb0f9011083db8284ceada81&scene=21#wechat_redirect)
 
