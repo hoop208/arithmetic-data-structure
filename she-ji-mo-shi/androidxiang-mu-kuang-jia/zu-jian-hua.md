@@ -47,4 +47,5 @@
 [从0到1实现一个Android路由(2)/URL解析器](https://mp.weixin.qq.com/s/MnL73QFlXrUbdHH1ycCs1g)  
 [从0到1实现一个Android路由(3)-apt收集路由](https://mp.weixin.qq.com/s/5KruGbIGnUeoxzE9HfkGSg)  
 [从0到1实现一个Android路由(4)-多模块的apt收集路由](https://mp.weixin.qq.com/s/0YRegDungc8GzjHN4dPbLQ)  
-[从0到1实现一个Android路由(5)-对kotlin模块的支持](https://mp.weixin.qq.com/s/Hht43YwXYIjmtj-cdtBLZg)
+[从0到1实现一个Android路由(5)-对kotlin模块的支持](https://mp.weixin.qq.com/s/Hht43YwXYIjmtj-cdtBLZg)  
+[从0到1实现一个Android路由(6)-拦截请求再跳转](https://mp.weixin.qq.com/s/60LztPHmGoSXOFZZs14N1Q)  
