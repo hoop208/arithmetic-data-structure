@@ -8,6 +8,8 @@
 
 [Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
 
+[40张图搞懂计算机网络层](https://mp.weixin.qq.com/s/AOY4ZhkRc04r2ZPyZeIN5Q)
+
 DNS
 
 [讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
