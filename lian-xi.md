@@ -35,3 +35,7 @@
 # Dart
 
 [为 Java 开发人员准备的 Dart 教程](https://codelabs.flutter-io.cn/codelabs/from-java-to-dart-cn/index.html#6)
+
+# gradle
+
+[Gradle Tutorial for Android: Getting Started](https://www.raywenderlich.com/249-gradle-tutorial-for-android-getting-started#toc-anchor-004)
