@@ -22,6 +22,8 @@ DNS
 
 [DNS 原理入门](http://www.ruanyifeng.com/blog/2016/06/dns.html)
 
+[dns自述:我是如何为域名找到家的](https://mp.weixin.qq.com/s/2vn6O21eu5XBRnQuMKP2GA)
+
 # Websocket
 
 [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
