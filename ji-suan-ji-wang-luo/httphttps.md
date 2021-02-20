@@ -18,6 +18,8 @@
 
 [图解http简史](https://mp.weixin.qq.com/s/JoHAvOE4rE-ZSBBdtOsKxg)
 
+[你真的了解http吗？](/ https://mp.weixin.qq.com/s/dmDyxGDnzXuAps6Dmw10bg)
+
 # http2
 
 [解密HTTP/2与HTTP/3 的新特性](https://juejin.im/post/5d9abde7e51d4578110dc77f)
