@@ -1,9 +1,5 @@
 # 知识点
 
-[互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
-
-[互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
-
 [什么是SSH 以及常见的ssh 功能](https://blog.csdn.net/u013452337/article/details/80847113)
 
 [Android产品研发（十二）-->App长连接实现](https://blog.csdn.net/qq_23547831/article/details/51690047)
@@ -15,6 +11,11 @@
 [14道计算机网络面试题](https://mp.weixin.qq.com/s/BviNSXlPMg2ywzB7TQ4CQg)
 
 [计算机网络基础知识总结](https://mp.weixin.qq.com/s/4T6VXpOyGnwoJI4T8k38VA)
+
+[你真的懂网络分层模型吗](https://mp.weixin.qq.com/s/FYDPZ62v1t_bSZZ-d2DUzg)
+
+[互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)  
+[互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
 
 DNS
 
