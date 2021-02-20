@@ -16,5 +16,6 @@
 
 [深入理解proto部分原理与工程实践](https://mp.weixin.qq.com/s/fKzZ49YmKawsudGUlbOL3g)
 
+[Protocol Buffers序列化协议及应用](https://worktile.com/tech/share/prototol-buffers)
 
 
