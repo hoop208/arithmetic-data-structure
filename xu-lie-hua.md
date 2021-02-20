@@ -14,5 +14,7 @@
 
 [[译]Protobuf 语法指南](https://colobu.com/2015/01/07/Protobuf-language-guide/)
 
+[深入理解proto部分原理与工程实践](https://mp.weixin.qq.com/s/fKzZ49YmKawsudGUlbOL3g)
+
 
 
