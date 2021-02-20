@@ -14,6 +14,8 @@
 
 [14道计算机网络面试题](https://mp.weixin.qq.com/s/BviNSXlPMg2ywzB7TQ4CQg)
 
+[计算机网络基础知识总结](https://mp.weixin.qq.com/s/4T6VXpOyGnwoJI4T8k38VA)
+
 DNS
 
 [讲讲DNS的原理](https://zhuanlan.zhihu.com/p/79350395?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
