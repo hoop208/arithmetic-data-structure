@@ -33,3 +33,5 @@
 
 [Android组件化之通信（多模块，多进程）](https://www.jianshu.com/p/1fc5f8a2d703?utm_campaign=hugo&utm_medium=reader_share&utm_content=note)
 
+[App组件化与业务拆分那些事](https://mp.weixin.qq.com/s/xqurTW53ciWaTVdZHQQzsg)
+
