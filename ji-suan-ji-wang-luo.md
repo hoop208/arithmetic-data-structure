@@ -29,6 +29,8 @@ DNS
 
 [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 
+[什么是WebSocket，它与HTTP有何不同？](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247484305&idx=1&sn=df434981e616c94f62fc6f44a865375d&chksm=fa80d206cdf75b1032de3f883bae6f57191c9795a6f6bca39d840d449a44eb4130096fc356c4&token=771783635&lang=zh_CN#rd)
+
 # MQTT
 
 [MQTT 入门介绍](https://www.runoob.com/w3cnote/mqtt-intro.html)
