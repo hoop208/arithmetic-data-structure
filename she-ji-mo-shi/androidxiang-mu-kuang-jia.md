@@ -14,6 +14,8 @@
 
 [安居客android APP走向平台化](https://mp.weixin.qq.com/s/E3_aSI9kC_xQZ43A4mQ27Q)
 
+[干货 | 携程 Trip.com App 首页动态化探索](https://mp.weixin.qq.com/s/n2n5rLy79rUeYDgNadlLUA)
+
 [AndroidMVPSample](https://github.com/WuXiaolong/AndroidMVPSample)
 
 [sqlbrite](https://github.com/square/sqlbrite)
