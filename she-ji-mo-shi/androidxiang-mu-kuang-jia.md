@@ -12,6 +12,8 @@
 
 [适用于Android的Flux架构](https://www.androidos.net.cn/doc/day/2018-02-22/14794.html)
 
+[安居客android APP走向平台化](https://mp.weixin.qq.com/s/E3_aSI9kC_xQZ43A4mQ27Q)
+
 [AndroidMVPSample](https://github.com/WuXiaolong/AndroidMVPSample)
 
 [sqlbrite](https://github.com/square/sqlbrite)
