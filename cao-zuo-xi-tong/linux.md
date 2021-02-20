@@ -15,6 +15,8 @@
 
 [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
 
+[凉了！张三同学没答好「进程间通信」，被面试官挂了](https://mp.weixin.qq.com/s/MnIcTR0KKpgnSoA3xaPUSA)
+
 # 驱动开发
 
 [Linux设备驱动之Ioctl控制](https://www.cnblogs.com/geneil/archive/2011/12/04/2275372.html)
