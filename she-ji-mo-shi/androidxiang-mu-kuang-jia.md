@@ -16,6 +16,8 @@
 
 [干货 | 携程 Trip.com App 首页动态化探索](https://mp.weixin.qq.com/s/n2n5rLy79rUeYDgNadlLUA)
 
+[支付宝app架构的原理和实战](https://mp.weixin.qq.com/s/DRcsV-6D66O-RNMr6vVzjw)
+
 [AndroidMVPSample](https://github.com/WuXiaolong/AndroidMVPSample)
 
 [sqlbrite](https://github.com/square/sqlbrite)
