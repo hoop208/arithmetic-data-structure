@@ -44,6 +44,8 @@
 
 [TCP协议可靠性是如何保证 之 滑动窗口，超时重发，序列号确认应答信号](https://mp.weixin.qq.com/s/pkhabqv2salM1MpBTH4D6A)
 
+[TCP：一个悲伤的故事](https://mp.weixin.qq.com/s/djFY6j9K0SCPLxZY1S2Ejw)
+
 [三分钟基础：什么是拥塞控制？](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486586&idx=2&sn=88e9835deb2c1b85ea42b5de13b81e72&scene=21#wechat_redirect)  
 [三分钟基础：什么是流量控制？](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247486593&idx=2&sn=44bcbb94cb0f9011083db8284ceada81&scene=21#wechat_redirect)
 
