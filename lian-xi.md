@@ -12,6 +12,8 @@
 
 [Paging Library for Android With Kotlin: Creating Infinite Lists](https://www.raywenderlich.com/12244218-paging-library-for-android-with-kotlin-creating-infinite-lists#toc-anchor-015)
 
+[Using MotionLayout to Animate Android Apps](https://clmirror.storage.googleapis.com/codelabs/motion-layout/index.html?index=..%2F..index#10)
+
 # Kotlin
 
 [Use Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0) 
