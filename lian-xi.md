@@ -14,6 +14,8 @@
 
 [Using MotionLayout to Animate Android Apps](https://clmirror.storage.googleapis.com/codelabs/motion-layout/index.html?index=..%2F..index#10)
 
+[Android Memory Profiler: Getting Started](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started#toc-anchor-010)
+
 # Kotlin
 
 [Use Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0) 
