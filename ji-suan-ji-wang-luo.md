@@ -16,6 +16,8 @@
 
 [摸清网络的第一步！](https://mp.weixin.qq.com/s/lroONaj5dVM0z7MD7DPE_A)
 
+[探究！一个数据包在网络中的心路历程](https://mp.weixin.qq.com/s/iSZp41SRmh5b2bXIvzemIw)
+
 [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)  
 [互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
 
