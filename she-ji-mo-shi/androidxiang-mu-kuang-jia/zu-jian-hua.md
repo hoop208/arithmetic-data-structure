@@ -43,6 +43,8 @@
 
 [一个简易版ARouter](https://mp.weixin.qq.com/s/s8GYB_ilXFJ7Z7_SewQqpw)
 
+[网易考拉Android客户端路由总线设计](https://mp.weixin.qq.com/s?__biz=MzAxMTg2MjA2OA==&mid=2649843257&idx=1&sn=f467a9d1f901296d195e7a6bd10345a0&scene=19#wechat_redirect)
+
 [从0到1实现一个Android路由(1)-初探路由](https://mp.weixin.qq.com/s/Zzmpo3JQYez40OYlBOzGpw)  
 [从0到1实现一个Android路由(2)/URL解析器](https://mp.weixin.qq.com/s/MnL73QFlXrUbdHH1ycCs1g)  
 [从0到1实现一个Android路由(3)-apt收集路由](https://mp.weixin.qq.com/s/5KruGbIGnUeoxzE9HfkGSg)  
