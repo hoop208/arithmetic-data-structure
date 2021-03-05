@@ -14,8 +14,6 @@
 
 [基于ARouter的Android组件化实现](https://juejin.im/post/5c207bfaf265da61193bd861)
 
-[Android 组件化 —— 路由设计最佳实践](https://www.jianshu.com/p/8a3eeeaf01e8)
-
 [Android组件化模块化在移动应用开发中 （序）](https://juejin.im/post/5e4d2256f265da575918d381#heading-5)  
 [Android一个人的组件化：组件隔离，模块调试](https://juejin.im/post/5e5f2efde51d4526d43f3b99)
 
@@ -40,6 +38,8 @@
 # 路由
 
 [怎样实现路由框架](https://mp.weixin.qq.com/s/VkyCMGVJGgyUl4CP6N9CMA)
+
+[Android 组件化 —— 路由设计最佳实践](https://www.jianshu.com/p/8a3eeeaf01e8)
 
 [Android路由框架router分析](https://mp.weixin.qq.com/s/1UIvoLQ3Pk7H7iQ9J9l_7A)
 
