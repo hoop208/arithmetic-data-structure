@@ -48,4 +48,8 @@
 
 [Android Memory Profiler: Getting Started](https://www.raywenderlich.com/4557771-android-memory-profiler-getting-started#toc-anchor-010)
 
+# 测试
+
+[Android Unit Testing with Mockito](https://www.raywenderlich.com/195-android-unit-testing-with-mockito#toc-anchor-031)
+
 
