@@ -175,6 +175,8 @@
 
 [Android & 协程: 如何使用 Kotlin 管理异步任务](https://www.bilibili.com/video/BV1vv41117kG)
 
+[Marcin Moskała - Understanding Kotlin Coroutines](https://www.youtube.com/watch?v=DOoJnJJnAG4)
+
 # OpenGl
 
 [【华中科技大学】计算机图形学 #万琳教授](https://www.bilibili.com/video/BV1V7411k74z?from=search&seid=7538852497558377916)
