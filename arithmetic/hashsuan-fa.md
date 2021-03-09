@@ -16,6 +16,8 @@
 
 [翻转单词顺序](https://mp.weixin.qq.com/s/m1bDaKAy8vHJxw1rYPfU1w)
 
+[扑克牌中的顺子](https://mp.weixin.qq.com/s/_SSxyHNjFg4bHLw5K1KgsQ)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
