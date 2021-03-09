@@ -12,6 +12,8 @@
 
 [五分钟学算法之「分治算法」三步走](https://mp.weixin.qq.com/s/G7hlvXeW_qNDPOwnIFteug)
 
+[图解霍夫曼编码](https://mp.weixin.qq.com/s/Oqtlh5mOXBgDAa8fGOcu2Q)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
