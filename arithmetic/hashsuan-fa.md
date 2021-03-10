@@ -30,6 +30,8 @@
 
 [字符串模式匹配趣味算法](https://mp.weixin.qq.com/s/xB4lfGawj9uJ2ZiOvtSDFA)
 
+[深入理解动态规划算法——凑整数](https://mp.weixin.qq.com/s/Yqa4OQ6JBw-O_WHP-f6OxQ)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
