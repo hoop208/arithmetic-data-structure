@@ -28,6 +28,8 @@
 
 [带条件的链表翻转](https://mp.weixin.qq.com/s/2PXC4mtzrNVA5i01ImDG3w)
 
+[字符串模式匹配趣味算法](https://mp.weixin.qq.com/s/xB4lfGawj9uJ2ZiOvtSDFA)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
