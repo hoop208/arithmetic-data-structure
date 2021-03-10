@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [算法和数据结构](arithmetic.md)
-  * [排序算法](arithmetic/pai-xu-suan-fa.md)
   * [数据结构](shu-ju-jie-gou.md)
   * [算法](arithmetic/hashsuan-fa.md)
 * [计算机网络](ji-suan-ji-wang-luo.md)
