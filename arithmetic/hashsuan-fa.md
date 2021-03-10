@@ -26,6 +26,8 @@
 
 [如何找到链表的倒数第n个节点](https://mp.weixin.qq.com/s/kKyghET5xmu4PoNPVWsSvQ)
 
+[带条件的链表翻转](https://mp.weixin.qq.com/s/2PXC4mtzrNVA5i01ImDG3w)
+
 # Base64
 
 [base64原理浅析](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589963&idx=1&sn=f9178c624dfec25b6cb33da216ec9648)
