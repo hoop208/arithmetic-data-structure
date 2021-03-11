@@ -54,4 +54,6 @@
 
 [Android Testing Codelab](https://clmirror.storage.googleapis.com/codelabs/android-testing/index.html?index=..%2F..index#10)
 
+[Automated Performance Testing Codelab](https://clmirror.storage.googleapis.com/codelabs/android-perf-testing/index.html?index=..%2F..index#9)
+
 
