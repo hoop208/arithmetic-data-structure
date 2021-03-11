@@ -12,6 +12,8 @@
 
 [The forgotten art of construction](https://proandroiddev.com/the-forgotten-art-of-construction-cfedc368e67f)
 
+[Designing something S.O.L.I.D](https://blog.novoda.com/designing-something-solid/)
+
 [S.O.L.I.D. Principles](https://proandroiddev.com/s-o-l-i-d-principles-60e0f91afa6)  
 [Single Responsibility Principle](https://proandroiddev.com/single-responsibility-principle-f806c88f4003)  
 [Open-Closed Principle](https://proandroiddev.com/open-closed-principle-5100632df310)  
