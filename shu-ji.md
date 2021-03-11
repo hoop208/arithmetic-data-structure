@@ -54,6 +54,8 @@ Effective Java
 
 [kotlin实战](https://panxl6.gitbooks.io/kotlin-in-action-in-chinese/content/introduction.html)
 
+learning concurrent in kotlin
+
 # 其它
 
 [程序员修炼之道](https://www.douban.com/doubanapp/dispatch/book/1152111)
