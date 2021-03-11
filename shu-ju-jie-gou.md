@@ -9,6 +9,12 @@
 
 [位图-数据结构在实际中的应用](https://jiajunhuang.com/tutorial/data_structure/bitmap.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+[用两个栈实现一个队列](https://mp.weixin.qq.com/s/FhSBIG60eNOL5_WXalQbtg)
+
+[简单易懂的哈希表总结](https://mp.weixin.qq.com/s/AgkHMhITtOTf9y3jrrxsfQ)
+
+[图解java中的五大队列](https://mp.weixin.qq.com/s/27MSDRZ82RVS7DTcyVPH1Q)
+
 # 树
 
 二叉树:
