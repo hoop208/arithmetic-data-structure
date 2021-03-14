@@ -9,11 +9,7 @@
 
 [位图-数据结构在实际中的应用](https://jiajunhuang.com/tutorial/data_structure/bitmap.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-[用两个栈实现一个队列](https://mp.weixin.qq.com/s/FhSBIG60eNOL5_WXalQbtg)
-
 [简单易懂的哈希表总结](https://mp.weixin.qq.com/s/AgkHMhITtOTf9y3jrrxsfQ)
-
-[图解java中的五大队列](https://mp.weixin.qq.com/s/27MSDRZ82RVS7DTcyVPH1Q)
 
 # 树
 
@@ -35,6 +31,8 @@
 
 [看动画轻松理解「 堆 」](https://www.cxyxiaowu.com/1943.html)
 
+[大神带你理解堆的定义及用法](https://mp.weixin.qq.com/s/Uk1nG3L8rcN75vQKizVIoA)
+
 红黑树:
 
 [漫画：什么是红黑树？](https://juejin.im/post/5a27c6946fb9a04509096248)
@@ -44,4 +42,16 @@
 [漫画：什么是红黑树？](https://mp.weixin.qq.com/s/E8KTTZHCmr9e0jHO3DosNQ)
 
 [我画了 20 张图，给女朋友讲清楚红黑树](https://mp.weixin.qq.com/s/Un1LuUo4LDQC8Sl-mfg4og)
+
+# 队列
+
+[20张图揭开队列的迷雾](https://mp.weixin.qq.com/s/8mkY9r9lRyxrf1xNeUGofA)
+
+[45张图将18中queue整的明明白白](https://mp.weixin.qq.com/s/XEbcV0MmYITig29qfAEeCA)
+
+[图解java中的五大队列](https://mp.weixin.qq.com/s/27MSDRZ82RVS7DTcyVPH1Q)
+
+[用两个栈实现一个队列](https://mp.weixin.qq.com/s/FhSBIG60eNOL5_WXalQbtg)
+
+
 
